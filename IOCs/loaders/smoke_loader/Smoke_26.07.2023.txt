@@ -1,0 +1,73 @@
+Smoke Loader Exec >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+NOTEABLE INDICATORS >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+C:\Windows\Explorer.EXE
+[INJECTED BY SMOKELOADER]
+"C:\Users\admin\AppData\Local\Temp\618e4050696c3303523e67ccb16660b0.exe" 
+[INJECTOR from AppData.*Temp]
+-----------------------------------------------------------------------------------------------------------------------------------------------
+THREAT HUNTING >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+DeviceProcessEvents
+| where InitiatingProcessFileName =~ "explorer.exe" and (InitiatingProcessParentFolderPath has "AppData\\Local\\Temp" and InitiatingProcessParentFileName endswith ".exe")
+[Detect where explorer is spawned by exe from Local\Temp, likely injection or other suspicious activities]
+DeviceNetworkEvents
+| where InitiatingProcessFileName =~ "explorer.exe"
+| where isnotempty(RemoteUrl) and RemotePort in ("443","80")
+[Rarely normal for explorer.exe to be initiating HTTP(S) connections]
+-----------------------------------------------------------------------------------------------------------------------------------------------
+NOTABLE IOCS >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+explorer.exe, POST, 404, 194.50.153.31:80, http://stalagmijesarl.com/, malicious
+[HTTP REQ from EXPLORER.EXE]
+"C:\Users\admin\AppData\Local\Temp\618e4050696c3303523e67ccb16660b0.exe" 
+[INJECTOR from AppData.*Temp]
+-----------------------------------------------------------------------------------------------------------------------------------------------
+EXTENDED IOCS >
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+NETWORK IOCS >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+IP
+224.0.0.252
+IP
+194.50.153.31
+URL
+http://stalagmijesarl.com/
+DOMAIN
+stalagmijesarl.com
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Other Created Files >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+FILE 1:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Device:DISK_FILE_SYSTEM
+Object:FILE
+Operation:CREATE
+Name:C:\Users\admin\AppData\Roaming\eajwueu
+Status:0x00000000
+Created:CREATED
+Access:READ_CONTROL, SYNCHRONIZE, FILE_WRITE_DATA, FILE_APPEND_DATA, FILE_WRITE_EA, FILE_READ_ATTRIBUTES, FILE_WRITE_ATTRIBUTES
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+FILE 2:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Operation:CREATE
+Device:DISK_FILE_SYSTEM
+Object:FILE
+Name:C:\Users\admin\AppData\Roaming\vfhtujv
+Status:0x00000000
+Created:CREATED
+Access:DELETE, READ_CONTROL, SYNCHRONIZE, FILE_READ_DATA, FILE_WRITE_DATA, FILE_APPEND_DATA, FILE_WRITE_EA, FILE_READ_ATTRIBUTES, FILE_WRITE_ATTRIBUTES
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Main Object >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+SHA256
+2c43ca2ea57631cdd00d46b6d292ca82922c239c1ad400a4714134fed8f2a50e
+SHA1
+681096cc439d07053de0fbcbbef4686f13e5a475
+MD5
+618e4050696c3303523e67ccb16660b0
+-----------------------------------------------------------------------------------------------------------------------------------------------
+EMERGING THREATS >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+ET MALWARE Suspected Smokeloader Activity (POST)
