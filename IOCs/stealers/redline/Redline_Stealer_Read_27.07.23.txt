@@ -1,0 +1,106 @@
+C:\Users\admin\AppData\Local\360Browser\Browser\User Data\
+C:\Users\admin\AppData\Local\7Star\7Star\User Data\
+C:\Users\admin\AppData\Local\Amigo\User\User Data\
+C:\Users\admin\AppData\Local\BraveSoftware\Brave-Browser\User Data\
+C:\Users\admin\AppData\Local\CatalinaGroup\Citrio\User Data\
+C:\Users\admin\AppData\Local\CentBrowser\User Data\
+C:\Users\admin\AppData\Local\Chedot\User Data\
+C:\Users\admin\AppData\Local\Chromium\User Data\
+C:\Users\admin\AppData\Local\Chromodo\User Data\
+C:\Users\admin\AppData\Local\CocCoc\Browser\User Data\
+C:\Users\admin\AppData\Local\Comodo\Dragon\User Data\
+C:\Users\admin\AppData\Local\Coowon\Coowon\User Data\
+C:\Users\admin\AppData\Local\Elements Browser\User Data\
+C:\Users\admin\AppData\Local\Epic Privacy Browser\User Data\
+C:\Users\admin\AppData\Local\Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer\
+C:\Users\admin\AppData\Local\Google\Chrome\User Data\Default\Extension Cookies
+C:\Users\admin\AppData\Local\Google\Chrome\User Data\Default\Login Data
+C:\Users\admin\AppData\Local\Google\Chrome\User Data\Default\Network\Cookies
+C:\Users\admin\AppData\Local\Google\Chrome\User Data\Default\Web Data
+C:\Users\admin\AppData\Local\Google\Chrome\User Data\Local State
+C:\Users\admin\AppData\Local\Iridium\User Data\
+C:\Users\admin\AppData\Local\Kometa\User Data\
+C:\Users\admin\AppData\Local\liebao\User Data\
+C:\Users\admin\AppData\Local\MapleStudio\ChromePlus\User Data\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Autofill\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\AutoLaunchProtocolsComponent\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\BrowserMetrics\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\CertificateRevocation\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Crashpad\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Cookies
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\aeachknmefphepccionboohckonoeemg\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\afbcbjpbpfadlkmhmclhkeeodmamcflc\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\aiifbnbfobpmeekipheeijimdpnlpgpp\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\amkmjjmmflddogmhpjloimipbofnfjih\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\aodkkagnadcbobfpggfnjeongemjbjca\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\bfnaelmomeimhlpmgjnjophhpkkoljpa\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\blnieiiffboillknjnepogjhkgnoapac\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\cgeeodpfagjceefieflmdfphplkenlfk\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\cjelfplplebdjjenllpjcblmjkfcffne\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\dngmlblcodfobpdpecaadgfbcggfjfnm\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\ffnbelfdoeiohenkjibnmadjiehjhajb\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\fhbohimaelbohpjbbldcngcnapndodjp\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\fhilaheimglignddkjgofkcbgekhenbh\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\fihkakfobkmkjojpchpfgcmhfjnmnfpi\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\fnjhmkhhmkbjkkabndcnnogagogbneec\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\fnnegphlobjdpkhecapkijjdkgcjhkib\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\hmeobnfnfcmdkdcmlblgagmfpfboieaf\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\hnfanknocfeofbddgcijnmhnfnkdnaad\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\hpglfhgfnhbgpjdenjgmdgoeiappafln\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\ibnejdfjmmkpcnlpebklmnkoeoihofec\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\jbdaocneiiinmjbjlgalhcelgbejmnid\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\kncchdigobghenbbaddojjnnaogfppfj\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\kpfopkelmapcoipemfendmdcghnegimn\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\lpfcbjknijpeeillifnkikgncikgfhdo\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\mgffkfbidihjpoaomajlbgchddlicgpn\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\nanjmdknhkinifnkgdcggcfnhdaammmj\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\nkddgncdjgjfcddamfgcmfnlhccnimig\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\nlbmnnijcnlegkjjpcfjclmcfggfefdm\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\odbfpeeihdkbihmopkbjmoonfanlbfcl\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\pdadjkfkgcafgbceimcpbkalnfnepbnk\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Login Data
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Default\Network\Cookies
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\EADPData Component\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Edge Kids Mode\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Edge Shopping\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Edge Travel\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Edge Wallet\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\FontLookupTableCache\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\GrShaderCache\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\hyphen-data\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Nurturing\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\OriginTrials\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\RecoveryImproved\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Safe Browsing\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\ShaderCache\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\SmartScreen\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Speech Recognition\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Subresource Filter\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Trust Protection Lists\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\Web Notifications Deny List\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\WidevineCdm\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\WorkspacesNavigationComponent\
+C:\Users\admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\
+C:\Users\admin\AppData\Local\Nichrome\User Data\
+C:\Users\admin\AppData\Local\Orbitum\User Data\
+C:\Users\admin\AppData\Local\QIP Surf\User Data\
+C:\Users\admin\AppData\Local\Sputnik\Sputnik\User Data\
+C:\Users\admin\AppData\Local\Torch\User Data\
+C:\Users\admin\AppData\Local\uCozMedia\Uran\User Data\
+C:\Users\admin\AppData\Local\Vivaldi\User Data\
+C:\Users\admin\AppData\Local\Yandex\YandexBrowser\User Data\
+C:\Users\admin\AppData\Roaming\Discord\Local Storage\leveldb\
+C:\Users\admin\AppData\Roaming\FileZilla\recentservers.xml
+C:\Users\admin\AppData\Roaming\Mozilla\Firefox\Profiles\nltxvmn2.default\cookies.sqlite
+C:\Users\admin\AppData\Roaming\Skype\
+C:\Users\admin\AppData\Roaming\Skype\Content\
+C:\Users\admin\AppData\Roaming\Skype\DataRv\
+C:\Users\admin\AppData\Roaming\Skype\live#3user.name\
+C:\Users\admin\AppData\Roaming\Skype\logs\
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\
+C:\Users\admin\AppData\Roaming\Skype\SkypeRT\
+C:\Users\admin\AppData\Roaming\Telegram Desktop\tdata\
+C:\Users\admin\AppData\Roaming\Thunderbird\
