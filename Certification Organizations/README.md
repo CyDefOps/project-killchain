@@ -29,3 +29,4 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 23.   | [Qualys](https://www.qualys.com/) |
 | 24.   | [Tenable University](https://www.tenable.com/education) |
 | 25.   | [Splunk](https://www.splunk.com/)|
+| 26.   | [ElasticSearch](https://www.elastic.co/)
