@@ -27,4 +27,5 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 21.   | PortSwigger | 
 | 23.   | CISCO |
 | 24.   | NSA NCCP |
+| 25.   | Qualys |
 
