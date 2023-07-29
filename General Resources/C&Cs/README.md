@@ -209,5 +209,5 @@ The repository is being actively maintained and is the latest of all till date w
 
 ### Contributors
 
-- Saad Rizwan
+- Saad Saadat
 - Kamran Saifullah
