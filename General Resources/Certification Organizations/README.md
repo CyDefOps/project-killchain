@@ -35,4 +35,4 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 29.   | [Juniper](https://www.juniper.net/us/en/training.html)|
 | 30.   | [WatchGuard](https://www.watchguard.com/wgrd-training/overview) | 
 | 31.   | [CSI Linux](https://training.csilinux.com/) |
-| 32.   | [HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) |
+| 32.   | [HTB Academy](https://academy.hackthebox.com/) |
