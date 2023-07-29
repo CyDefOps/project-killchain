@@ -28,8 +28,11 @@ This list is actively bein maintained by Project-KillChain community.
 |   20 | LogPoint                             | Paid             | [Link](https://www.logpoint.com/en/)                                                 |
 |   21 | DNIF                                 | Paid             | [Link](https://www.dnif.it/en/)                                                      |
 |   22 | SIEMonster                           | Paid             | [Link](https://siemonster.com/solution/)                                             |
-|   23 | Blumira                              | Paid             | [Link](https://www.blumira.com/)                                                      |
+|   23 | Blumira                              | Paid             | [Link](https://www.blumira.com/)                                                     |
+|   24 | Log360                               | Paid             | [Link](https://www.manageengine.com/log-management/siem-solution-log360.html)                                          |
+|   25 | Paessler Security                    | Paid             | [Link](https://www.paessler.com/prtg)                                                |
 
 ### Contributors
 
 - Soniya Shah Noor
+- Rana Fahad Aman
