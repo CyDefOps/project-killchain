@@ -1,0 +1,213 @@
+Amadey bot exec [win.amadey] on 28.07.2023 >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Commandline Args >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+"C:\Users\admin\AppData\Local\Temp\si684017.exe" -> "C:\Users\admin\AppData\Local\Temp\595f021478\oneetx.exe" -> "C:\Windows\System32\schtasks.exe" 
+/Create /SC MINUTE /MO 1 /TN oneetx.exe /TR "C:\Users\admin\AppData\Local\Temp\595f021478\oneetx.exe" /F
+C:\Users\admin\AppData\Local\Temp\595f021478\oneetx.exe 
+
+The task is set to run at one-minute intervals using the parameters (/SC MINUTE /MO 1). Additionally, the malware utilizes a seemingly random 
+directory path in the Temp folder (595f021478 in this instance) as a tactic to avoid detection and removal.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Spawn Tree
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Spawn Tree: 
+"C:\Users\admin\AppData\Local\Temp\si684017.exe"
+    -> "C:\Users\admin\AppData\Local\Temp\595f021478\oneetx.exe.exe" 
+        -> "C:\Windows\System32\schtasks.exe" /Create /SC MINUTE /MO 1 /TN oneetx.exe /TR "C:\Users\admin\AppData\Local\Temp\595f021478\oneetx.exe" /F
+[SCHTASK-EXEC] 
+C:\Users\admin\AppData\Local\Temp\50c1695437\rovwer.exe 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Explicit Regex Patterns >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+(?i)schtasks(\.exe)?.\s\/Create.*?MINUTE\s\/MO\s1.*\\AppData\\Local\\Temp\\\w{10}\\.*?\.exe.\s\/F
+[Schtaks creation for oneetx.exe proc, polling using native facilities]
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Detection Engineering >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+"C:\Users\admin\AppData\Local\Temp\si684017.exe"
+    -> "C:\Users\admin\AppData\Local\Temp\595f021478\oneetx.exe.exe"
+[Easy to observe, parent process (in local\temp) spawning a PE in a subdir in temp]
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Notable IOCs >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+IP
+77.91.124.207 (C2)
+38cdabe18a8fe52499bd387b7b3bd328d3927805be5b61d2971245a11851c78f
+-----------------------------------------------------------------------------------------------------------------------------------------------
+EXTENDED IOCS >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+NETWORK IOCS >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+HTTP/HTTPS Requests
+http://77.91.124.207/plays/chapter/Plugins/clip.dll
+http://77.91.124.207/plays/chapter/index.php
+http://77.91.124.207/plays/chapter/Plugins/clip.dll
+
+IP
+77.91.124.207
+224.0.0.252
+
+SHA256
+38cdabe18a8fe52499bd387b7b3bd328d3927805be5b61d2971245a11851c78f
+-----------------------------------------------------------------------------------------------------------------------------------------------
+DROPPED PES >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+SHA256: 38cdabe18a8fe52499bd387b7b3bd328d3927805be5b61d2971245a11851c78f
+SSDeep: 3072:Iirj6QA6XZcVA7DDMlbJ1j8WyLsLP829t5vs/WC/W8JCQbu2mSLT/C5Okf:IiG6Euvg7gWyLUP59tKtb17bvBy
+C:\Users\admin\AppData\Local\Temp\595f021478\oneetx.exe
+-----------------------------------------------------------------------------------------------------------------------------------------------
+MAIN >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+File info:	PE32 executable (GUI) Intel 80386, for MS Windows
+MD5:	
+b0ec0839deeec888969ebc4cf6d8a378
+SHA1:	
+ad6e84b5091c001b58fc89c1c9dd44234da62f32
+SHA256:	
+38cdabe18a8fe52499bd387b7b3bd328d3927805be5b61d2971245a11851c78f
+SSDEEP:	
+3072:Iirj6QA6XZcVA7DDMlbJ1j8WyLsLP829t5vs/WC/W8JCQbu2mSLT/C5Okf:IiG6Euvg7gWyLUP59tKtb17bvBy
+-----------------------------------------------------------------------------------------------------------------------------------------------
+EMERGING THREATS >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+AV POLICY HTTP request for .dll file with no User-Agent
+ET INFO Dotted Quad Host DLL Request
+AV POLICY HTTP request for .dll file with no User-Agent
+ET INFO Dotted Quad Host DLL Request
+AV POLICY HTTP request for .dll file with no User-Agent
+ET INFO Dotted Quad Host DLL Request
+AV TROJAN Agent.DHOA System Info Exfiltration
+ET MALWARE Win32/Amadey Bot Activity (POST) M2
+ET MALWARE Amadey CnC Check-In
+------------------------------------------------------------------------------------------------------------------------------------------------
+C2 CONFIG >
+------------------------------------------------------------------------------------------------------------------------------------------------
+{
+  "C2": [
+          "http://77.91.124.207"
+  ],
+  "Version": "3.70",
+  "Options": {
+          "Drop directory": "595f021478",
+          "Drop name": "oneetx.exe"
+  },
+  "Strings": [
+          "SCHTASKS",
+          "/Create /SC MINUTE /MO 1 /TN ",
+          " /TR \"",
+          "\" /F",
+          "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunOnce",
+          "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders",
+          "Startup",
+          "Rem",
+          "cmd /C RMDIR /s/q ",
+          "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+          "rundll32 ",
+          " /Delete /TN \"",
+          "Programs",
+          "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+          "%USERPROFILE%",
+          "\\App",
+          "POST",
+          "GET",
+          "id=",
+          "&vs=",
+          "&sd=",
+          "&os=",
+          "&bi=",
+          "&ar=",
+          "&pc=",
+          "&un=",
+          "&dm=",
+          "&av=",
+          "&lv=",
+          "&og=",
+          "cred.dll|clip.dll|",
+          "d1",
+          "e1",
+          "e0",
+          "Main",
+          "http://",
+          "https://",
+          "exe",
+          "dll",
+          "cmd",
+          "ps1",
+          "<c>",
+          "<d>",
+          "Plugins/",
+          "+++",
+          "#",
+          "|",
+          "&unit=",
+          "=",
+          "shell32.dll",
+          "kernel32.dll",
+          "GetNativeSystemInfo",
+          "ProgramData\\",
+          "AVAST Software",
+          "Avira",
+          "Kaspersky Lab",
+          "ESET",
+          "Panda Security",
+          "Doctor Web",
+          "AVG",
+          "360TotalSecurity",
+          "Bitdefender",
+          "Norton",
+          "Sophos",
+          "Comodo",
+          "WinDefender",
+          "0123456789",
+          "rb",
+          "wb",
+          "Content-Type: multipart/form-data; boundary=----",
+          "------",
+          "\r\nContent-Disposition: form-data; name=\"data\"; filename=\"",
+          "\"\r\nContent-Type: application/octet-stream\r\n\r\n",
+          "\r\n------",
+          "--\r\n",
+          "?scr=1",
+          ".jpg",
+          "Content-Type: application/x-www-form-urlencoded",
+          "SYSTEM\\CurrentControlSet\\Control\\ComputerName\\ComputerName",
+          "ComputerName",
+          "abcdefghijklmnopqrstuvwxyz0123456789-_",
+          "-unicode-",
+          "SYSTEM\\CurrentControlSet\\Control\\UnitedVideo\\CONTROL\\VIDEO\\",
+          "SYSTEM\\ControlSet001\\Services\\BasicDisplay\\Video",
+          "VideoID",
+          "\\0000",
+          "DefaultSettings.XResolution",
+          "DefaultSettings.YResolution",
+          "SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion",
+          "ProductName",
+          "2019",
+          "2022",
+          "2016",
+          "CurrentBuild",
+          "&&",
+          "echo Y|CACLS \"",
+          "\" /P \"",
+          ":N\"",
+          "CACLS \"",
+          "\" /P \"",
+          ":R\" /E",
+          ":F\" /E",
+          "&&Exit",
+          "..\\",
+          "\\",
+          ":::",
+          "rundll32.exe",
+          "/k ",
+          "\"taskkill /f /im \"",
+          "\" && timeout 1 && del ",
+          "&& Exit\"",
+          "\" && ren ",
+          " && ",
+          "Powershell.exe",
+          "-executionpolicy remotesigned -File \"",
+          "\""
+  ]
+}
