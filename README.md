@@ -36,8 +36,8 @@
 6. [Research](#research)
 7. [Scripts](#scripts)
    	- [Web-Security]
-   	  	- [DNS]
-   	  	- [Postman]
+   	  	- [DNS](#dns)
+   	  	- [Postman](#postman)
 9. [Project Killchain Team](#project-killchain-team)
 
 # Contributions
