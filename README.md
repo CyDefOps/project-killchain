@@ -61,7 +61,11 @@ The IOC Database of Project Killchain is a rich repository of Indicators of Comp
 
 As well as heuristic behavioural patterns, are used to detect and analyze malicious network or system activities linked to known threat actors or campaigns.
 
-  
+
+<img width="490" alt="image" src="https://github.com/CyDefOps/project-killchain/assets/110534650/b78342e2-257d-4002-a575-3c7a25ea56d6">
+
+
+<sub>Snap of Amadey IOC dump: 01 Aug 23</sub>
 
 By cross-referencing system or network activities with this database, quick detection and response to threats are facilitated. Constantly updated to tackle evolving threats, this IOC Database is key to understanding threat actors' techniques.
 
