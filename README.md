@@ -129,7 +129,7 @@ The Threat Hunting Repository in Project Killchain serves as a structured collec
 The aim of the Threat Hunting Repository is to equip security teams with the necessary resources to proactively find, isolate, and neutralize threats before they result in a security breach.
 
 
-# [Research](https://github.com/CyDefOps/project-killchain/tree/main/Research "PKC Research Repo)
+# [Research](https://github.com/CyDefOps/project-killchain/tree/main/Research "PKC Research Repo")
 
 The Research Repository in Project Killchain acts as the releases of curated intelligence from the Cyber Defence Operations (cydefops.com) team. 
 
