@@ -1,0 +1,4 @@
+// Project Killchain [$HELLS]: Abnormal Scheduled Task Creation (.exe via TEMP) common for stealer malware
+// See iocs/stealers for more information (github.com/CyDefOps/project-killchain/tree/main/IOCs/stealers)
+DeviceProcessEvents
+| where InitiatingProcessCommandline matches regex @'(?i)schtasks(\.exe)?.*\/Create\s\/SC\sMINUTE\s\/MO\s[1-5]\s\/TN.*?\.exe\s\/TR.*?AppData\\Local\\Temp\\\w{10}\\.*?\.exe'
