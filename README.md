@@ -161,6 +161,11 @@ This repository contains scripts for various aspects of web security, aiding in 
 
 This folder contains scripts for handling DNS-related security tasks, including monitoring DNS traffic, conducting reconnaissance, and improving DNS configuration security.
 
+<img width="505" alt="image" src="https://github.com/CyDefOps/project-killchain/assets/110534650/96a424e9-d87f-4fb0-968e-0819bcffebbf">
+
+
+<sub>LazyDNS, by Kamran Saifullah</sub>
+
 ### [Postman]("https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security/Postman", "PKC Web-Security Postman, Scripts Repo")
 
 Here you'll find scripts geared towards Postman, useful for automating API testing, managing mock servers, and enhancing the overall efficiency of API development.
