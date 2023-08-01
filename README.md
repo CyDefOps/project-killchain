@@ -133,6 +133,9 @@ The aim of the Threat Hunting Repository is to equip security teams with the nec
 
 The Research Repository in Project Killchain acts as the releases of curated intelligence from the Cyber Defence Operations (cydefops.com) team. 
 
+<img width="632" alt="image" src="https://github.com/CyDefOps/project-killchain/assets/110534650/7ee2781b-9590-4029-aa48-3660de83c145">
+<sub>Deconstructing Deception - cl0p</sub>
+
 Currently the selection of available papers include:
 1. [Dissecting Malicious PyPi Packages](https://cydefops.com/dissecting-pypi-packages)
 2. [Chinese Scammers Targeting Qatar Residents](https://cydefops.com/chinese-sms-scams-qatar)
