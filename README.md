@@ -124,7 +124,10 @@ The Threat Hunting Repository in Project Killchain serves as a structured collec
 
 - Case Studies: Detailed examples of previous successful threat hunts, providing practical examples and lessons learned.
 
-  
+<img width="1185" alt="image" src="https://github.com/CyDefOps/project-killchain/assets/110534650/57f2c624-284f-4464-8ae4-11335931c476">
+
+
+<sub>PKC - Abnormal Scheduled Task Creation, via Stealer Malware IOCs</sub>
 
 The aim of the Threat Hunting Repository is to equip security teams with the necessary resources to proactively find, isolate, and neutralize threats before they result in a security breach.
 
