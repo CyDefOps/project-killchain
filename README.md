@@ -124,7 +124,7 @@ The Threat Hunting Repository in Project Killchain serves as a structured collec
 
 - Case Studies: Detailed examples of previous successful threat hunts, providing practical examples and lessons learned.
 
-<img width="1185" alt="image" src="https://github.com/CyDefOps/project-killchain/assets/110534650/57f2c624-284f-4464-8ae4-11335931c476">
+<img width="816" alt="image" src="https://github.com/CyDefOps/project-killchain/assets/110534650/0ecbfc22-da1d-4160-8d86-8542a894e784">
 
 
 <sub>PKC - Abnormal Scheduled Task Creation, via Stealer Malware IOCs</sub>
