@@ -40,6 +40,7 @@
 		- [Postman](#postman)
 		- [Encoding](#encoding)
 	- [Reverse-Engineering](#reverse-engineering)
+ 		- [PE-Executables](#pe-executables) 
 - [Project Killchain Team](#project-killchain-team)
 
 # Contributions
@@ -182,7 +183,9 @@ Here you'll find scripts geared towards automating the process of encoding a wid
 
 ## [Reverse-Engineering](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Reverse%20Engineering), "PKC Reverse Engineering, Scripts Repo")
 
-This repository contains scripts for various aspects of reverse engineering, aiding in performing reverse engineering of wide range of samples under observation.
+### [PE Executables](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security/Encoding](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Reverse%20Engineering/PE%20Executables/), "PKC Reverse-Engineering PE-Executables, Scripts Repo")
+
+Here you'll find scripts geared towards performing reverse engineering static as well as dynamic based on Microsoft Windows a.k.a PE Executables for all architectures. 
 
 # Project Killchain Team
 
