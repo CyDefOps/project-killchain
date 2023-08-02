@@ -39,6 +39,7 @@
    	  	- [DNS](#dns)
    	  	- [Postman](#postman)
    	  	- [Encoding](#encoding)
+   	- [Reverse-Engineering](#reverse-engineering)
 9. [Project Killchain Team](#project-killchain-team)
 
 # Contributions
@@ -171,13 +172,17 @@ This folder contains scripts for handling DNS-related security tasks, including 
 
 <sub>LazyDNS, by Kamran Saifullah</sub>
 
-### [Postman]("https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security/Postman", "PKC Web-Security Postman, Scripts Repo")
+### [Postman](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security/Postman, "PKC Web-Security Postman, Scripts Repo")
 
 Here you'll find scripts geared towards Postman, useful for automating API testing, managing mock servers, and enhancing the overall efficiency of API development.
 
-### [Encoding]("https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security/Encoding", "PKC Web-Security Encoding, Scripts Repo")
+### [Encoding](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security/Encoding, "PKC Web-Security Encoding, Scripts Repo")
 
 Here you'll find scripts geared towards automating the process of encoding a wide range of encoding algorithms for CTI, Red Teaming, Penetration Testing etc. 
+
+## [Reverse-Engineering](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Reverse%20Engineering), "PKC Reverse Engineering, Scripts Repo")
+
+This repository contains scripts for various aspects of reverse engineering, aiding in performing reverse engineering of wide range of samples under observation.
 
 # Project Killchain Team
 
