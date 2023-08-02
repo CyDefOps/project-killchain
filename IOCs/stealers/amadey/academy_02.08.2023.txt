@@ -1,0 +1,279 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------
+AMADEY STEALER EXEC > 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+family:amadey,version:3.86,c2:77.91.68.61/rock/index.php
+disables_windows_defender:
+True, HEALER;
+version:3.86,
+
+process: a3453059.exe
+path: HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection\DisableBehaviorMonitoring
+Registry Write
+process: a3453059.exe
+
+
+path: HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection\DisableIOAVProtection
+Registry Write
+process: a3453059.exe
+
+
+path: HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection\DisableOnAccessProtection
+Registry Write
+process: a3453059.exe
+
+
+path: HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection\DisableRealtimeMonitoring
+Registry Write
+process: a3453059.exe
+
+path: HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection\DisableScanOnRealtimeEnable
+-----------------------------------------------------------------------------------------------------------------------------------------------
+EXTRACTED MALWARE CONFIG >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+family:amadey,version:3.86,c2:77.91.68.61/rock/index.php
+family:smokeloader,version:2022,c2:http://77.91.68.29/fks/
+family:redline,botnet:maxik,c2:77.91.124.156:19071
+-----------------------------------------------------------------------------------------------------------------------------------------------
+FULL PROCS AND COMMANDLINE >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+C:\Users\Admin\AppData\Local\Temp\db1bb5887b3fe0c07faca40709292eb1830d7afc85563161ff0f190263c18476.exe
+"C:\Users\Admin\AppData\Local\Temp\db1bb5887b3fe0c07faca40709292eb1830d7afc85563161ff0f190263c18476.exe"
+C:\Users\Admin\AppData\Local\Temp\IXP000.TMP\v7406584.exe
+C:\Users\Admin\AppData\Local\Temp\IXP000.TMP\v7406584.exe
+C:\Users\Admin\AppData\Local\Temp\IXP001.TMP\v1415170.exe
+C:\Users\Admin\AppData\Local\Temp\IXP001.TMP\v1415170.exe
+C:\Users\Admin\AppData\Local\Temp\IXP002.TMP\v7840167.exe
+C:\Users\Admin\AppData\Local\Temp\IXP002.TMP\v7840167.exe
+C:\Users\Admin\AppData\Local\Temp\IXP003.TMP\a3453059.exe
+C:\Users\Admin\AppData\Local\Temp\IXP003.TMP\a3453059.exe
+C:\Users\Admin\AppData\Local\Temp\IXP003.TMP\b7786168.exe
+C:\Users\Admin\AppData\Local\Temp\IXP003.TMP\b7786168.exe
+C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+"C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe" 
+C:\Windows\SysWOW64\schtasks.exe
+"C:\Windows\System32\schtasks.exe" /Create /SC MINUTE /MO 1 /TN pdates.exe /TR "C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe" /F
+C:\Windows\SysWOW64\cmd.exe
+"C:\Windows\System32\cmd.exe" /k echo Y|CACLS "pdates.exe" /P "Admin:N"&&CACLS "pdates.exe" /P "Admin:R" /E&&echo Y|CACLS "..\925e7e99c5" /P "Admin:N"&&CACLS "..\925e7e99c5" /P "Admin:R" /E&&Exit
+C:\Windows\SysWOW64\cmd.exe
+C:\Windows\system32\cmd.exe  /S /D /c" echo Y"
+PID:396
+C:\Windows\SysWOW64\cacls.exe
+CACLS  "pdates.exe" /P "Admin:N"
+PID:744
+C:\Windows\SysWOW64\cacls.exe
+CACLS  "pdates.exe" /P "Admin:R" /E
+C:\Windows\SysWOW64\cmd.exe
+C:\Windows\system32\cmd.exe  /S /D /c" echo Y"
+C:\Windows\SysWOW64\cacls.exe
+CACLS  "..\925e7e99c5" /P "Admin:N"
+C:\Windows\SysWOW64\cacls.exe
+CACLS  "..\925e7e99c5" /P "Admin:R" /E
+C:\Windows\SysWOW64\rundll32.exe
+"C:\Windows\System32\rundll32.exe" C:\Users\Admin\AppData\Roaming\006700e5a2ab05\clip64.dll, Main
+C:\Users\Admin\AppData\Local\Temp\IXP002.TMP\c1800840.exe
+C:\Users\Admin\AppData\Local\Temp\IXP002.TMP\c1800840.exe
+C:\Users\Admin\AppData\Local\Temp\IXP001.TMP\d8937867.exe
+C:\Users\Admin\AppData\Local\Temp\IXP001.TMP\d8937867.exe
+C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+-----------------------------------------------------------------------------------------------------------------------------------------------
+COMMANDLINE ACTIVITY >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+"C:\Users\Admin\AppData\Local\Temp\db1bb5887b3fe0c07faca40709292eb1830d7afc85563161ff0f190263c18476.exe"
+"C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe" 
+"C:\Windows\System32\schtasks.exe" /Create /SC MINUTE /MO 1 /TN pdates.exe /TR "C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe" /F
+"C:\Windows\System32\cmd.exe" /k echo Y|CACLS "pdates.exe" /P "Admin:N"&&CACLS "pdates.exe" /P "Admin:R" /E&&echo Y|CACLS "..\925e7e99c5" /P "Admin:N"&&CACLS "..\925e7e99c5" /P "Admin:R" /E&&Exit
+C:\Windows\system32\cmd.exe  /S /D /c" echo Y"
+CACLS  "pdates.exe" /P "Admin:N"
+CACLS  "pdates.exe" /P "Admin:R" /E
+C:\Windows\system32\cmd.exe  /S /D /c" echo Y"
+CACLS  "..\925e7e99c5" /P "Admin:N"
+CACLS  "..\925e7e99c5" /P "Admin:R" /E
+"C:\Windows\System32\rundll32.exe" C:\Users\Admin\AppData\Roaming\006700e5a2ab05\clip64.dll, Main
+-----------------------------------------------------------------------------------------------------------------------------------------------
+EXPLICIT REGEX PATTERNS FOR ABOVE CMDLINE ARGS >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+(?i)(AppData\\Local\\Temp\\\w{25,}\.exe)
+"C:\Users\Admin\AppData\Local\Temp\db1bb5887b3fe0c07faca40709292eb1830d7afc85563161ff0f190263c18476.exe"
+
+(?i)(Local\\Temp\\.*\\pdates\.exe).\s\/F
+"C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe" /F
+
+"C:\Windows\System32\schtasks.exe" /Create /SC MINUTE /MO 1 /TN pdates.exe /TR
+(?i)schtasks(\.exe)?.*\/Create\s\/SC\sMINUTE\s\/MO\s1\s\/TN.*?\.exe\s\/TR.*?AppData\\Local\\Temp\\\w{10}\\.*?\.exe
+
+C:\Windows\system32\cmd.exe  /S /D /c" echo Y"
+(?i)cmd(\.exe)\s+\/(S|D|C)\s+\/(S|D|C)\s+\/(S|D|C).*?echo\sY
+
+"Admin:R" /E&&echo Y|CACLS "..\925e7e99c5" /P "Admin:N"&&CACLS "..\925e7e99c5" /P "Admin:R" /E&&Exit
+(?i)&&echo\sY|CACLS\s.\.+\\\w+.*?:N.&&CACLS.*?\/P\s.\w+:R.*?\/E&&Exit
+-----------------------------------------------------------------------------------------------------------------------------------------------
+ISOLATED PROCESSES >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+C:\Users\Admin\AppData\Local\Temp\db1bb5887b3fe0c07faca40709292eb1830d7afc85563161ff0f190263c18476.exe
+C:\Users\Admin\AppData\Local\Temp\IXP000.TMP\v7406584.exe
+C:\Users\Admin\AppData\Local\Temp\IXP000.TMP\v7406584.exe
+C:\Users\Admin\AppData\Local\Temp\IXP001.TMP\v1415170.exe
+C:\Users\Admin\AppData\Local\Temp\IXP001.TMP\v1415170.exe
+C:\Users\Admin\AppData\Local\Temp\IXP002.TMP\v7840167.exe
+C:\Users\Admin\AppData\Local\Temp\IXP002.TMP\v7840167.exe
+C:\Users\Admin\AppData\Local\Temp\IXP003.TMP\a3453059.exe
+C:\Users\Admin\AppData\Local\Temp\IXP003.TMP\a3453059.exe
+C:\Users\Admin\AppData\Local\Temp\IXP003.TMP\b7786168.exe
+C:\Users\Admin\AppData\Local\Temp\IXP003.TMP\b7786168.exe
+C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+C:\Windows\SysWOW64\schtasks.exe
+C:\Windows\SysWOW64\cmd.exe
+C:\Windows\SysWOW64\cmd.exe
+C:\Windows\SysWOW64\cacls.exe
+C:\Windows\SysWOW64\cacls.exe
+C:\Windows\SysWOW64\cmd.exe
+C:\Windows\SysWOW64\cacls.exe
+C:\Windows\SysWOW64\cacls.exe
+C:\Windows\SysWOW64\rundll32.exe
+C:\Users\Admin\AppData\Local\Temp\IXP002.TMP\c1800840.exe
+C:\Users\Admin\AppData\Local\Temp\IXP002.TMP\c1800840.exe
+C:\Users\Admin\AppData\Local\Temp\IXP001.TMP\d8937867.exe
+C:\Users\Admin\AppData\Local\Temp\IXP001.TMP\d8937867.exe
+C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+C:\Users\Admin\AppData\Local\Temp\925e7e99c5\pdates.exe
+-----------------------------------------------------------------------------------------------------------------------------------------------
+EXTENDED IOCS >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+NETWORK INDICATORS >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+POST
+http://77.91.68.61/rock/index.php
+PDATES.EXE
+
+DNS
+61.68.91.77.in-addr.arpa
+
+POST
+http://77.91.68.29/fks/
+
+POST
+http://77.91.68.29/fks/
+
+DNS
+29.68.91.77.in-addr.arpa
+
+POST
+http://77.91.68.29/fks/
+
+GET
+http://77.91.68.61/rock/Plugins/cred64.dll
+PDATES.EXE
+
+GET
+http://77.91.68.61/rock/Plugins/clip64.dll
+PDATES.EXE
+
+DNS
+11.227.111.52.in-addr.arpa
+
+DNS
+9.57.101.20.in-addr.arpa
+
+DNS
+26.73.42.20.in-addr.arpa
+-----------------------------------------------------------------------------------------------------------------------------------------------
+MAIN >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Target
+db1bb5887b3fe0c07faca40709292eb1830d7afc85563161ff0f190263c18476
+Size
+642KB
+Sample
+230802-pw1rpafg8y
+MD5
+bb62ca3006c036e18b70d75c1ad4ec79
+SHA1
+92a894d6033095a43f2712a6f3c752d5ab24de81
+SHA256
+db1bb5887b3fe0c07faca40709292eb1830d7afc85563161ff0f190263c18476
+SHA512
+2b74ebbf691f0d4bd17cccace5722276a8f0beb983945a5098db31bf5bcfb83382b275dd151f6df3fce8c4713e37cddef9912e860a92637c30246265017bbfb9
+SSDEEP
+12288:XMrCy90efa5o7i8zclZE2YUEdLMQP9H1DYvUnEIa:xy05o7i8gEqQBGUEIa
+-----------------------------------------------------------------------------------------------------------------------------------------------
+DROPPED FILES >
+-----------------------------------------------------------------------------------------------------------------------------------------------
+process: v7406584.exe
+path: C:\Users\Admin\AppData\Local\Temp\IXP001.TMP\TMP4351$.TMP
+
+process: v7406584.exe
+path: C:\Users\Admin\AppData\Local\Temp\IXP001.TMP\v1415170.exe
+
+process: v7406584.exe
+path: C:\Users\Admin\AppData\Local\Temp\IXP001.TMP\d8937867.exe
+
+process: v1415170.exe
+path: C:\Users\Admin\AppData\Local\Temp\IXP002.TMP\TMP4351$.TMP
+
+process: v1415170.exe
+path: C:\Users\Admin\AppData\Local\Temp\IXP002.TMP\v7840167.exe
+
+process: v1415170.exe
+path: C:\Users\Admin\AppData\Local\Temp\IXP002.TMP\c1800840.exe
+
+process: v7840167.exe
+path: C:\Users\Admin\AppData\Local\Temp\IXP003.TMP\TMP4351$.TMP
+
+process: v7840167.exe
+path: C:\Users\Admin\AppData\Local\Temp\IXP003.TMP\a3453059.exe
+
+process: v7840167.exe
+path: C:\Users\Admin\AppData\Local\Temp\IXP003.TMP\b7786168.exe
+
+process: a3453059.exe
+path: C:\Users\Admin\AppData\Local\Microsoft\CLR_v4.0\UsageLogs\a3453059.exe.log
+
+process: db1bb5887b3fe0c07faca40709292eb1830d7afc85563161ff0f190263c18476.exe
+path: C:\Users\Admin\AppData\Local\Temp\IXP000.TMP\TMP4351$.TMP
+
+process: db1bb5887b3fe0c07faca40709292eb1830d7afc85563161ff0f190263c18476.exe
+path: C:\Users\Admin\AppData\Local\Temp\IXP000.TMP\v7406584.exe
+
+process: db1bb5887b3fe0c07faca40709292eb1830d7afc85563161ff0f190263c18476.exe
+path: C:\Users\Admin\AppData\Local\Temp\IXP000.TMP\e8213701.exe
+
+process: schtasks.exe
+path: \Device\ConDrv\Server
+
+process: schtasks.exe
+path: \Device\ConDrv\\Reference
+
+process: cmd.exe
+path: \Device\ConDrv\Server
+
+process: cmd.exe
+path: \Device\ConDrv\\Reference
+
+process: schtasks.exe
+path: \Device\ConDrv\\Connect
+
+process: schtasks.exe
+path: \Device\ConDrv\\Input
+
+process: schtasks.exe
+path: \Device\ConDrv\\Output
+
+process: cmd.exe
+path: \Device\ConDrv\\Connect
+
+process: cmd.exe
+path: \Device\ConDrv\\Input
+
+process: cmd.exe
+path: \Device\ConDrv\\Output
+
+process: cmd.exe
+path: \Device\ConDrv\\Connect
+
+process: cacls.exe
+path: \Device\ConDrv\\Connect
