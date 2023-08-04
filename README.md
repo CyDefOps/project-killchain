@@ -39,8 +39,12 @@
 		- [DNS](#dns)
 		- [Postman](#postman)
 		- [Encoding](#encoding)
-	- [Reverse-Engineering](#reverse-engineering)
- 		- [PE-Executables](#pe-executables) 
+  		- [Web Security Headers](https://github.com/deFr0ggy/Chopper)	
+	- [Reverse Engineering](#reverse-engineering)
+ 		- [PE Executables](#pe-executables)
+   	- [Cryptography](#cryptography)
+   		- [Hash Calculation](https://github.com/deFr0ggy/HASHER)
+   	- [Phishing Emails Analysis](https://github.com/deFr0ggy/NightOwl) 	  
 - [Project Killchain Team](#project-killchain-team)
 
 # Contributions
@@ -181,11 +185,24 @@ Here you'll find scripts geared towards Postman, useful for automating API testi
 
 Here you'll find scripts geared towards automating the process of encoding a wide range of encoding algorithms for CTI, Red Teaming, Penetration Testing etc. 
 
-## [Reverse-Engineering](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Reverse%20Engineering), "PKC Reverse Engineering, Scripts Repo")
+### [Web-Security-Headers](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security/Web-Security-Headers, "PKC Web-Security-Headers,Web-Security-Headers Repo")
 
-### [PE Executables](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security/Encoding](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Reverse%20Engineering/PE%20Executables/), "PKC Reverse-Engineering PE-Executables, Scripts Repo")
+Here you'll find scripts geared towards automating the process of validating and verifying HTTP Security Headers in the web application specifically designed for the web application penetration tester and web developers keen towards building safe and secure web applications.
+
+## [Reverse-Engineering]((https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Reverse%20Engineering), "PKC Reverse Engineering, Scripts Repo")
+
+### [PE Executables]((https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Reverse%20Engineering/PE%20Executables/), "PKC Reverse-Engineering PE-Executables, Scripts Repo")
 
 Here you'll find scripts geared towards performing reverse engineering static as well as dynamic based on Microsoft Windows a.k.a PE Executables for all architectures. 
+
+
+## [Cryptography]((https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Cryptography), "PKC Cryptography, Scripts Repo")
+
+Here you'll find scripts geared towards cryptographic algorithms, encryption & decryption as well as hash calulations etc. 
+
+## [Phishing Emails Analysis]((https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Phishing%20Emails%20Analysis), "PKC Phishing-Emails-Analysis, Scripts Repo")
+
+Here you'll find scripts geared towards analyzing a wide range of phishing emails (simple & sophisticated) to gather IOCs, automated attachment downloads etc. 
 
 # Project Killchain Team
 
@@ -201,7 +218,7 @@ Umar is CEO at Cyber Defence Operations (CyDefOps), Cyber Threat Hunter at Kyndr
 
   
 
-Kamran is Manager of Security Assessments and DFIR at Commercial Bank, Principal Cyber Defence Researcher at Cyber Defence Operations (CyDefOps) AND Senior Mentor & Volunteer for ThincsCorp Internship Program (Community Welfare)
+Kamran is Manager of Security Assessments and DFIR at Commercial Bank, Principal Cyber Defence Researcher at Cyber Defence Operations (CyDefOps) & Senior Mentor/Volunteer for ThincsCorp Internship Program (Community Welfare)
 
 - [Htet Naing Aung](https://www.linkedin.com/in/hnaung/  "Htet Naing Aung on LinkedIn")
 
