@@ -8,3 +8,4 @@ This repository includes list of tools which can be used by the analysts for Pac
 4. [IOT Traffic Analyzer](http://iottrafficanalyzer.com/)
 5. [TShark](https://tshark.dev/)
 6. [Arkime](https://arkime.com/)
+7. [OT PCAP Analyzer](https://synsaber.com/product/ot-pcap-analyzer/)
