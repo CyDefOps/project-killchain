@@ -1,0 +1,29 @@
+# Project Killchain - KQL to ingest our CTI, mapped to DFE [EXAMPLE]
+# It is generally not recommended to do this, it is not very effecient, although it is very easy
+# It could be recommended in this format for a small SOC, or small security team without capacity to externally ingest/ manage associated service
+# This query is for the purpose of ingesting our data inline, and mapping it to your various log sources to detect intrusion
+------------------------------------------------------------------------------------------------------------------------------
+// Project Killchain - Ingest Inline and Map to DeviceNetworkEvents [example]
+let PKC_IOCS = (externaldata(ext_iocs: string) [@"https://raw.githubusercontent.com/CyDefOps/project-killchain/main/IOCs/network-indicators/malware_list"]
+    with (format="txt"))
+    | where ext_iocs !startswith "#"
+    | extend 
+        pkc_type = split(ext_iocs, ",", 0), 
+        pkc_value = split(ext_iocs, ",", 1)
+    | extend
+        pkc_urls = iff(pkc_type == "url", pkc_value, ""),
+        pkc_domains = iff(pkc_type == "domain", pkc_value, ""),
+        pkc_ips = iff(pkc_type == "ip", pkc_value, "");
+DeviceNetworkEvents
+| join kind=inner (PKC_IOCS) on $left.RemoteIP == $right.pkc_ips
+| extend match_type = "IP Match"
+| union (
+    DeviceNetworkEvents
+    | join kind=inner (PKC_IOCS) on $left.RemoteDomain == $right.pkc_domains
+    | extend match_type = "Domain Match"
+)
+| union (
+    DeviceNetworkEvents
+    | join kind=inner (PKC_IOCS) on $left.RemoteUrl == $right.pkc_urls
+    | extend match_type = "URL Match"
+)
