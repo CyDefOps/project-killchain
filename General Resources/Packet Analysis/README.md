@@ -13,5 +13,5 @@ This repository includes list of tools which can be used by the analysts for Pac
 9. [CapAnalysis](https://www.capanalysis.net/ca/)
 10. [Packet Total](https://lab.dynamite.ai/)
 
-### Discalimer
+### Disclaimer
 Ensure to use these tools with caution as most of them are online and if you are uploading any data it is going to remain there forever. Which is not with the offline solutions/tools. In case of any breach or data leakage, we are not responsible. The resposibility lies with the sole user using any of the above mentioned applications.
