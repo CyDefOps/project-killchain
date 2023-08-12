@@ -15,9 +15,17 @@ let PKC_IOCS = (externaldata(ext_iocs: string) [@"https://raw.githubusercontent.
         pkc_domains = iff(pkc_type == "domain", pkc_value, ""),
         pkc_ips = iff(pkc_type == "ip", pkc_value, "");
 
-let IP_IOCs = PKC_IOCS | where pkc_ips != "";
-let Domain_IOCs = PKC_IOCS | where pkc_domains != "";
-let URL_IOCs = PKC_IOCS | where pkc_urls != "";
+let IP_IOCs =
+PKC_IOCS
+| where pkc_ips != "";
+
+let Domain_IOCs = 
+PKC_IOCS
+| where pkc_domains != "";
+
+let URL_IOCs = 
+PKC_IOCS
+| where pkc_urls != "";
 
 DeviceNetworkEvents
 | join kind=inner (IP_IOCs) on $left.RemoteIP == $right.pkc_ips
