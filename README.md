@@ -44,7 +44,9 @@
  		- [PE Executables](#pe-executables)
    	- [Cryptography](#cryptography)
    		- [Hash Calculation](https://github.com/deFr0ggy/HASHER)
-   	- [Phishing Emails Analysis](https://github.com/deFr0ggy/NightOwl) 	  
+   	- [Phishing Emails Analysis](https://github.com/deFr0ggy/NightOwl)
+- [Wallpapers](https://github.com/CyDefOps/project-killchain/tree/main/Wallpapers)
+	- [Graphic Designs by Project KillChain Contributors](https://github.com/CyDefOps/project-killchain/tree/main/Wallpapers)		 	  
 - [Project Killchain Team](#project-killchain-team)
 
 # Contributions
