@@ -1,0 +1,17 @@
+# Project Killchain - KQL to ingest our CTI
+# It is generally not recommended to do this, it is not very effecient, although it is very easy
+# It could be recommended in this format for a small SOC, or small security team without capacity to externally ingest/ manage associated service
+# This query is for the purpose of ingesting our data inline, and mapping it to your various log sources to detect intrusion
+------------------------------------------------------------------------------------------------------------------------------
+// Project Killchain - Ingest Data Inline
+let PKC_IOCS = (externaldata(ext_iocs: string) [@"https://raw.githubusercontent.com/CyDefOps/project-killchain/main/IOCs/network-indicators/malware_list"]
+    with (format="txt"))
+    | where ext_iocs !startswith "#";
+PKC_IOCS
+| extend 
+    pkc_type = split(ext_iocs, ",", 0), 
+    pkc_value = split(ext_iocs, ",", 1)
+| extend
+    pkc_urls = iff(pkc_type == "url", pkc_value, ""),
+    pkc_domains = iff(pkc_type == "domain", pkc_value, ""),
+    pkc_ips = iff(pkc_type == "ip", pkc_value, "")
