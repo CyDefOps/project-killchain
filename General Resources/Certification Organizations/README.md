@@ -30,10 +30,10 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 24.   | [Tenable University](https://www.tenable.com/education) |
 | 25.   | [Splunk](https://www.splunk.com/)|
 | 26.   | [ElasticSearch](https://www.elastic.co/)|
-| 27.   | [MalDevAcademy](https://maldevacademy.com/)
 | 27.   | [IBM](https://www.ibm.com/training/)|
 | 28.   | [Fortinet](https://training.fortinet.com/)|
 | 29.   | [Juniper](https://www.juniper.net/us/en/training.html)|
 | 30.   | [WatchGuard](https://www.watchguard.com/wgrd-training/overview) | 
 | 31.   | [CSI Linux](https://training.csilinux.com/) |
 | 32.   | [HTB Academy](https://academy.hackthebox.com/) |
+| 33.   | [MaldevAcademy](https://maldevacademy.com) |
