@@ -1,8 +1,6 @@
 // Project Killchain - KQL to ingest our CTI, mapped to DFE [EXAMPLE]
-// It is generally not recommended to do this, it is not very effecient, although it is very easy
-// It could be recommended in this format for a small SOC, or small security team without capacity to externally ingest/ manage associated service
-// This query is for the purpose of ingesting our data inline, and mapping it to your various log sources to detect intrusion
-// Project Killchain - Ingest Inline and Map to DeviceNetworkEvents [example]
+// Not recommended at scale, this can be a useful method for small security/soc teams
+// Mapped to DFE - use this format to map to other log sources to detect malware infection
 let PKC_IOCS = (externaldata(ext_iocs: string) [@"https://raw.githubusercontent.com/CyDefOps/project-killchain/main/IOCs/network-indicators/malware_list"]
     with (format="txt"))
     | where ext_iocs !startswith "#"
