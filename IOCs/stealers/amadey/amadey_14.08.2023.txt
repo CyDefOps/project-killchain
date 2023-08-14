@@ -1,0 +1,230 @@
+Amadey bot exec [win.amadey] on 14.08.2023 >
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commandline Args >
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"C:\Users\admin\AppData\Local\Temp\d86f13dd60d1df053cb111b77b3b4310.exe" -> "C:\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe" -> 
+"C:\Windows\System32\schtasks.exe" /Create /SC MINUTE /MO 1 /TN saves.exe /TR "C:\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe" ->
+"C:\Windows\System32\cmd.exe" /k echo Y|CACLS "saves.exe" /P "admin:N"&&CACLS "saves.exe" /P "admin:R" /E&&echo Y|CACLS "..\b40d11255d" /P 
+"admin:N"&&CACLS "..\b40d11255d" /P "admin:R" /E&&Exit -> "C:\Windows\System32\rundll32.exe" C:\Users\admin\AppData\Roaming\006700e5a2ab05\clip64.dll, Main 
+-> C:\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe -> 
+
+
+The task is set to run at one-minute intervals using the parameters (/SC MINUTE /MO 1). Additionally, the malware utilizes a seemingly random 
+directory path in the Temp folder (b40d11255d in this instance) as a tactic to avoid detection and removal.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Spawn Tree
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Spawn Tree: 
+"C:\Users\admin\AppData\Local\Temp\d86f13dd60d1df053cb111b77b3b4310.exe": explorer.exe
+    -> "C:\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe": d86f13dd60d1df053cb111b77b3b4310.exe
+      -> "C:\Windows\System32\schtasks.exe" /Create /SC MINUTE /MO 1 /TN saves.exe /TR "C:\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe" /F
+        -> "C:\Windows\System32\cmd.exe" /k echo Y|CACLS "saves.exe" /P "admin:N"&&CACLS "saves.exe" /P "admin:R" /E&&echo Y|CACLS "..\b40d11255d" /P "admin:N"&&CACLS "..\b40d11255d" /P "admin:R" /E&&Exit
+          -> "C:\Windows\System32\rundll32.exe" C:\Users\admin\AppData\Roaming\006700e5a2ab05\clip64.dll, Main
+
+Connects to CnC Server; IPDestination: 77.91.68.18
+"C:\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe"
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Explicit Regex Patterns >
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/(?i)schtasks(\.exe)?.\s\/Create.*?MINUTE\s\/MO\s1.*\\AppData\\Local\\Temp\\\w{10}\\.*?\.exe
+[Schtaks creation for [FILENAME].exe proc, polling using native facilities]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Detection Engineering >
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"C:\Users\admin\AppData\Local\Temp\d86f13dd60d1df053cb111b77b3b4310.exe"
+    -> "C:\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe"
+[Easy to observe, parent process (in local\temp) spawning a PE in a subdir in temp]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Notable IOCs >
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IP
+77.91.68.18 (C2)
+c4cd006f283c997151f48306abe2a39e205766c3cd7ed6145b73bb67a27494e3
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EXTENDED IOCS >
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NETWORK IOCS >
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+HTTP/HTTPS Requests
+
+{saves.exe)
+http://77.91.68.18/nice/Plugins/clip64.dll - GET
+http://77.91.68.18/nice/index.php - POST
+http://77.91.68.18/nice/Plugins/cred64.dll - GET
+
+IP
+77.91.68.18
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DROPPED PES >
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SHA256: c4cd006f283c997151f48306abe2a39e205766c3cd7ed6145b73bb67a27494e3
+SSDeep: 6144:SR9eh569+UR6P3zIwkp4p2k/DPaZHwc3eoe6u17MgAOIMs8Bq:Sfm5BB7kpi2k/ae6u17pa8Bq	
+"C:\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe"
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MAIN >
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+File info:	PE32 executable (GUI) Intel 80386, for MS Windows
+
+C:\Users\admin\AppData\Local\Temp\b40d11255d\saves.exe
+MD5:	
+d86f13dd60d1df053cb111b77b3b4310
+SHA1:	
+ad42df5b481e7848ca85393aee56ce7ba9920f82
+SHA256:	
+c4cd006f283c997151f48306abe2a39e205766c3cd7ed6145b73bb67a27494e3
+SSDEEP:	
+6144:SR9eh569+UR6P3zIwkp4p2k/DPaZHwc3eoe6u17MgAOIMs8Bq:Sfm5BB7kpi2k/ae6u17pa8Bq
+
+C:\Users\admin\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\HQYU0XHJ\clip64[1].dll
+SHA256: 68ec0ef5c26d0204c713ec50f6ad66f8029063c6a9dbd51836f4942bacace554
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EMERGING THREATS >
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ET MALWARE Amadey CnC Check-In
+ET MALWARE Win32/Amadey Bot Activity (POST) M2
+AV TROJAN Agent.DHOA System Info Exfiltration
+ET INFO Dotted Quad Host DLL Request
+AV POLICY HTTP request for .dll file with no User-Agent
+ET INFO Dotted Quad Host DLL Request
+AV POLICY HTTP request for .dll file with no User-Agent
+ET POLICY PE EXE or DLL Windows file download HTTP
+ET INFO Executable Retrieved With Minimal HTTP Headers - Potential Second Stage Download
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+C2 CONFIG >
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{
+(PID) Process
+(2780) saves.exe
+C2 (1)
+http://77.91.68.18
+Version
+3.87
+Options
+
+Drop directory
+S-%lu-
+Drop name
+%-lu
+Strings (120)
+-%lu
+
+b40d11255d
+saves.exe
+SCHTASKS
+/Create /SC MINUTE /MO 1 /TN
+/TR "
+" /F
+SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+Startup
+Rem
+cmd /C RMDIR /s/q
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+rundll32
+/Delete /TN "
+Programs
+SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+%USERPROFILE%
+\App
+POST
+GET
+id=
+&vs=
+&sd=
+&os=
+&bi=
+&ar=
+&pc=
+&un=
+&dm=
+&av=
+&lv=
+&og=
+cred.dll|clip.dll|
+d1
+e1
+e0
+Main
+http://
+https://
+exe
+dll
+cmd
+ps1
+<c>
+<d>
+Plugins/
++++
+#
+|
+&unit=
+=
+shell32.dll
+kernel32.dll
+GetNativeSystemInfo
+ProgramData\
+AVAST Software
+Avira
+Kaspersky Lab
+ESET
+Panda Security
+Doctor Web
+AVG
+360TotalSecurity
+Bitdefender
+Norton
+Sophos
+Comodo
+WinDefender
+0123456789
+rb
+wb
+Content-Type: multipart/form-data; boundary=----
+------
+Content-Disposition: form-data; name="data"; filename="
+" Content-Type: application/octet-stream
+------
+--
+?scr=1
+.jpg
+Content-Type: application/x-www-form-urlencoded
+SYSTEM\CurrentControlSet\Control\ComputerName\ComputerName
+ComputerName
+abcdefghijklmnopqrstuvwxyz0123456789-_
+-unicode-
+SYSTEM\CurrentControlSet\Control\UnitedVideo\CONTROL\VIDEO\
+SYSTEM\ControlSet001\Services\BasicDisplay\Video
+VideoID
+\0000
+DefaultSettings.XResolution
+DefaultSettings.YResolution
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+ProductName
+2019
+2022
+2016
+CurrentBuild
+&&
+echo Y|CACLS "
+" /P "
+:N"
+CACLS "
+" /P "
+:R" /E
+:F" /E
+&&Exit
+..\
+\
+:::
+rundll32.exe
+/k
+"taskkill /f /im "
+" && timeout 1 && del
+&& Exit"
+" && ren
+&&
+Powershell.exe
+-executionpolicy remotesigned -File "
+"
+shutdown -s -t 0
+]
