@@ -40,4 +40,5 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 34.   | [MITRE - AttackIQ](https://www.academy.attackiq.com/) |
 | 35.   | [Cybrary](https://www.cybrary.it/) |
 | 36.   | [Picus Security](https://academy.picussecurity.com/) |
-| 37.   | [MITRE Engenuity](https://mitre-engenuity.org/)
+| 37.   | [MITRE Engenuity](https://mitre-engenuity.org/) |
+| 38.   | [DataDog HQ](https://learn.datadoghq.com/) |
