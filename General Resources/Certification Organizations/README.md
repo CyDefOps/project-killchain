@@ -37,6 +37,7 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 31.   | [CSI Linux](https://training.csilinux.com/) |
 | 32.   | [HTB Academy](https://academy.hackthebox.com/) |
 | 33.   | [MaldevAcademy](https://maldevacademy.com) |
-| 34.   | [MITRE](https://www.academy.attackiq.com/) |
+| 34.   | [MITRE - AttackIQ](https://www.academy.attackiq.com/) |
 | 35.   | [Cybrary](https://www.cybrary.it/) |
 | 36.   | [Picus Security](https://academy.picussecurity.com/) |
+| 37.   | [MITRE Engenuity](https://mitre-engenuity.org/)
