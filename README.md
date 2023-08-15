@@ -45,6 +45,8 @@
    	- [Cryptography](#cryptography)
    		- [Hash Calculation](https://github.com/deFr0ggy/HASHER)
    	- [Phishing Emails Analysis](https://github.com/deFr0ggy/NightOwl)
+- [Community Contributions](https://github.com/CyDefOps/project-killchain/tree/main/Community%20Contributions/)
+	- [Practical Labs](https://github.com/CyDefOps/project-killchain/tree/main/Community%20Contributions/Practical%20Labs)  
 - [Wallpapers](https://github.com/CyDefOps/project-killchain/tree/main/Wallpapers)
 	- [Graphic Designs by Project KillChain Contributors](https://github.com/CyDefOps/project-killchain/tree/main/Wallpapers)		 	  
 - [Project Killchain Team](#project-killchain-team)
