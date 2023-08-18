@@ -22,5 +22,14 @@ This section includes list of Operating Systems commonly used by wide range of I
 | 16.   | Moobexler  | https://mobexler.com/  | Mobile Penetration Testing | 
 | 17.   | AppUse  | https://appsec-labs.com/appuse/  | Mobile Penetration Testing | 
 | 18.   | Network Security Toolkit  | https://www.networksecuritytoolkit.org/nst/index.html  | Network Security | 
+| 19.   | ORION - Spanish  |  https://github.com/Cl4r4-5/OriON  | OSINT | 
+| 20.   | Buscador VM  | https://www.tracelabs.org/initiatives/osint-vm  | OSINT   | 
+| 21.   | TraceLabs - Kali Linux Build  | https://github.com/tracelabs/tlosint-live  | OSINT | 
+| 22.   | TailsOS | https://tails.boum.org/install/index.en.html | OSINT | 
+| 23.   | OSINTux  | https://www.osintux.org/   | OSINT | 
+| 24.   | Huron OSINT   | https://github.com/HuronOsint  | OSINT | 
+| 25.   | DORA OSINT VM   | https://github.com/axlshear/dora-osint-vm  | OSINT
+
+
 
 
