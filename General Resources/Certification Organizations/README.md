@@ -1,4 +1,4 @@
-# Certification Organizations
+# Certifications/Courses
 
 This repository includes a comprehensive list of organizations providing a wide number of Cyber Security certifications. 
 
