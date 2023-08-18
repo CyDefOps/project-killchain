@@ -14,6 +14,8 @@
 10. [Corelan Cyber Security Research](https://www.corelan.be/index.php/articles/#cat_exploit-writing-tutorials)
 11. [Assembler Crash Course x86](https://os.inf.tu-dresden.de/Studium/OSC/SS2022/tasks/task4/assembler.php)
 12. [The Legend of Random](https://legend.octopuslabs.io/sample-page.html)
+13. [Azeria Labs](https://azeria-labs.com/writing-arm-assembly-part-1/)
+14. [ARM 64 Course](https://0xinfection.github.io/reversing/pages/arm-64-course.html)
 
 ## Courses
 
