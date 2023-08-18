@@ -28,7 +28,8 @@ This section includes list of Operating Systems commonly used by wide range of I
 | 22.   | TailsOS | https://tails.boum.org/install/index.en.html | OSINT | 
 | 23.   | OSINTux  | https://www.osintux.org/   | OSINT | 
 | 24.   | Huron OSINT   | https://github.com/HuronOsint  | OSINT | 
-| 25.   | DORA OSINT VM   | https://github.com/axlshear/dora-osint-vm  | OSINT
+| 25.   | DORA OSINT VM   | https://github.com/axlshear/dora-osint-vm  | OSINT | 
+| 26.   | ControlThings Platform  | https://www.controlthings.io/platform | ICS/SCADA |
 
 
 
