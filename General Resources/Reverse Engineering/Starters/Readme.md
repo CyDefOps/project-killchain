@@ -12,6 +12,7 @@
 8. [Dr Fu Security Blog](http://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
 9. [RPISec](https://github.com/RPISEC/Malware)
 10. [Corelan Cyber Security Research](https://www.corelan.be/index.php/articles/#cat_exploit-writing-tutorials)
+11. [Assembler Crash Course x86](https://os.inf.tu-dresden.de/Studium/OSC/SS2022/tasks/task4/assembler.php)
 
 ## Courses
 
@@ -25,3 +26,4 @@
 - https://opensecuritytraining.info/Training.html
 - https://www.offsec.com/courses-and-certifications/
 - https://www.corelan.be/index.php/articles/#cat_exploit-writing-tutorials
+- https://samsclass.info/workshops.htm
