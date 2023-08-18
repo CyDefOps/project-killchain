@@ -42,3 +42,4 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 36.   | [Picus Security](https://academy.picussecurity.com/) |
 | 37.   | [MITRE Engenuity](https://mitre-engenuity.org/) |
 | 38.   | [DataDog HQ](https://learn.datadoghq.com/) |
+| 39.   | [WeHackPurple](https://academy.wehackpurple.com/)
