@@ -13,3 +13,4 @@ This "Wall of Shame" is being maintained actively by the Project KillChain membe
 | 5.          | Faizah Malik    | https://www.linkedin.com/in/faizah-malik-0b5043245/  |
 | 6.          | Yasmin Khan      | https://www.linkedin.com/in/yasmin-khan-623307238/  |
 | 7.          | Azmi Mirza      | https://www.linkedin.com/in/azmi-mirza-753573220/  |
+| 8.          | Shumaila Khan    | https://www.linkedin.com/in/shumaila-khan-831baa183/ | 
