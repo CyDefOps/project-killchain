@@ -49,3 +49,4 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 43.   | [Taggart Institute](https://taggartinstitute.org/) | 
 | 44.   | [Black Hills Infosec](https://www.blackhillsinfosec.com/) | 
 | 45.   | [Antisyphon Training](https://www.antisyphontraining.com/) |
+| 46.   | [LinkedIn Learning](https://www.linkedin.com/learning/) |
