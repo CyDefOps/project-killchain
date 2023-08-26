@@ -17,4 +17,3 @@ This "Wall of Shame" is being maintained actively by the Project KillChain membe
 | 7.          | Azmi Mirza      | https://www.linkedin.com/in/azmi-mirza-753573220/  |
 | 8.          | Shumaila Khan    | https://www.linkedin.com/in/shumaila-khan-831baa183/ | 
 | 9.          | Anmol Kh      | https://www.linkedin.com/in/anmol-kh-8360a7251/ |
-| 10.          | Shumaila Khan  | https://www.linkedin.com/in/shumaila-khan-831baa183/ | 
