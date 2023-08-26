@@ -1,0 +1,189 @@
+Amadey bot exec [win.amadey] on 25.08.2023 >
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commandline Args >
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"C:\Program Files\Mozilla Firefox\firefox.exe" "https://productkeyforfree.com" -> "C:\Users\admin\Downloads\BelgiumchainAGRO.exe" -> "C:\Windows\Microsoft.NET\Framework\v4.0.30319\jsc.exe" ->
+"C:\Users\admin\Downloads\a3e34cb.exe" -> "C:\Users\admin\AppData\Local\Temp\c2868ed41c\bstyoops.exe" -> "C:\Program Files\WinRAR\WinRAR.exe" "C:\Users\admin\Downloads\Password_1234_Setup.rar" ->
+"C:\Users\admin\AppData\Local\Temp\Rar$EXb1276.110\setup.exe" -> "C:\Windows\Microsoft.NET\Framework\v4.0.30319\cvtres.exe" -> "C:\Users\admin\AppData\Local\Temp\xqvojsnhbhmutfkvh.exe" ->
+"C:\Windows\Microsoft.NET\Framework\v4.0.30319\jsc.exe" -> "C:\Windows\Microsoft.NET\Framework\v4.0.30319\jsc.exe" -> 
+cmd.exe /c timeout /nobreak /t 3 & fsutil file setZeroData offset=0 length=43175 "C:\Windows\Microsoft.NET\Framework\v4.0.30319\cvtres.exe" & erase "C:\Windows\Microsoft.NET\Framework\v4.0.30319\cvtres.exe" & exit ->
+"C:\Program Files\WinRAR\WinRAR.exe" "C:\Users\admin\Downloads\Book_A4_PDF.rar"
+
+Several executables (some of which seem to be potentially malicious(jsc.exe, cvtres.exe, setup.exe)), utilizing the .NET framework tools for potential malicious actions, manipulating and deleting system files, 
+and extracting multiple RAR archives.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Spawn Tree
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Spawn Tree: 
+"C:\Program Files\Mozilla Firefox\firefox.exe" "https://productkeyforfree.com"
+ ->"C:\Users\admin\AppData\Local\Temp\Rar$EXb1276.110\setup.exe"
+  ->"C:\Windows\Microsoft.NET\Framework\v4.0.30319\cvtres.exe"
+   ->"C:\Users\admin\AppData\Local\Temp\xqvojsnhbhmutfkvh.exe"
+    ->"C:\Windows\Microsoft.NET\Framework\v4.0.30319\jsc.exe"
+
+Connects to CnC Server
+Lumma: gapi-node.io
+Amadey: http://45.9.74.182
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Explicit Regex Patterns >
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/(?i)\\admin\\AppData\\Local\\Temp\\.{15,}\\.*?\.exe/gm
+[C:\Users\admin\AppData\Local\Temp\Rar$EXb1276.110\setup.exe]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Detection Engineering >
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"c:\users\admin\appdata\local\temp\rar$exb1276.110\setup.exe"
+    ->"C:\Users\admin\AppData\Local\Temp\xqvojsnhbhmutfkvh.exe"
+[Easy to observe, parent process (in local\temp) spawning a PE in a subdir in temp]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Notable IOCs >
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://productkeyforfree.com
+6035abdd7a2629b97a37c7f7b7e31cd2d2f43e2eaa425630dc7548d9efcfb75f
+5cd99c0f4df0abecd57f199f8d524a6242aa0b77bb9e732be6b3a8638645ab97
+5514e5a91e4b192cae4f78fc9d4d10641704c3778d0fd418f305b081ba5b9862
+http://45.9.74.182
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EXTENDED IOCS >
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NETWORK IOCS >
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+http://45.9.74.182
+http://45.9.74.182/b7djSDcPcZ/index.php
+151.139.128.10
+188.114.96.3
+34.120.208.123
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DROPPED PES >
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SHA256: 6035abdd7a2629b97a37c7f7b7e31cd2d2f43e2eaa425630dc7548d9efcfb75f
+"C:\Users\admin\AppData\Local\Temp\Rar$EXb1276.110\setup.exe"
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MAIN >
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EMERGING THREATS >
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Malware Command and Control Activity
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+C2 CONFIG >
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-%lu
+
+f3f10bd848
+bstyoops.exe
+SCHTASKS
+/Create /SC MINUTE /MO 1 /TN
+/TR "
+" /F
+SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+Startup
+Rem
+cmd /C RMDIR /s/q
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+rundll32
+/Delete /TN "
+Programs
+SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+%USERPROFILE%
+\App
+POST
+GET
+id=
+&vs=
+&sd=
+&os=
+&bi=
+&ar=
+&pc=
+&un=
+&dm=
+&av=
+&lv=
+&og=
+cred.dll|clip.dll|
+d1
+e1
+e0
+Main
+http://
+https://
+exe
+dll
+cmd
+ps1
+<c>
+<d>
+Plugins/
++++
+#
+|
+&unit=
+=
+shell32.dll
+kernel32.dll
+GetNativeSystemInfo
+ProgramData\
+AVAST Software
+Avira
+Kaspersky Lab
+ESET
+Panda Security
+Doctor Web
+AVG
+360TotalSecurity
+Bitdefender
+Norton
+Sophos
+Comodo
+WinDefender
+0123456789
+rb
+wb
+Content-Type: multipart/form-data; boundary=----
+------
+Content-Disposition: form-data; name="data"; filename="
+" Content-Type: application/octet-stream
+------
+--
+?scr=1
+.jpg
+Content-Type: application/x-www-form-urlencoded
+SYSTEM\CurrentControlSet\Control\ComputerName\ComputerName
+ComputerName
+abcdefghijklmnopqrstuvwxyz0123456789-_
+-unicode-
+SYSTEM\CurrentControlSet\Control\UnitedVideo\CONTROL\VIDEO\
+SYSTEM\ControlSet001\Services\BasicDisplay\Video
+VideoID
+\0000
+DefaultSettings.XResolution
+DefaultSettings.YResolution
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+ProductName
+2019
+2022
+2016
+CurrentBuild
+&&
+echo Y|CACLS "
+" /P "
+:N"
+CACLS "
+" /P "
+:R" /E
+:F" /E
+&&Exit
+..\
+\
+:::
+rundll32.exe
+/k
+"taskkill /f /im "
+" && timeout 1 && del
+&& Exit"
+" && ren
+&&
+Powershell.exe
+-executionpolicy remotesigned -File "
+"
