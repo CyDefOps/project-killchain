@@ -42,4 +42,10 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 36.   | [Picus Security](https://academy.picussecurity.com/) |
 | 37.   | [MITRE Engenuity](https://mitre-engenuity.org/) |
 | 38.   | [DataDog HQ](https://learn.datadoghq.com/) |
-| 39.   | [WeHackPurple](https://academy.wehackpurple.com/)
+| 39.   | [WeHackPurple](https://academy.wehackpurple.com/) |
+| 40.   | [David Bombal](https://courses.davidbombal.com/) | 
+| 41.   | [Rana Khalil Academy](https://ranakhalil.teachable.com/) |
+| 42.   | [Uncle Rat](https://thexssrat.gumroad.com/) | 
+| 43.   | [Taggart Institute](https://taggartinstitute.org/) | 
+| 44.   | [Black Hills Infosec](https://www.blackhillsinfosec.com/) | 
+| 45.   | [Antisyphon Training](https://www.antisyphontraining.com/) |
