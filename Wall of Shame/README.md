@@ -1,6 +1,8 @@
 # Wall of Shame
 
-We all have been there when we have received a message on the Social Media platform stating, "Are you interested in doing any cyber security certification?". Well, a lot of youngsters who have been struggling to do these certs actually paid money to these companies and got their certifications. We have always been of the view and been preaching that everyone should take their time to learn about things, prepare for the certification, get help from the seniors in the field as well as their peers, and attempt the certification exam. It's not about failing the exam, it's more about attempting and realizing your weak areas so that you can spend time to mature your knowledge in that area of Information/Cyber Security.
+We all have been there when we have received a message on the Social Media platform stating, "Are you interested in doing any cyber security certification?". Well, a lot of youngsters who have been struggling to do these certs actually paid money to these companies and got their certifications. 
+
+We have always been of the view and been preaching that everyone should take their time to learn about things, prepare for the certification, get help from the seniors in the field as well as their peers, and attempt the certification exam. It's not about failing the exam, it's more about attempting and realizing your weak areas so that you can spend time to mature your knowledge in that area of Information/Cyber Security.
 
 This "Wall of Shame" is being maintained actively by the Project KillChain members to expose these fake social media accounts or legitimate ones offering these kinds of services and exploiting the future of Information/Cyber Security.
 
