@@ -50,3 +50,4 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 44.   | [Black Hills Infosec](https://www.blackhillsinfosec.com/) | 
 | 45.   | [Antisyphon Training](https://www.antisyphontraining.com/) |
 | 46.   | [LinkedIn Learning](https://www.linkedin.com/learning/) |
+| 47.   | [Splunk BOTS](https://bots.splunk.com/) |
