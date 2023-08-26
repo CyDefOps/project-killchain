@@ -18,3 +18,5 @@ Security Researchers have been maintaining a lot of repositories that have been 
 | 12.  | Bring Your Own Land  | https://www.mandiant.com/resources/blog/bring-your-own-land-novel-red-teaming-technique  | 
 | 14.  | NtDoc  | https://ntdoc.m417z.com/  | 
 | 15.  | LOFLCAB (Living off the Foreign Land Cmdlets and Binaries) | https://lofl-project.github.io/ |
+| 16.  | LOFL (Living off the Foreign Land - Scripts |  https://github.com/bitsadmin/lofl  |
+
