@@ -52,3 +52,4 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 46.   | [LinkedIn Learning](https://www.linkedin.com/learning/) |
 | 47.   | [Splunk BOTS](https://bots.splunk.com/) |
 | 48.   | [CISCO Skills For All](https://skillsforall.com/) | 
+| 49.   | [BreakDev Academy](https://academy.breakdev.org/evilginx-mastery) |
