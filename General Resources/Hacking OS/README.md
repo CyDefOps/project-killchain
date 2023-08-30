@@ -30,6 +30,7 @@ This section includes list of Operating Systems commonly used by wide range of I
 | 24.   | Huron OSINT   | https://github.com/HuronOsint  | OSINT | 
 | 25.   | DORA OSINT VM   | https://github.com/axlshear/dora-osint-vm  | OSINT | 
 | 26.   | ControlThings Platform  | https://www.controlthings.io/platform | ICS/SCADA |
+| 27.   | RedCloud OS | https://github.com/RedTeamOperations/RedCloud-OS  | Cloud Penetration Testing | 
 
 
 
