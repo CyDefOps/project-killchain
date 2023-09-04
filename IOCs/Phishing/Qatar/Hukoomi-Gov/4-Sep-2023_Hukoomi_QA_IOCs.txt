@@ -1,3 +1,12 @@
+This file contains the Phishing URLs/IP addresses targeting Qatar Residents impersonating Qatar Government Entity - Hukoomi. 
+
+IOCs gathered by
+----------------------
+- Kamran Saifullah
+- 4th September, 2023
+
+IOCs
+----------------------
 post[.]homeriad[.]com
 108[.]61[.]81[.]104
 107[.]150[.][.][.]66
@@ -20,4 +29,5 @@ kpost[.]new[.]top
 64[.]176[.]199[.]196
 slot0[.]colorbag[.]tk
 173[.]82[.]227[.]16
+hukoomi-qatar[.]com
 
