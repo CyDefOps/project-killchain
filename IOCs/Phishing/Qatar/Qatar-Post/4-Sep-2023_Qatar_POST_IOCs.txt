@@ -1,0 +1,23 @@
+This file contains the Phishing URLs/IP addresses targeting Qatar Residents impersonating Qatar Government Entity - Qatar Post. 
+
+IOCs gathered by
+----------------------
+- Kamran Saifullah
+- 4th September, 2023
+
+IOCs
+----------------------
++66 95-419-9617
+chivasnari@gmail[.]com
+7240874@163[.]com
+https[:]//xhlphoto[.]com
+https[:]//cvdfsh[.]vip
+https[:]//tiny[.]one/KARMS
+https[:]//caixibaby[.]com
+http[:]//caixibaby[.]com
+tuandoiji42@163[.]com
++66 96-092-9486
+https[:]//qa[.]szblkhkj[.]com
+https[:]//szblkhkj[.]com
+http[:]//www[.]wyesoo.[.]life
+https[:]//www[.]wyesoo.[.]life
