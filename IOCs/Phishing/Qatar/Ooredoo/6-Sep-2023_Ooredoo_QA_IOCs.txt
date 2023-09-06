@@ -3,7 +3,7 @@ This file contains the Phishing URLs/IP addresses targeting Qatar Residents impe
 IOCs gathered by
 ----------------------
 - Kamran Saifullah
-- 5th September, 2023
+- 6th September, 2023
 
 IOCs
 ----------------------
