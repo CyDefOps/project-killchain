@@ -1,0 +1,25 @@
+This file contains the Phishing URLs/IP addresses targeting Qatar Residents impersonating Ooredoo Qatar. 
+
+IOCs gathered by
+----------------------
+- Kamran Saifullah
+- 7th September, 2023
+
+IOCs
+----------------------
+173[.]82[.]240[.]69
+198[.]23[.]174[.]142
+108[.]186[.]251[.]158
+23[.]94[.]197[.]132
+149[.]28[.]215[.]85
+38[.]60[.]215[.]229
+173[.]82[.]245[.]120
+43[.]153[.]28[.]25
+37[.]211[.]70[.]203
+173[.]82[.]212[.]221
+tc08[.]daptrack18[.]nl
+198-23-174-142-host[.]colocrossing[.]com
+23-94-197-132-host[.]colocrossing[.]com
+149[.]28[.]215[.]85[.]vultrusercontent[.]com
+mailserver04[.]saythenamecloud1[.]com
+smtp1[.]news-apuls[.]com
