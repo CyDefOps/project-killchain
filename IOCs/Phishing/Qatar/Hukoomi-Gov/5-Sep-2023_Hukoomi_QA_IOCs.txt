@@ -10,6 +10,7 @@ IOCs
 http://a-hukoomi-qa[.]xyz
 https://a-hukoomi-qa[.]xyz
 http://comllco[.]com
+https://Hukoomi.gitutor[.]com
 https://comllco[.]com
 https://commll[.]com
 http://commll[.]com
