@@ -53,3 +53,5 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 47.   | [Splunk BOTS](https://bots.splunk.com/) |
 | 48.   | [CISCO Skills For All](https://skillsforall.com/) | 
 | 49.   | [BreakDev Academy](https://academy.breakdev.org/evilginx-mastery) |
+| 50.   | [Neo4j - Graph Academy](https://graphacademy.neo4j.com/) | 
+| 51.   | [Postman Academy](https://academy.postman.com/) |
