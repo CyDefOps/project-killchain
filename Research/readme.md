@@ -7,6 +7,7 @@ This section includes links to all the research articles published on Cyber Defe
 3. [Malicious PyPi Packages Leading To Phishing Websites](https://cydefops.com/malicious-pypi-packages)
 4. [Malicious PyPi Packages Leading To Phishing Websites - Part 2](https://cydefops.com/malicious-pypi-part-2)
 5. [Deconstructing Deception - Cl0p](https://cydefops.com/deconstructing-deception)
+6. [VSCode - Forwarded Ports For Data Exfiltration](https://cydefops.com/vscode-data-exfiltration)
 
 ## Research Papers
 
