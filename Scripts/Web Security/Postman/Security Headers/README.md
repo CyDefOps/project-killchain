@@ -31,6 +31,7 @@ The below scripts checks for the following headers.
 8. Strict-Transport-Security Header
 9. X-XSS-Protection Header
 10. Content-Security-Policy Header
+11. Via Header
 
 ## 3. In Working
 
@@ -40,7 +41,6 @@ The below scripts checks for the following headers.
 
 ```
 // Author - Kamran Saifullah - deFr0ggy
-// August 1st, 2023
 // @CyDefOps, @Project-KillChain, 
 // https://twitter.com/@deFr0ggy
 // https://linkedin.com/in/KamranSaifullah
@@ -139,5 +139,13 @@ pm.test("Checking Strict-Transport-Security Header", function () {
         
         console.warn("Strict-Transport-Security Header is NOT SET!")
     }
+    });
+
+pm.test("Checking Via Header", function () {
+        if (pm.expect(pm.response.headers.find("Via"))) {
+            console.info("Via header is not present - Its Good!!!")
+        } else {
+            console.warn("Remove The Via Header");
+        }
     });
 ```
