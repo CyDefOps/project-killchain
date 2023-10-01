@@ -1,0 +1,16 @@
+This file contains the Phishing URLs/IP addresses targeting Qatar Residents impersonating Commercial Bank of Qatar.
+
+IOCs gathered by
+----------------------
+- Kamran Saifullah
+- 1st, October, 2023
+
+IOCs
+----------------------
+https[:]//130[.]61[.]172[.]16
+https[:]//34[.]65[.]231[.]82
+130[.]61[.]105[.]31
+https[:]//47[.]254[.]131[.]193
+https[:]//141[.]144[.]204[.]233
+https[:]//8[.]209[.]76[.]251
+https[:]//47[.]253[.]48[.]237
