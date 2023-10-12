@@ -87,7 +87,6 @@ http[:]//154[.]221[.]24[.]188
 https[:]//hukoomi[.]monster
 http[:]//hukoomi[.]monster
 https[:]//23[.]94[.]199[.]152
-https[:]//stg[.]hukoomi[.]gov[.]qa
 https[:]//69[.]165[.]77[.]151
 https[:]//hukoomi-gov[.]buzz
 https[:]//www[.]hukoomi-gov[.]buzz
