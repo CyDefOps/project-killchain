@@ -28,6 +28,7 @@ Then run it:
 Fill out prompt with full file path (or file name if same dir, e.g.):
 Enter the path of the .eml file to analyze: ```users/user/Downloads/email.eml```
 or (try this)
+
 Enter the path of the .eml file to analyze: ```email.eml```
 
 Sample Output (a real phishing email, via and with thanks to: rf-peixoto/phishing_pot) regrettably, the output is not yet perfect in terms of parsing of HTML Email Body, but 
