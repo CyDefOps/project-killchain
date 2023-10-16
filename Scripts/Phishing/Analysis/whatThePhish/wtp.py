@@ -7,6 +7,24 @@ import json
 from tabulate import tabulate
 from html2text import html2text
 
+def banner():
+    pkc = '''
+ __    __ _           _  _____ _            ___ _     _     _     
+/ / /\ \ \ |__   __ _| |/__   \ |__   ___  / _ \ |__ (_)___| |__  
+\ \/  \/ / '_ \ / _` | __|/ /\/ '_ \ / _ \/ /_)/ '_ \| / __| '_ \ 
+ \  /\  /| | | | (_| | |_/ /  | | | |  __/ ___/| | | | \__ \ | | |
+  \/  \/ |_| |_|\__,_|\__\/   |_| |_|\___\/    |_| |_|_|___/_| |_| v1.0
+                                                                  
+A super rapid email phishing analysis tool. Made with <3 by KayaSEC + $HELLS.   
+------------------------------------------------------
+GitHub: https://github.com/CyDefOps/project-killchain/
+Website: https://cydefops.com/
+
+Usage: python3 wtp.py 
+
+    '''
+    print(pkc)
+
 def process_received_headers(received_headers):
     hop_info = []
     for i, header in enumerate(reversed(received_headers)):
@@ -67,6 +85,8 @@ def analyze_eml(file_path):
     }
 
 if __name__ == "__main__":
+
+    banner()
     file_path = input("Enter the path of the .eml file to analyze: ")
     result = analyze_eml(file_path)
 
