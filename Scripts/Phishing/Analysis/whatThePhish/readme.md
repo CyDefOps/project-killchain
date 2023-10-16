@@ -25,7 +25,7 @@ From within your folder with requirements file and py script:
 ```pip install -r requirements.txt```
 
 Then run it: 
-```python3 pkcphishy.py```
+```python3 wtp.py```
 
 Fill out prompt with full file path (or file name if same dir, e.g.):
 Enter the path of the .eml file to analyze: ```users/user/Downloads/email.eml```
