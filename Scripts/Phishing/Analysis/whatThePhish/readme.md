@@ -1,5 +1,5 @@
-### whatThePhish - Project KillChain
-A super rapid email phishing analysis tool. Made with <3 by [KayaSEC](https://github.com/KayaSEC) + [$HELLS](https://github.com/ntwrite).
+### WhatThePhish - Project KillChain
+A super rapid email phishing analysis tool. Made with :heart: by [KayaSEC](https://github.com/KayaSEC) + [$HELLS](https://github.com/ntwrite).
 
 ![PKC](https://img.shields.io/badge/Project-%20Killchain-357441)
 ![Language](https://img.shields.io/badge/Language-%20Python-357441?style=flat-square)
@@ -113,9 +113,9 @@ regulated by the Cyprus Securities and Exchange Commission (license no.
 floor 4001, Limassol, Cyprus
 ```
 
-Please, submit any feedback or issues to our GitHub: CyDefOps/project-killchain
-Thanks. $HELLS + KayaSEC.
+Please, submit any feedback or issues to our **GitHub:** https://github.com/CyDefOps/project-killchain
 
+Thanks ($HELLS + KayaSEC).
 
 ----
 
@@ -128,8 +128,14 @@ e.g. ```python3 wtp.py --path /a/b/c/sample.eml```
 
 ----
 
-## Contributions
+----
 
-Project Killchain values and appreciates contributions from the cybersecurity community. Feel free to contribute code, share new tools, update our knowledge base, or expand the IOC database. Please review the contributing guidelines before making any contributions.
+### Contributions
+Project Killchain values and appreciates contributions from the cybersecurity community. Feel free to contribute code, share new tools, update our knowledge base, or expand the IOC database. 
+
+Please review the contributing guidelines before making any contributions.
+
+https://github.com/CyDefOps/project-killchain#contributions
 
 ----
+
