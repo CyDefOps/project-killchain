@@ -11,7 +11,7 @@ Made with :heart: by [Shrefa Ashour](https://www.linkedin.com/in/shrefa-salem-37
 ----
 ## Overview
 
-The purpose of this script is to help new and small SOC Teams make informed decisions for the blocked/malicious IP addresses on SIEM by taking them out and checking their reputation against **AbuseIPDB** and **VirusTotal**. Thus, helping them save **time** to perform rapid investigations and save time + efforts.
+The purpose of this script is to help new and small SOC Teams make informed decisions for the blocked/malicious IP addresses on SIEM by taking them out and checking their reputation against **AbuseIPDB** and **VirusTotal**. Thus, helping them save time + efforts to perform rapid investigations.
 
 The script does the following:
 
@@ -58,7 +58,9 @@ Place the keys for the following variables at the following.
 ### Begin The Hunt
 
 Execute the `AbUserIPDB.py` by doing simply as 
-```AbUserIPDB.py```. The scripts supports 3 parameters.
+```python3 AbUserIPDB.py```. 
+
+The scripts supports 3 parameters.
 
 1. For help `AbUserIPDB.py -h`.
 2. For single IP `AbUserIPDB.py -ip`.
