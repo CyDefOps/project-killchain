@@ -1,6 +1,0 @@
-requests
-colorama
-argparse
-tabulate
-csv
-simple_colors
