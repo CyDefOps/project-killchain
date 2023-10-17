@@ -1,0 +1,3 @@
+IP Address,Domain Name,Abuse Confidence Score,Country Code,Internet Service Provider,Total Reports,Last Reported Date,VT Harmless Score,VT Undetected Score,VT Malicious Score,VT Suspicious Score
+104.21.58.10,cloudflare.com,0,US,CloudFlare Inc.,2,2023-10-11T18:42:30+00:00,67,22,0,0
+172.67.153.223,cloudflare.com,0,US,CloudFlare Inc.,2,2023-10-11T18:42:30+00:00,0,88,0,0
