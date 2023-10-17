@@ -21,7 +21,13 @@
 
 <img  src="https://supreme.sh/assets/pkc.jpg"  width="250"  height="250">
 
-  
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/CyDefOps/project-killchain?style=flat-square&color=357441)
+![GitHub contributors](https://img.shields.io/github/contributors/CyDefOps/project-killchain?style=flat-square&color=357441)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/cydefops/project-killchain?style=flat-square)
+![Website](https://img.shields.io/website?up_message=UP&up_color=357441&down_message=DOWN&down_color=880808&url=https%3A%2F%2Fcydefops.com&style=flat-square)
+![PKC Members](https://img.shields.io/badge/PKC%20Members-%20123-357441?style=flat-square)
+![PKC Associates](https://img.shields.io/badge/PKC%20Associates-%2065-357441?style=flat-square)
+
 # Table of Contents
 - [Project Killchain \[PKC\]](#project-killchain-pkc)
 - [Table of Contents](#table-of-contents)
@@ -35,6 +41,14 @@
 		- [Threat Hunts](#threat-hunts)
 - [Research](#research)
 - [Scripts](#scripts)
+  	- [Azure](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Azure)
+  	  	- [KQL](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Azure/KQL)
+        - [Investigations](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Investigations)
+  	     - [IP Address](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Investigations/IP%20Address)
+  	 	- [AbUserIPDB](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Investigations/IP%20Address/AbUserIPDB)
+        - [Phishing](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Phishing)
+             - [Analysis](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Phishing/Analysis)
+  	          - [whatThePhish](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Phishing/Analysis/whatThePhish)   
 	- [Web Security](#web-security)
 		- [DNS](#dns)
 		- [Postman](#postman)
@@ -234,6 +248,6 @@ Htet is a Principal Security Architect (Global Security & Resiliency) at Kyndryl
 
   
 
-Cam is Security Operations Manager at Snowplow Analytics, Offensive Security Researcher at Cyber Defence Operations (CyDefOps) and Technical Advisory Board at NCFE
+Cam is Senior Security Engineer at Snowplow Analytics, Defensive Security Researcher at Cyber Defence Operations (CyDefOps) and Technical Advisory Board at NCFE
 
 ----
