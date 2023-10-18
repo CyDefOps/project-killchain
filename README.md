@@ -48,17 +48,17 @@
   	 	- [AbUserIPDB](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Investigations/IP%20Address/AbUserIPDB)
         - [Phishing](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Phishing)
              - [Analysis](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Phishing/Analysis)
-  	          - [whatThePhish](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Phishing/Analysis/whatThePhish)   
+  	          - [WhatThePhish](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Phishing/Analysis/whatThePhish)
+  	          - [NightOwl](https://github.com/CyDefOps/project-killchain/)
 	- [Web Security](#web-security)
 		- [DNS](#dns)
 		- [Postman](#postman)
 		- [Encoding](#encoding)
-  		- [Web Security Headers](https://github.com/deFr0ggy/Chopper)	
+  		- [Web Security Headers](https://github.com/CyDefOps/project-killchain/)	
 	- [Reverse Engineering](#reverse-engineering)
  		- [PE Executables](#pe-executables)
    	- [Cryptography](#cryptography)
-   		- [Hash Calculation](https://github.com/deFr0ggy/HASHER)
-   	- [Phishing Emails Analysis](https://github.com/deFr0ggy/NightOwl)
+   		- [Hash Calculation](https://github.com/CyDefOps/project-killchain/)
 - [Community Contributions](https://github.com/CyDefOps/project-killchain/tree/main/Community%20Contributions/)
 	- [Practical Labs](https://github.com/CyDefOps/project-killchain/tree/main/Community%20Contributions/Practical%20Labs)  
 - [Wallpapers](https://github.com/CyDefOps/project-killchain/tree/main/Wallpapers)
@@ -165,17 +165,17 @@ The aim of the Threat Hunting Repository is to equip security teams with the nec
 
 The Research Repository in Project Killchain acts as the releases of curated intelligence from the Cyber Defence Operations (cydefops.com) team. 
 
-<img width="632" alt="image" src="https://github.com/CyDefOps/project-killchain/assets/110534650/7ee2781b-9590-4029-aa48-3660de83c145">
-
-
-<sub>Deconstructing Deception - cl0p</sub>
+<center><img width="632" alt="image" src="https://github.com/CyDefOps/project-killchain/assets/110534650/7ee2781b-9590-4029-aa48-3660de83c145"></center>
 
 Currently the selection of available papers include:
+
 1. [Dissecting Malicious PyPi Packages](https://cydefops.com/dissecting-pypi-packages)
 2. [Chinese Scammers Targeting Qatar Residents](https://cydefops.com/chinese-sms-scams-qatar)
 3. [Malicious PyPi Packages Leading To Phishing Websites](https://cydefops.com/malicious-pypi-packages)
 4. [Malicious PyPi Packages Leading To Phishing Websites - Part 2](https://cydefops.com/malicious-pypi-part-2)
 5. [Deconstructing Deception - Cl0p](https://cydefops.com/deconstructing-deception)
+6. [VSCode - Forwarded Ports For Data Exfiltration](https://cydefops.com/vscode-data-exfiltration)
+7. [Cracking The Code - DevTunnels Unleashed](https://cydefops.com/devtunnels-unleashed)
 
 
 # [Scripts](https://github.com/CyDefOps/project-killchain/tree/main/Scripts "PKC Scripts Repo")
@@ -217,10 +217,6 @@ Here you'll find scripts geared towards performing reverse engineering static as
 ## [Cryptography]((https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Cryptography), "PKC Cryptography, Scripts Repo")
 
 Here you'll find scripts geared towards cryptographic algorithms, encryption & decryption as well as hash calulations etc. 
-
-## [Phishing Emails Analysis]((https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Web%20Security](https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Phishing%20Emails%20Analysis), "PKC Phishing-Emails-Analysis, Scripts Repo")
-
-Here you'll find scripts geared towards analyzing a wide range of phishing emails (simple & sophisticated) to gather IOCs, automated attachment downloads etc. 
 
 # Project Killchain Team
 
