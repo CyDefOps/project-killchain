@@ -25,8 +25,8 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/CyDefOps/project-killchain?style=flat-square&color=357441)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/cydefops/project-killchain?style=flat-square)
 ![Website](https://img.shields.io/website?up_message=UP&up_color=357441&down_message=DOWN&down_color=880808&url=https%3A%2F%2Fcydefops.com&style=flat-square)
-![PKC Members](https://img.shields.io/badge/PKC%20Members-%20123-357441?style=flat-square)
-![PKC Associates](https://img.shields.io/badge/PKC%20Associates-%2065-357441?style=flat-square)
+![PKC Members](https://img.shields.io/badge/PKC%20Members-%20124-357441?style=flat-square)
+![PKC Associates](https://img.shields.io/badge/PKC%20Associates-%2067-357441?style=flat-square)
 
 # Table of Contents
 - [Project Killchain \[PKC\]](#project-killchain-pkc)
