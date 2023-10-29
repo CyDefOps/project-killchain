@@ -1,4 +1,4 @@
-### Matrix Synapse Homeserver Automation - Project KillChain
+### Synapse Homeserver Automation - Uptime Check
 Automation of Matrix Synapse, this script checks if a server is online, and if it goes down, it sends a webhook to your IFTTT webhook endpoint (i.e. your phone) so you can fix it. Made with :heart: by [$HELLS](https://github.com/ntwrite).
 
 ![PKC](https://img.shields.io/badge/Project-%20Killchain-357441)
