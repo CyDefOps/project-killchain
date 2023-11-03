@@ -1,0 +1,32 @@
+name: Fetch and Push PKC Honeypot logs
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  download-and-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Download 14-day log file
+      run: |
+        mkdir -p IOCs/network-indicators/honeypot
+        curl -o IOCs/network-indicators/honeypot/iocs-14d.csv https://honey.pkc.supreme.sh/pkc/ssh/logs/honey-14d.log
+
+    - name: Download 30-day log file
+      run: |
+        mkdir -p IOCs/network-indicators/honeypot
+        curl -o IOCs/network-indicators/honeypot/iocs-30d.csv https://honey.pkc.supreme.sh/pkc/ssh/logs/honey-30d.log
+
+    - name: Commit and push if there are changes
+      run: |
+        git config --global user.name 'Cam [Actions]'
+        git config --global user.email 'action@github.com'
+        git add IOCs/network-indicators/honeypot/iocs-14d.csv
+        git add IOCs/network-indicators/honeypot/iocs-30d.csv
+        git commit -m "Update Honeypot IOC files" || echo "No changes to commit"
+        git push
