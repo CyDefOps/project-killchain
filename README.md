@@ -19,7 +19,7 @@
 
   
 
-<img  src="https://supreme.sh/assets/pkc.jpg"  width="250"  height="250">
+<img  src="https://img1.wsimg.com/blobby/go/1cf5bcbc-aad3-42e4-a7e0-6c0149aec441/downloads/BG%20Gradient%20(2).png"  width="250"  height="250">
 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/CyDefOps/project-killchain?style=flat-square&color=357441)
 ![GitHub contributors](https://img.shields.io/github/contributors/CyDefOps/project-killchain?style=flat-square&color=357441)
