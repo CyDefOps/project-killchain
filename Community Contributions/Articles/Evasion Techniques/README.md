@@ -1,4 +1,4 @@
-# BYPASS AV/EDR's using Stealty Techniques
+# BYPASS AV/EDR's using Stealthy Techniques
 # This section will help both Red&Blue Teaming.
 
 This sections includes all the contributions made by Project-KillChain community members on different platforms. This repository is to support their contributions towards sharing their knowledge with the community and to prepare them for the Cyber Security market.
