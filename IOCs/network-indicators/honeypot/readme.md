@@ -5,7 +5,7 @@ This repository is dedicated to providing an automated live feed of our threat i
 
 All data is gathered from our SSH honeypots. Our honeypots simulate SSH servers and records detailed information about attack patterns, which can be ingested directly into SIEM solutions for real-time security analysis. 
 
-Made with :heart: by [KayaSEC](https://github.com/KayaSEC) + [$HELLS](https://github.com/ntwrite).
+Made with :heart: by [$HELLS](https://github.com/ntwrite) + [KayaSEC](https://github.com/KayaSEC).
 
 ![PKC](https://img.shields.io/badge/Project-%20Killchain-357441)
 ![Language](https://img.shields.io/badge/Language-%20Kusto-357441?style=flat-square)
