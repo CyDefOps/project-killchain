@@ -6,7 +6,6 @@ A super rapid email phishing analysis tool. Made with :heart: by [KayaSEC](https
 
 <img src="https://img1.wsimg.com/blobby/go/1cf5bcbc-aad3-42e4-a7e0-6c0149aec441/downloads/BG%20Gradient%20(2).png" width="125" height="125">
 
-----
 ## Overview
 
 The purpose of this script is intended to do various, rapid investigation actions a SOC/CSIRT analyst may do when investigating a phishing email. The script checks:
@@ -128,14 +127,9 @@ e.g. ```python3 wtp.py --path /a/b/c/sample.eml```
 
 ----
 
-----
-
 ### Contributions
 Project Killchain values and appreciates contributions from the cybersecurity community. Feel free to contribute code, share new tools, update our knowledge base, or expand the IOC database. 
 
 Please review the contributing guidelines before making any contributions.
 
 https://github.com/CyDefOps/project-killchain#contributions
-
-----
-
