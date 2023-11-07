@@ -47,7 +47,7 @@ Data is structured in a JSON format, with fields corresponding to each type of I
 2023-11-03T12:08:37,43.156.237.124,SSH-2.0-libssh_0.9.6,f555226df1963d1d3c09daf865abdc9a,345gs5662d34,345gs5662d34,failed
 ```
 
-## [Attack Pattern](https://github.com/CyDefOps/project-killchain/IOCs/network-indicators/honeypot/attack-pattern) 🛡️
+## [Attack Pattern](https://github.com/CyDefOps/project-killchain/blob/main/IOCs/network-indicators/honeypot/attack-pattern/full-14d.csv) 🛡️
 
 Attack pattern logs are unlike our standard IOCs, these are for: 
 
