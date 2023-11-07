@@ -4,7 +4,7 @@ Automation of Matrix Synapse, this script checks if a server is online, and if i
 ![PKC](https://img.shields.io/badge/Project-%20Killchain-357441)
 ![Language](https://img.shields.io/badge/Language-%20Shell-357441?style=flat-square)
 
-<img src="https://camo.githubusercontent.com/1ff5370fbb2b1778bb50775f7a3e06790b6a878343688b9c5151dcbddd5b482a/68747470733a2f2f73757072656d652e73682f6173736574732f706b632e6a7067" width="125" height="125">
+<img src="https://img1.wsimg.com/blobby/go/1cf5bcbc-aad3-42e4-a7e0-6c0149aec441/downloads/BG%20Gradient%20(2).png" width="125" height="125">
 
 ----
 ## Overview
