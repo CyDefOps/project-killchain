@@ -17,7 +17,9 @@ Made with :heart: by [$HELLS](https://github.com/ntwrite).
 
 Our SSH honeypot is built on top of robust open-source security projects and employs various levels of subterfuge to make it indistinguishable from a real SSH server. It captures and parses attack data, presenting clean and structured IOCs.
 
-## IOCs and Data Structure
+Using this data, you can ingest inline to your SIEM, cross reference for Threat Hunting or Incident Response or for Detection Engineering enhancements using our Attack Pattern data.
+
+## IOCs and Data Structure 🧙
 
 The IOCs provided here include:
 
@@ -45,7 +47,7 @@ Data is structured in a JSON format, with fields corresponding to each type of I
 2023-11-03T12:08:37,43.156.237.124,SSH-2.0-libssh_0.9.6,f555226df1963d1d3c09daf865abdc9a,345gs5662d34,345gs5662d34,failed
 ```
 
-## [Attack Pattern](https://github.com/CyDefOps/project-killchain/IOCs/network-indicators/honeypot/attack-pattern)
+## [Attack Pattern](https://github.com/CyDefOps/project-killchain/IOCs/network-indicators/honeypot/attack-pattern) 🛡️
 
 Attack pattern logs are unlike our standard IOCs, these are for: 
 
@@ -95,4 +97,42 @@ Proactively searching through networks to detect and isolate advanced threats th
 ```
 
 You may use this to identify various methods used by threat actors to gain persistence and enact lateral movement in an environment following initial access.
-### Made with 🫶 by @[ntwrite](https://github.com/ntwrite) and @[KayaSEC](https://github.com/KayaSEC) 
+
+## Kusto Ingestion Inline 🤓
+
+### NOTE: For Azure Sentinel/ Advanced Threat Protection (KQL BASED)
+
+Finally, you can also ingest this data inline to Azure Sentinel or ATP, as they are written in Kusto. This will allow you to cross reference any of your logs, to our Threat Intel data with no extra effort required on your part. (I do not recommend doing this in ATP, ATP is not a strong query engine like Sentinel).
+
+```
+let pkc_honeypot = (externaldata(ext_iocs: string) [@"https://github.com/CyDefOps/project-killchain/raw/main/IOCs/network-indicators/honeypot/iocs-14d.csv"]
+    with (format="txt"))
+    | where ext_iocs !startswith "#";
+pkc_honeypot
+| extend arr_split = tostring(split(ext_iocs,','))
+| extend TimeGenerated = todatetime(parse_json(arr_split)[0]),
+    malicious_ip = tostring(parse_json(arr_split)[1]),
+    ssh_client = tostring(parse_json(arr_split)[2]),
+    sshhash = tostring(parse_json(arr_split)[3]),
+    username_attempt = tostring(parse_json(arr_split)[4]),
+    password_attempt = tostring(parse_json(arr_split)[5])
+| project-away arr_split, ext_iocs
+```
+From here, just join to your other telemetry tables you wish to match our data on 😄
+
+Thanks ($HELLS + KayaSEC).
+
+----
+
+### Updates Coming...
+- Increased Nodes/ Diversification
+- Variations of datatypes
+
+----
+
+### Contributions
+Project Killchain values and appreciates contributions from the cybersecurity community. Feel free to contribute code, share new tools, update our knowledge base, or expand the IOC database. 
+
+Please review the contributing guidelines before making any contributions.
+
+https://github.com/CyDefOps/project-killchain#contributions
