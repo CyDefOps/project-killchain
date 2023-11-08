@@ -19,15 +19,25 @@
 
   
 
-- Red Team Resources: Collection of penetration testing tools, scripts, and techniques for comprehensive vulnerability assessment.
+- **Red Team Resources**
 
-- Blue Team Resources: Wide range of tools for incident response, digital forensics, threat hunting, and hardening security infrastructures.
+Collection of penetration testing tools, scripts, and techniques for comprehensive vulnerability assessment.
 
-- IOC Database: A database of IOCs, which includes but are not limited to IP addresses, domain names, URLs, file hashes, etc., associated with known threat actors and their campaigns.
+- **Blue Team Resources**
 
-- Knowledge Base: Detailed guides, walkthroughs, and tips related to the latest offensive and defensive cybersecurity tactics, techniques, and procedures (TTPs).
+Wide range of tools for incident response, digital forensics, threat hunting, and hardening security infrastructures.
 
-- Open Source: Open-source repository welcoming contributions from the community.
+- **IOC Database**
+
+A database of IOCs, which includes but are not limited to IP addresses, domain names, URLs, file hashes, etc., associated with known threat actors and their campaigns.
+
+- **Knowledge Base**
+
+Detailed guides, walkthroughs, and tips related to the latest offensive and defensive cybersecurity tactics, techniques, and procedures (TTPs).
+
+- **Open Source**
+
+Open-source repository welcoming contributions from the community.
 
 
 
