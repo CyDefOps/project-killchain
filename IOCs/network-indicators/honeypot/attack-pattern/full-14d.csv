@@ -831,6 +831,56 @@
             "session": "67cebad94906"
         }
     ],
+    "191.8.36.105": [
+        {
+            "timestamp": "2023-11-08T14:38:14.612171Z",
+            "event": "command_input",
+            "input": "/ip cloud print",
+            "session": "343836c31652"
+        },
+        {
+            "timestamp": "2023-11-08T14:38:16.278080Z",
+            "event": "command_input",
+            "input": "ifconfig",
+            "session": "343836c31652"
+        },
+        {
+            "timestamp": "2023-11-08T14:38:23.921241Z",
+            "event": "command_input",
+            "input": "uname -a",
+            "session": "343836c31652"
+        },
+        {
+            "timestamp": "2023-11-08T14:38:28.237428Z",
+            "event": "command_input",
+            "input": "cat /proc/cpuinfo",
+            "session": "343836c31652"
+        },
+        {
+            "timestamp": "2023-11-08T14:38:31.411042Z",
+            "event": "command_input",
+            "input": "ps | grep '[Mm]iner'",
+            "session": "343836c31652"
+        },
+        {
+            "timestamp": "2023-11-08T14:38:33.115236Z",
+            "event": "command_input",
+            "input": "ps -ef | grep '[Mm]iner'",
+            "session": "343836c31652"
+        },
+        {
+            "timestamp": "2023-11-08T14:38:34.712249Z",
+            "event": "command_input",
+            "input": "ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*",
+            "session": "343836c31652"
+        },
+        {
+            "timestamp": "2023-11-08T14:38:36.363998Z",
+            "event": "command_input",
+            "input": "echo Hi | cat -n",
+            "session": "343836c31652"
+        }
+    ],
     "159.65.146.149": [
         {
             "timestamp": "2023-11-06T00:04:20.154859Z",
