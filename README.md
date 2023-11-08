@@ -1,18 +1,4 @@
-### Project Summary 
 
-  
-
-- Red Team Resources: Collection of penetration testing tools, scripts, and techniques for comprehensive vulnerability assessment.
-
-- Blue Team Resources: Wide range of tools for incident response, digital forensics, threat hunting, and hardening security infrastructures.
-
-- IOC Database: A database of IOCs, which includes but are not limited to IP addresses, domain names, URLs, file hashes, etc., associated with known threat actors and their campaigns.
-
-- Knowledge Base: Detailed guides, walkthroughs, and tips related to the latest offensive and defensive cybersecurity tactics, techniques, and procedures (TTPs).
-
-- Open Source: Open-source repository welcoming contributions from the community.
-
-  
   
 
 # Project Killchain [PKC]
@@ -28,6 +14,22 @@
 ![PKC Members](https://img.shields.io/badge/PKC%20Members-%20124-357441?style=flat-square)
 ![PKC Associates](https://img.shields.io/badge/PKC%20Associates-%2067-357441?style=flat-square)
 [![TI IOC Automation - FETCH](https://github.com/CyDefOps/project-killchain/actions/workflows/main.yml/badge.svg)](https://github.com/CyDefOps/project-killchain/actions/workflows/main.yml)
+
+### Project Summary 
+
+  
+
+- Red Team Resources: Collection of penetration testing tools, scripts, and techniques for comprehensive vulnerability assessment.
+
+- Blue Team Resources: Wide range of tools for incident response, digital forensics, threat hunting, and hardening security infrastructures.
+
+- IOC Database: A database of IOCs, which includes but are not limited to IP addresses, domain names, URLs, file hashes, etc., associated with known threat actors and their campaigns.
+
+- Knowledge Base: Detailed guides, walkthroughs, and tips related to the latest offensive and defensive cybersecurity tactics, techniques, and procedures (TTPs).
+
+- Open Source: Open-source repository welcoming contributions from the community.
+
+
 
 # Table of Contents
 - [Project Killchain \[PKC\]](#project-killchain-pkc)
