@@ -881,6 +881,64 @@
             "session": "343836c31652"
         }
     ],
+    "183.106.205.242": [
+        {
+            "timestamp": "2023-11-08T15:31:34.235109Z",
+            "event": "command_input",
+            "input": "./oinasf; dd if=/proc/self/exe bs=22 count=1 || while read i; do echo $i; done < /proc/self/exe || cat /proc/self/exe;",
+            "session": "b9c9a295cd26"
+        }
+    ],
+    "187.134.236.169": [
+        {
+            "timestamp": "2023-11-08T15:34:28.457978Z",
+            "event": "command_input",
+            "input": "/ip cloud print",
+            "session": "1f4f9a82eabc"
+        },
+        {
+            "timestamp": "2023-11-08T15:34:28.642134Z",
+            "event": "command_input",
+            "input": "ifconfig",
+            "session": "1f4f9a82eabc"
+        },
+        {
+            "timestamp": "2023-11-08T15:34:28.918189Z",
+            "event": "command_input",
+            "input": "uname -a",
+            "session": "1f4f9a82eabc"
+        },
+        {
+            "timestamp": "2023-11-08T15:34:29.098058Z",
+            "event": "command_input",
+            "input": "cat /proc/cpuinfo",
+            "session": "1f4f9a82eabc"
+        },
+        {
+            "timestamp": "2023-11-08T15:34:29.361024Z",
+            "event": "command_input",
+            "input": "ps | grep '[Mm]iner'",
+            "session": "1f4f9a82eabc"
+        },
+        {
+            "timestamp": "2023-11-08T15:34:29.592980Z",
+            "event": "command_input",
+            "input": "ps -ef | grep '[Mm]iner'",
+            "session": "1f4f9a82eabc"
+        },
+        {
+            "timestamp": "2023-11-08T15:34:29.772177Z",
+            "event": "command_input",
+            "input": "ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*",
+            "session": "1f4f9a82eabc"
+        },
+        {
+            "timestamp": "2023-11-08T15:34:30.028682Z",
+            "event": "command_input",
+            "input": "echo Hi | cat -n",
+            "session": "1f4f9a82eabc"
+        }
+    ],
     "159.65.146.149": [
         {
             "timestamp": "2023-11-06T00:04:20.154859Z",
