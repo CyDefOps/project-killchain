@@ -5095,6 +5095,14 @@
             "session": "bfc39e8ebd66"
         }
     ],
+    "218.148.11.5": [
+        {
+            "timestamp": "2023-11-09T18:02:21.061272Z",
+            "event": "command_input",
+            "input": "./oinasf; dd if=/proc/self/exe bs=22 count=1 || while read i; do echo $i; done < /proc/self/exe || cat /proc/self/exe;",
+            "session": "365584c24967"
+        }
+    ],
     "159.65.146.149": [
         {
             "timestamp": "2023-11-06T00:04:20.154859Z",
