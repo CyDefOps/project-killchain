@@ -93,6 +93,12 @@
             "session": "b96c6a64557d"
         },
         {
+            "timestamp": "2023-11-10T02:27:44.087599Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "8cb7481e4515"
+        },
+        {
             "timestamp": "2023-11-09T22:10:37.262975Z",
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
@@ -179,6 +185,36 @@
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
             "session": "700a4b6f2c44"
+        },
+        {
+            "timestamp": "2023-11-10T02:24:45.606105Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "a8abb256c536"
+        },
+        {
+            "timestamp": "2023-11-10T02:30:17.591204Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "99fd0a76d6a5"
+        },
+        {
+            "timestamp": "2023-11-10T02:52:24.532741Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "bd7978547e47"
+        },
+        {
+            "timestamp": "2023-11-10T02:57:56.193229Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "d9444fcd5e8c"
+        },
+        {
+            "timestamp": "2023-11-10T03:03:28.169221Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "8fd72da8cc83"
         },
         {
             "timestamp": "2023-11-04T00:19:33.507109Z",
@@ -437,6 +473,48 @@
             "event": "direct_tcpip_data",
             "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
             "session": "b3e3ff2be781"
+        },
+        {
+            "timestamp": "2023-11-10T03:05:02.677480Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "7ae77e971385"
+        },
+        {
+            "timestamp": "2023-11-10T03:05:09.448099Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "3bb0f462a9ea"
+        },
+        {
+            "timestamp": "2023-11-10T03:05:12.231000Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "a50e4ba1b4a6"
+        },
+        {
+            "timestamp": "2023-11-10T03:05:17.898532Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "473bd31d8411"
+        },
+        {
+            "timestamp": "2023-11-10T03:05:20.667706Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "191dcc147c47"
+        },
+        {
+            "timestamp": "2023-11-10T03:05:26.295280Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "e776265f08b8"
+        },
+        {
+            "timestamp": "2023-11-10T03:05:30.130565Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "e346c9b0bb08"
         }
     ],
     "177.30.73.53": [
