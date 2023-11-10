@@ -259,6 +259,30 @@
             "session": "b8bab401b227"
         },
         {
+            "timestamp": "2023-11-10T07:18:58.794758Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "d61ddd485783"
+        },
+        {
+            "timestamp": "2023-11-10T07:24:43.564812Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "90e4b2b81e9e"
+        },
+        {
+            "timestamp": "2023-11-10T07:30:16.292748Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "48a216dcbb92"
+        },
+        {
+            "timestamp": "2023-11-10T08:02:49.579125Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "46848458b9c0"
+        },
+        {
             "timestamp": "2023-11-04T00:19:33.507109Z",
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
