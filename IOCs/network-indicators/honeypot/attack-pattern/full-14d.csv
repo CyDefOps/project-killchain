@@ -2017,6 +2017,14 @@
             "session": "08404d3c185d"
         }
     ],
+    "218.146.13.72": [
+        {
+            "timestamp": "2023-11-10T15:13:04.971528Z",
+            "event": "command_input",
+            "input": "./oinasf; dd if=/proc/self/exe bs=22 count=1 || while read i; do echo $i; done < /proc/self/exe || cat /proc/self/exe;",
+            "session": "88fe20875ddb"
+        }
+    ],
     "159.65.146.149": [
         {
             "timestamp": "2023-11-06T00:04:20.154859Z",
