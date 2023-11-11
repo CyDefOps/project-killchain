@@ -1631,6 +1631,12 @@
             "session": "37258ab42144"
         },
         {
+            "timestamp": "2023-11-11T21:12:18.490270Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "7857253d0770"
+        },
+        {
             "timestamp": "2023-11-04T00:19:33.507109Z",
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
