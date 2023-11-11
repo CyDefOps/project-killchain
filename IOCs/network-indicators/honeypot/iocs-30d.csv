@@ -17677,3 +17677,5 @@
 2023-11-11T15:04:38,69.4.135.243,SSH-2.0-libssh_0.9.6,f555226df1963d1d3c09daf865abdc9a,ubuntu,welcome1,failed
 2023-11-11T15:08:39,85.209.11.227,SSH-2.0-Go,c3a948709cdbcfce6ee341735b6d74a2,root,roadguam1,succeeded
 2023-11-11T15:19:25,165.227.201.141,SSH-2.0-Go,c3a948709cdbcfce6ee341735b6d74a2,root,roadguam1,succeeded
+2023-11-11T15:47:12,85.209.11.227,SSH-2.0-Go,c3a948709cdbcfce6ee341735b6d74a2,root,roadguam1,failed
+2023-11-11T16:26:56,198.235.24.156,SSH-2.0-ZGrab ZGrab SSH Survey,dd9bcf093c355da7000132131cb36fd0,root,root,failed
