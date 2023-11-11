@@ -353,6 +353,42 @@
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
             "session": "d226335e4ee2"
+        },
+        {
+            "timestamp": "2023-11-11T06:41:48.658331Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "b4f176ed8e2e"
+        },
+        {
+            "timestamp": "2023-11-11T06:47:17.942357Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "384b7154878c"
+        },
+        {
+            "timestamp": "2023-11-11T06:52:47.385641Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "e9d32f5ee71c"
+        },
+        {
+            "timestamp": "2023-11-11T06:58:16.990883Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "6f736f56f88b"
+        },
+        {
+            "timestamp": "2023-11-11T07:03:46.121308Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "8d6f9d09fe13"
+        },
+        {
+            "timestamp": "2023-11-11T07:09:15.691616Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "6a3603138a92"
         }
     ],
     "141.98.11.90": [
