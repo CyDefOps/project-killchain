@@ -1953,6 +1953,12 @@
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
             "session": "85c66ef75fa1"
+        },
+        {
+            "timestamp": "2023-11-13T21:03:35.133636Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "55919dab0343"
         }
     ],
     "13.70.39.68": [
@@ -2281,6 +2287,14 @@
             "event": "command_input",
             "input": "echo Hi | cat -n",
             "session": "0541fd2cc026"
+        }
+    ],
+    "202.215.77.144": [
+        {
+            "timestamp": "2023-11-13T20:13:44.390403Z",
+            "event": "command_input",
+            "input": "./oinasf; dd if=/proc/self/exe bs=22 count=1 || while read i; do echo $i; done < /proc/self/exe || cat /proc/self/exe;",
+            "session": "90181cda2cd2"
         }
     ],
     "189.112.0.11": [
