@@ -81,6 +81,70 @@
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
             "session": "d4c5e6945b1a"
+        },
+        {
+            "timestamp": "2023-11-14T02:45:06.018206Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "1e53bb9df765"
+        }
+    ],
+    "222.104.8.192": [
+        {
+            "timestamp": "2023-11-14T02:11:13.199299Z",
+            "event": "command_input",
+            "input": "./oinasf; dd if=/proc/self/exe bs=22 count=1 || while read i; do echo $i; done < /proc/self/exe || cat /proc/self/exe;",
+            "session": "a130c1a49c93"
+        }
+    ],
+    "139.59.103.206": [
+        {
+            "timestamp": "2023-11-14T02:26:55.544740Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "430153e3d0f1"
+        },
+        {
+            "timestamp": "2023-11-13T14:49:11.985389Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "6e331aebb75e"
+        },
+        {
+            "timestamp": "2023-11-13T14:55:46.396046Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "13ecf65282a2"
+        },
+        {
+            "timestamp": "2023-11-13T15:15:17.911131Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "10e7550c2b87"
+        },
+        {
+            "timestamp": "2023-11-13T15:21:49.140055Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "c932261892e2"
+        },
+        {
+            "timestamp": "2023-11-13T15:28:20.023614Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "027caff7a0b5"
+        },
+        {
+            "timestamp": "2023-11-13T15:34:50.901453Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "85c66ef75fa1"
+        },
+        {
+            "timestamp": "2023-11-13T21:03:35.133636Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "55919dab0343"
         }
     ],
     "189.112.0.11": [
@@ -3513,50 +3577,6 @@
             "event": "file_download",
             "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
             "session": "ce3c08d63a08"
-        }
-    ],
-    "139.59.103.206": [
-        {
-            "timestamp": "2023-11-13T14:49:11.985389Z",
-            "event": "command_input",
-            "input": "uname -s -v -n -r -m",
-            "session": "6e331aebb75e"
-        },
-        {
-            "timestamp": "2023-11-13T14:55:46.396046Z",
-            "event": "command_input",
-            "input": "uname -s -v -n -r -m",
-            "session": "13ecf65282a2"
-        },
-        {
-            "timestamp": "2023-11-13T15:15:17.911131Z",
-            "event": "command_input",
-            "input": "uname -s -v -n -r -m",
-            "session": "10e7550c2b87"
-        },
-        {
-            "timestamp": "2023-11-13T15:21:49.140055Z",
-            "event": "command_input",
-            "input": "uname -s -v -n -r -m",
-            "session": "c932261892e2"
-        },
-        {
-            "timestamp": "2023-11-13T15:28:20.023614Z",
-            "event": "command_input",
-            "input": "uname -s -v -n -r -m",
-            "session": "027caff7a0b5"
-        },
-        {
-            "timestamp": "2023-11-13T15:34:50.901453Z",
-            "event": "command_input",
-            "input": "uname -s -v -n -r -m",
-            "session": "85c66ef75fa1"
-        },
-        {
-            "timestamp": "2023-11-13T21:03:35.133636Z",
-            "event": "command_input",
-            "input": "uname -s -v -n -r -m",
-            "session": "55919dab0343"
         }
     ],
     "13.70.39.68": [
