@@ -339,6 +339,18 @@
             "session": "430153e3d0f1"
         },
         {
+            "timestamp": "2023-11-14T14:46:23.457089Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "65d782a94a30"
+        },
+        {
+            "timestamp": "2023-11-14T14:53:19.904147Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "6b81475690ac"
+        },
+        {
             "timestamp": "2023-11-13T14:49:11.985389Z",
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
