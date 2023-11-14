@@ -57,6 +57,32 @@
             "session": "719e61d3a1ff"
         }
     ],
+    "45.55.44.38": [
+        {
+            "timestamp": "2023-11-14T01:11:15.024164Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "3b615f615e47"
+        },
+        {
+            "timestamp": "2023-11-14T01:34:15.046566Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "6cf67e71a33c"
+        },
+        {
+            "timestamp": "2023-11-14T01:51:51.784936Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "568adde79b5d"
+        },
+        {
+            "timestamp": "2023-11-14T02:03:41.157385Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "d4c5e6945b1a"
+        }
+    ],
     "189.112.0.11": [
         {
             "timestamp": "2023-11-11T01:06:14.632110Z",
