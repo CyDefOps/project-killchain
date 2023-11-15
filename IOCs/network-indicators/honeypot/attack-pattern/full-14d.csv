@@ -263,6 +263,30 @@
             "session": "941a53d2ac7f"
         },
         {
+            "timestamp": "2023-11-15T11:20:06.334483Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "292c28cf312c"
+        },
+        {
+            "timestamp": "2023-11-15T11:26:03.602089Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "faac58d3db0f"
+        },
+        {
+            "timestamp": "2023-11-15T11:37:58.409430Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "859325577fe1"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:46.561415Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "892930b4a937"
+        },
+        {
             "timestamp": "2023-11-14T01:11:15.024164Z",
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
@@ -5287,6 +5311,2186 @@
             "event": "file_download",
             "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
             "session": "c3ab95e97ed3"
+        }
+    ],
+    "186.216.220.103": [
+        {
+            "timestamp": "2023-11-15T11:57:47.802114Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "3bc318c8a360"
+        },
+        {
+            "timestamp": "2023-11-15T11:57:49.843118Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "9d168aaccb1d"
+        },
+        {
+            "timestamp": "2023-11-15T11:57:51.994312Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "52aeb568c06b"
+        },
+        {
+            "timestamp": "2023-11-15T11:57:53.739254Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "6816717a1872"
+        },
+        {
+            "timestamp": "2023-11-15T11:57:55.681401Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "7401b399f46b"
+        },
+        {
+            "timestamp": "2023-11-15T11:57:57.920108Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "6d4f75e9c166"
+        },
+        {
+            "timestamp": "2023-11-15T11:57:59.872573Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c1fa12867de9"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:01.738902Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "4a9bf9848baa"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:03.564516Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "4a2d46d6d57a"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:06.075009Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "b269c0dc5b68"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:07.967116Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "04a856d43725"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:09.866534Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "6d36444e32ac"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:11.795180Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "92d2e311a889"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:13.467551Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c7352416c447"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:15.112048Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5ea627d2bb00"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:17.236651Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "1ebec5eb9a28"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:19.273357Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0f34362c3d59"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:21.215213Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "30fc6d06936e"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:22.833322Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ffe1230b6b46"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:24.726589Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "dcd2043a3f78"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:26.812056Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "3024771cdc6f"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:28.514053Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "4f0e5339e62a"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:30.639827Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "47b7274fc8ba"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:32.736063Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "4822c31c49ad"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:34.673628Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "4ccd1579800a"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:36.759048Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "fd321894c23f"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:38.734321Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8959a66eb0af"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:40.517586Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "dc1e86945af0"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:42.326347Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "3053dc26a67b"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:44.030533Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "cdb7fe1243ac"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:45.904755Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "b30106a3199f"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:47.692414Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ee2383183e1b"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:49.542889Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "31c293d5d620"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:53.831048Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "16a4b95033ed"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:56.717305Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f46e5b00832f"
+        },
+        {
+            "timestamp": "2023-11-15T11:58:58.363646Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "25b6d2315b9a"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:00.045964Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f418e83b6057"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:01.871450Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "7fe64432a328"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:03.555749Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0e72b85e38ae"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:05.878378Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "59a1b333fc30"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:07.424333Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "80e7277fecc8"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:09.145353Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "824a7487c4de"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:11.016622Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "023ea1429b60"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:13.053108Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5f53f66c4241"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:15.102719Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ea4d7f662e8b"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:17.642676Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "33eaf81b08f9"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:19.761762Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "50525052434b"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:21.656853Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "a557070fd6f5"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:24.347027Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5085c46ade32"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:26.483029Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0f7b4f315b6a"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:28.352324Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5c6b8bb94fe8"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:30.948915Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f7e6be585644"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:33.051395Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "eb9dfc7a477b"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:34.832129Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f7e9796e711c"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:36.651891Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "425091c67c46"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:38.568595Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "3198baca9484"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:40.173661Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c81f7c621c6c"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:41.854422Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c516352df5aa"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:43.746559Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f59f5e95c5ed"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:45.602530Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "bad16c2ac16c"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:47.957500Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ad9f55abd111"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:49.468338Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c883a0972770"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:51.371087Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "7321c21f42f7"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:54.486197Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "361909761b1f"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:56.737197Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "09dbfb6ceec1"
+        },
+        {
+            "timestamp": "2023-11-15T11:59:58.930526Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "904bb0792e87"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:00.581881Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "82e129e315a0"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:02.343522Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "656f87bf6db6"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:04.218390Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "1afa9522c675"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:06.136017Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "013dd33121af"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:07.639455Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "51c7cabdc280"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:09.890551Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "001cd94caa12"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:11.724202Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "7051cb133912"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:13.766501Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d5a35b91ee66"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:16.144966Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0f0fec65d3a9"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:18.202534Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "04336b786df8"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:20.205377Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "4d7e196a37ac"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:23.772651Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "1734f522ff4c"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:25.659087Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "90e43b03596f"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:27.300249Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0cf456bdaa5b"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:29.865400Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "1a935eced702"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:32.161760Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "14c81d0b260a"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:34.052783Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "b7b3de4fb384"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:36.188083Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "cda28f8805b7"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:37.912550Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ec1c9104431f"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:39.593480Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "07a2b4b429c6"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:41.460057Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5621ade212b4"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:43.067831Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "743159c8b025"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:44.717886Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "798a62164370"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:46.395401Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "030c316274cd"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:47.945823Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f42a2e6ccf87"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:50.050241Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "40adac715546"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:52.205092Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "28c6354f5404"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:54.173875Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "33649515e13f"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:56.139508Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "2f047b9431a2"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:57.769256Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f30a5302d2ba"
+        },
+        {
+            "timestamp": "2023-11-15T12:00:59.899695Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d386ec2efb75"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:01.760918Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "81036b680e4e"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:03.171375Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "41a902a39c9d"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:05.027775Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "dc5f1d85f47f"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:06.861254Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "3aec7a1a9b8c"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:08.955053Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8ae39da3e14a"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:11.132901Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "2de1fcbb9593"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:12.943455Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "511346104449"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:15.012050Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c1f27d5f8fd2"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:17.142040Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "21ea56e49c8d"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:18.943832Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "4f53b12ebc9f"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:20.587731Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "4c5bfec2a211"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:23.054554Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "347365c4f4d0"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:25.205702Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c2b771905d11"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:26.877906Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f04c988838b3"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:28.790019Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "2220938743db"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:30.694828Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "e6425356dcad"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:32.777513Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "2be356fa898a"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:34.991240Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "848d37f7e3b6"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:36.891306Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "383752f90b8c"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:38.816791Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "891b99ed3332"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:40.778492Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8aaa9c8febbb"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:42.567526Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d4c9313687a4"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:45.100746Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "03013d650b1b"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:47.168798Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "1a1a3bf4646f"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:50.508662Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8b8fc3f75299"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:52.584969Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "b0cf637135be"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:54.360057Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0bf3aa062342"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:56.502692Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "72d72b71d4ae"
+        },
+        {
+            "timestamp": "2023-11-15T12:01:58.440470Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "89cba3feeced"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:00.916830Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c036b7ae664f"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:02.822393Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5f9f123a1a86"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:05.171946Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "70db83dccddc"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:07.650071Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0d3570026eae"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:11.514852Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "7536f5b71516"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:13.319896Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "474fa9dc4a14"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:15.293642Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d78e196001f4"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:17.806020Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d66ec8dfe15a"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:20.287963Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d2a1c1b7e80e"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:22.726377Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ac80b8a0f662"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:24.505172Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "bcbe120a1057"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:26.710073Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "82c8cc83eb93"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:29.381885Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "dfd9b1b55b25"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:31.314430Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ee3a9d4f4f0d"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:32.996713Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f26db1276c7f"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:35.061064Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "de7d086c3637"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:37.458864Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "7ec85e227ab8"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:40.014189Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "6365b98bc11b"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:41.988443Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "15467058363f"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:44.330509Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "dad7c7a11720"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:48.123964Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "98e1121413e3"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:49.816781Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "16f4777a7113"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:52.430783Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "3ed1b4bb6aa2"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:54.321949Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8cce9cf6e4c6"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:55.943801Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0cf289390d14"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:57.974808Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "38036e0ad2de"
+        },
+        {
+            "timestamp": "2023-11-15T12:02:59.898661Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f3ab1e13ee59"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:01.734878Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "78ffed172889"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:04.107469Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "589c758270ae"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:06.296190Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "36b7f3728a9e"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:08.370896Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "adf402bbbd64"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:10.527940Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0ef2d009b954"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:12.605257Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "1a7aaea53758"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:14.606430Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "9c654e8e6498"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:16.509096Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "36550a069f83"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:18.402900Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "00639b07976c"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:21.173647Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "2d43ed311747"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:23.371629Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "7f0a7c35ea31"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:24.829653Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "2408d0afa0a0"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:26.444806Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0e3dc5e458b0"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:29.487666Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "e17123948be0"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:31.075989Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5eda6e4fa388"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:32.724991Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "e4cb46e65b91"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:34.879298Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d3e81641d581"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:36.772245Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "56c0c1d0f4c9"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:38.535832Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "6583bfa05c3b"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:40.381525Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "34e4a4f9aba6"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:42.271455Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "4c7f18172e87"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:44.193760Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "3e478b6362a0"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:46.096468Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "81a1e106356a"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:47.720444Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "6912aed821a1"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:49.520440Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "6b2c64708a07"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:51.306281Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "b3e4f6970a1f"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:53.460799Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "fcfa7f7d6ffe"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:55.191020Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "cbf00c555ece"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:56.817611Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0e159648d6f1"
+        },
+        {
+            "timestamp": "2023-11-15T12:03:58.837402Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8eccc304cec5"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:00.685458Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "60aa386b92b1"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:02.527427Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "bfa5d585fce6"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:04.764606Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0d1539d75de8"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:07.283655Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c904408774d8"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:09.423496Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "1661d87055e9"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:11.455673Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0563ff0a02a8"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:13.374023Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "a7352c018442"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:15.446555Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8acfa138232a"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:17.460638Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5b3bfc0b3fd8"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:19.364902Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d44ced584999"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:20.825850Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "7cab1aeeabb8"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:22.811154Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5f1cdc318c00"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:24.810628Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "b24cd22288e0"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:27.470104Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "56fe7b6b3221"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:29.510170Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "976addefd85b"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:31.535699Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "543889052253"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:33.335822Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "a5573af16298"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:35.141921Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "2a9ce2e7deb3"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:37.178211Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f5586f784f6b"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:38.891186Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "a765e2ca4884"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:40.629358Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "a9eb20d9dd63"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:42.516762Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "85d157f896a7"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:44.297975Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0adfb3c50e4c"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:47.925297Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "dbc2d9085402"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:50.170524Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "6ad98dd27f62"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:52.142446Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "a58896e0195a"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:54.319780Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "13b970fda011"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:56.739525Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f321c99545a0"
+        },
+        {
+            "timestamp": "2023-11-15T12:04:58.462966Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "734494f0dabb"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:00.421942Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "17b1f96ae5c4"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:02.270380Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0d381313c5f5"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:04.494030Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "a71e55b324e9"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:07.723027Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "47c0748fff4b"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:10.162303Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "eebd2c350119"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:12.590288Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "167d14c6bd52"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:14.281467Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "e5e6fa44bd09"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:15.868224Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "714f928a8ae4"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:17.831955Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ed27532cfe87"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:19.805373Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "60eec632f095"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:21.724933Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0294757f239d"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:23.570764Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "af63dfa37898"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:25.218258Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "773587ad17d6"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:28.041821Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "b61d88f398d5"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:29.779971Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "7295547df581"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:31.531289Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "91ec72aa7860"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:33.496685Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "95731193f590"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:35.401409Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "b13b02f05aa8"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:37.547394Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "298e9bdf1e30"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:39.537008Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "42f03961b46b"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:41.371159Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "610c03829d7f"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:43.473603Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "1685d4cd8baa"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:45.557945Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "403f490071ee"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:47.300252Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ecde8b6ef234"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:49.342020Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "336856f97e37"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:51.236899Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "fb1a10b5c3fd"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:52.786066Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "59eb51788b80"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:54.646337Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "591363479ae2"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:56.703190Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8d96a5cf7610"
+        },
+        {
+            "timestamp": "2023-11-15T12:05:59.080033Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5e347e397e14"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:00.779068Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8fa3d8749d97"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:02.833285Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "16b3d7b2834d"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:05.125361Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "e8ab7b4004c1"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:06.996595Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f0cc78b7f008"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:08.656844Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "14b5c55ad21a"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:10.680192Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "e5150b92d213"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:12.800927Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "6fef6fe03661"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:14.480304Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d6c22095d175"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:16.064479Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "69d2fcd56ddf"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:17.791089Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "00a7f37caeb5"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:19.444650Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "a616d48f55c1"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:21.003083Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ae01dd8547ef"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:23.644575Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "3eae43476354"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:25.984162Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f3fb00a97681"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:28.435855Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "153d93e6e501"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:29.901690Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5888907bc19a"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:31.794444Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "eead1fcb4b41"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:33.594025Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "2bf4b2488d9b"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:35.345103Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "074ce313228d"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:37.201680Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "3d87cb32c4f2"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:38.685114Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d21ad5c1f7d6"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:40.516799Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "9b5f0ad927f5"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:42.561966Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "b46a96d57ca0"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:44.227024Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "db96c437118e"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:46.189186Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0dee5d631db6"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:48.242821Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "00492a42ed7d"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:50.198425Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "98e7bcc73687"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:52.140073Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "10f2b9f599f9"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:53.966585Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "6c738e665500"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:56.108532Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d44a26ed14c0"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:58.064287Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8ea50ec0a3ec"
+        },
+        {
+            "timestamp": "2023-11-15T12:06:59.778879Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "4906c5ba8bb3"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:01.944052Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "7bd8db4418d2"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:03.959654Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d7e8cf235ea3"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:05.910250Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "70cd637e9ce3"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:07.777935Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "690a05c47dec"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:09.508137Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "fd945aba1ccc"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:11.398037Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "95753c288f89"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:13.281226Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "7083e7003bf5"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:15.093120Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "9a23ddc784c4"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:16.976192Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "3b9b7016a79d"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:19.605988Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "79a68e281ec4"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:22.105489Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "1b8ff049487d"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:23.652451Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "3a36b9a09602"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:25.591822Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "a4918ad5b9fc"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:29.362200Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "d0f3b6b3736e"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:31.425092Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8b50cc0ea5bd"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:33.320503Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "7c43f8482257"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:35.832605Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "93ae56b7e1a2"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:37.492761Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c7b1a5b03620"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:39.288345Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "a409b0b38dca"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:41.113889Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "1bfe05f7e717"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:43.966362Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5c0ae0cd71e3"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:46.133263Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f3ed20b8da45"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:48.098424Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "2bb7232af280"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:50.671178Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "b9e89dfe477a"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:52.719015Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "71331a935b9c"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:54.398476Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ee43bc524d94"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:56.379510Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "106a879a0d40"
+        },
+        {
+            "timestamp": "2023-11-15T12:07:58.675568Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "9156da5f43b8"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:00.573778Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "dfc008ca183a"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:02.350140Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5acb1a5b3f46"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:04.174655Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c0acb228460c"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:06.457200Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c1fae1a1782f"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:08.317547Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "264abb62dab0"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:10.375908Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "848ecfa13661"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:12.150395Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "c539ae250569"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:14.118625Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "00d1f5ee53fa"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:16.122173Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ed9b46021a26"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:18.071399Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "61abf4366ae2"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:19.958788Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "33d9d731fc45"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:22.055692Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "21c76bf53020"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:24.238297Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "bec99b397d3c"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:26.344896Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "1df159d930a0"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:28.433802Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ce2fee66d365"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:30.189976Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "b61676b7723a"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:32.245476Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "6d4df92ce16f"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:34.330677Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f3574ace0282"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:36.302006Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "f9c8af6b87dd"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:38.177506Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "a3de39a96d16"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:40.051040Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "594fffe3708a"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:43.199947Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "bb5ae6e49ac4"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:45.108529Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "272d24a7d190"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:48.164624Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "20a02d0ed71b"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:50.177117Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "151fd47c82c3"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:51.818942Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "43ff6a6b8575"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:53.921499Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "5079e3973ed2"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:55.572275Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ab1205bde880"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:57.513945Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8d3fbf868631"
+        },
+        {
+            "timestamp": "2023-11-15T12:08:59.283350Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ca47c0cc2c43"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:00.846345Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0c0099ea1ed9"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:02.588158Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "05a4d84e5d66"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:04.482853Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "da7fdf2e5fc2"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:05.975218Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "371414a85e80"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:07.654903Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "2f64cf9d95ab"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:10.000049Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "ccc7083a4e70"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:11.978228Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "265f6faff3eb"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:13.683158Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "74a34f44216e"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:15.499630Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "36cf860df834"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:18.705895Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "66c15a906c94"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:20.583021Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "e1e399be63a6"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:22.701487Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "2a040e7c014e"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:24.805218Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "94c7f916bd9c"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:26.452367Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "a3aa07ea3867"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:28.157572Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "bb7cda201082"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:30.046376Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "9077ed08349c"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:31.574534Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "91d1d9e80078"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:33.888123Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "38210b9d948d"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:35.546460Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "3edbda740c32"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:37.379365Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "461f4555b7e0"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:40.281479Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "aac7a438a08e"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:42.298312Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "38313331976b"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:43.812403Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "0c933cf435e5"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:45.531067Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "48a83bddcaaa"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:47.692683Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "8726c019c24d"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:49.353192Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "cc514f05fd95"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:52.556585Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "43ab664f206a"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:55.164847Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "eda81795cca2"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:56.975209Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "1c62d6626684"
+        },
+        {
+            "timestamp": "2023-11-15T12:09:58.893372Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "cc3a3477e1a9"
+        },
+        {
+            "timestamp": "2023-11-15T12:10:00.570571Z",
+            "event": "command_input",
+            "input": "echo -e \"\\x6F\\x6B\"",
+            "session": "cab77f3229ff"
         }
     ],
     "189.112.0.11": [
