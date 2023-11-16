@@ -1095,6 +1095,12 @@
             "session": "dc191bbc5c3e"
         },
         {
+            "timestamp": "2023-11-16T02:37:52.266032Z",
+            "event": "command_input",
+            "input": "uname -s -v -n -r -m",
+            "session": "1f4b4d4a45df"
+        },
+        {
             "timestamp": "2023-11-15T00:08:59.174059Z",
             "event": "command_input",
             "input": "uname -s -v -n -r -m",
