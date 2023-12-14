@@ -35519,3 +35519,9 @@
 2023-12-14T10:10:07,91.92.251.164,SSH-2.0-libssh2_1.8.2,a7a87fbe86774c2e40cc4a7ea2ab1b3c,admin,adsladmin,failed
 2023-12-14T10:34:14,167.248.133.127,SSH-2.0-Go,873a5fb5fedc2d4f8638ebde4abc6cfc,root,admin,failed
 2023-12-14T10:44:24,156.146.57.172,SSH-2.0-8.35 FlowSsh: FlowSshNet_SftpStress127.48.82.51213215.78.40.120,63bec3855e65ea71385ce2634bf2f234,root,admin,failed
+2023-12-14T11:15:02,14.43.128.6,SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u2,9d31b8e6c87f893d077ca6526f7c710b,admin,admin,failed
+2023-12-14T11:45:50,84.252.92.18,SSH-2.0-8.35 FlowSsh: FlowSshNet_SftpStress127.24.93.97332315.78.40.120,63bec3855e65ea71385ce2634bf2f234,root,admin,failed
+2023-12-14T11:48:05,86.107.104.234,SSH-2.0-8.35 FlowSsh: FlowSshNet_SftpStress127.45.92.35144315.78.40.120,63bec3855e65ea71385ce2634bf2f234,root,admin,failed
+2023-12-14T11:54:01,84.252.92.18,SSH-2.0-8.35 FlowSsh: FlowSshNet_SftpStress127.92.21.33331545.78.40.120,63bec3855e65ea71385ce2634bf2f234,root,admin,failed
+2023-12-14T11:54:53,91.92.251.103,SSH-2.0-libssh2_1.8.2,a7a87fbe86774c2e40cc4a7ea2ab1b3c,admin,aimee,failed
+2023-12-14T11:57:43,91.227.77.79,SSH-2.0-libssh-0.1,63bec3855e65ea71385ce2634bf2f234,root,admin,failed
