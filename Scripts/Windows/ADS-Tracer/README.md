@@ -30,10 +30,11 @@ The script does the following:
 - **Single File Scan**
   - Checks for all Alternate Data Streams
   - Outputs the data observed in Alternate Data Streams
-- **Directrory Scan**
+- **Directory Scan**
   - Checks for all Alternate Data Streams for each file available in the provided directory.
   - Outputs the data observed in Alternate Data Streams for each file.
-
+- **Output Directory**
+  - All the extracted data will be added to the Output Directory under the stream name observed.
 ---
 
 ## Instructions for using the tool
@@ -62,7 +63,7 @@ The scripts supports 3 parameters.
 
 1. For help `ADSTracer.py -h`.
 2. For single file `ADSTracer.py -f`.
-3. For mdirectory `ADSTracer.py -d`.
+3. For directory `ADSTracer.py -d`.
 
 
 ### Help Section
@@ -77,6 +78,10 @@ The scripts supports 3 parameters.
 
 ![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/ADSTracer/directory.png )
 
+### Extracting Streams Data - In Action
+
+![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/ADSTracer/Output.png )
+
 ## Feedback & Issues
 
 Please, submit any feedback or issues to our **GitHub:** https://github.com/CyDefOps/project-killchain
@@ -88,8 +93,9 @@ Many Thanks
 ----
 
 ### Updates Coming...
-- Extracting Embedded Files/Streams
-
+- [x] Extracting Embedded Files/Streams.
+  - [x] 22nd Dec 2023
+- [ ] Want anything else to be added? Reach out to us.
 ----
 
 ### Contributions

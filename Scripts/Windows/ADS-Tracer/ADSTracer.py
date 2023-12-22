@@ -24,23 +24,38 @@ def banner():
     print(Fore.GREEN + banner1 + Fore.RESET)
 
 def tracer(file):
+
+    PW_DIR = os.getcwd()
+    OUTPUT_DIR = os.path.join(PW_DIR, "Output")
+
+    if os.path.exists(OUTPUT_DIR):
+        print(Fore.CYAN + f"Path Already Exists: {OUTPUT_DIR}\n")
+        bugger(file, OUTPUT_DIR)
+    else:
+        os.makedirs(OUTPUT_DIR)
+        print(Fore.CYAN + f"Path Has Been Created: {OUTPUT_DIR}\n")
+        bugger(file, OUTPUT_DIR)
     
+def bugger(file, PW_DIR):
+        
     if os.path.isfile(file):
         scanning = ADS(file)
         for stream in scanning:
             print(Fore.YELLOW + f"[+] File: {file}\n[+] Stream Found: {stream}\n\n{scanning.get_stream_content(stream)}\n" + Fore.RESET)
-
+            final = os.path.join(PW_DIR, stream)
+            os.system(f'more < {file+":"+stream} >> {final}')
+        
     elif os.path.isdir(file):
-         for root, dirs, filenames in os.walk(file):
+        for root, dirs, filenames in os.walk(file):
                 for filename in filenames:
                     recurFile = os.path.join(root, filename)
                     scanning = ADS(recurFile)
                     for stream in scanning:
-                          print(Fore.YELLOW + f"[+] File: {recurFile}\n[+] Stream Found: {stream}\n\n{scanning.get_stream_content(stream)}\n" + Fore.RESET)
-                          
+                        print(Fore.YELLOW + f"[+] File: {recurFile}\n[+] Stream Found: {stream}\n\n{scanning.get_stream_content(stream)}\n" + Fore.RESET)
+                        final = os.path.join(PW_DIR, stream)        
+                        os.system(f'more < {file+":"+stream} >> {final}')
     else:
-         print("No Stream Have Been Identified")
-    
+        print("No Stream Have Been Identified")
 
 def main():
 
