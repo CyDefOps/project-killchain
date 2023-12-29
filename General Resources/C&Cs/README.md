@@ -206,6 +206,8 @@ The repository is being actively maintained and is the latest of all till date w
 | 198    | ZombieWeb           | Free      | https://github.com/malwaredllc/byob         | 2019        | Unknown | Unknown | Unknown |
 | 199    | Shellsploit         | Free      | https://github.com/UndeadSec/Shellsploit      | 2018        | Yes     | Yes     | Yes     |
 | 200    | ZSeano              | Free      | https://github.com/Security-AntZ/ZSeano      | 2022        | Yes     | Yes     | Yes     |
+| 201    | C2 Cloud              | Free      | https://github.com/govindasamyarun/c2-cloud      | 2023        | Yes     | Yes     | No     |
+
 
 ### Contributors
 
