@@ -38,6 +38,8 @@ def urlFavicon(URL):
             print(Fore.GREEN + f"[Hash] {mmh3.hash(favicon)}")
             print(Fore.GREEN + f"[Shodan Query] http.favicon.hash:{mmh3.hash(favicon)}")
             print(Fore.GREEN + f"[FOFA Query] icon_hash=\"{mmh3.hash(favicon)}\"")
+            print(Fore.GREEN + f"[ZoomEye Query] iconhash:\"{mmh3.hash(favicon)}\"")
+            
 
     except:
         print("Something Went Wrong")

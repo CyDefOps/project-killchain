@@ -19,6 +19,7 @@ The script provides you with the queries for the following 2 platforms to be sea
 
 1. [Shodan](https://shodan.io)
 2. [FOFA](https://en.fofa.info)
+3. [ZoomEye]()
 
 ## Instructions for using the tool
 
