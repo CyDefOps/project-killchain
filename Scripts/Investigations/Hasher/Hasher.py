@@ -34,11 +34,6 @@ def hashMe(sample):
         sha1 = hashlib.sha1()
         sha256 = hashlib.sha256()
         sha512 = hashlib.sha512()
-
-        md5Hash = md5.hexdigest()
-        sha1Hash = sha1.hexdigest()
-        sha256Hash = sha256.hexdigest()
-        sha512Hash = sha512.hexdigest()
         
         with open(sample, "rb") as file:
             EOF = 0
@@ -49,17 +44,22 @@ def hashMe(sample):
                 sha256.update(EOF)
                 sha1.update(EOF)
 
-        print(Fore.GREEN + "MD5: " + Fore.LIGHTMAGENTA_EX + md5Hash)
-        print(Fore.GREEN + "SHA1: " + Fore.LIGHTMAGENTA_EX + sha1Hash)
-        print(Fore.GREEN + "SHA256: " + Fore.LIGHTMAGENTA_EX + sha256Hash)
-        print(Fore.GREEN + "SHA512: " + Fore.LIGHTMAGENTA_EX + sha512Hash)
-        print(Fore.RESET)
+            print(Fore.GREEN + "MD5: " + Fore.LIGHTMAGENTA_EX + md5.hexdigest())
+            print(Fore.GREEN + "SHA1: " + Fore.LIGHTMAGENTA_EX + sha1.hexdigest())
+            print(Fore.GREEN + "SHA256: " + Fore.LIGHTMAGENTA_EX + sha256.hexdigest())
+            print(Fore.GREEN + "SHA512: " + Fore.LIGHTMAGENTA_EX + sha512.hexdigest())
+            print(Fore.RESET)
 
         with open('hashes.csv', 'a', newline='') as hashed:
             writer = csv.writer(hashed)
             if hashed.tell() == 0:
                 header = ["File Name", "MD5", "SHA1", "SHA256", "SHA512"]
                 writer.writerow(header)
+            
+            md5Hash = md5.hexdigest()
+            sha1Hash = sha1.hexdigest()
+            sha256Hash = sha256.hexdigest()
+            sha512Hash = sha512.hexdigest()
 
             data = [sample, md5Hash, sha1Hash, sha256Hash, sha512Hash]
             writer.writerow(data)
