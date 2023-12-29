@@ -75,14 +75,6 @@ Many Thanks
 
 ----
 
-### Updates Coming...
-- Securing API Keys - OS ENV
-- More Integrations
-- Dashboarding 
-- Many more..
-
-----
-
 ### Contributions
 Project Killchain values and appreciates contributions from the cybersecurity community. Feel free to contribute code, share new tools, update our knowledge base, or expand the IOC database. 
 
