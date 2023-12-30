@@ -8,6 +8,9 @@ This section includes links to all the research articles published on Cyber Defe
 4. [Malicious PyPi Packages Leading To Phishing Websites - Part 2](https://cydefops.com/malicious-pypi-part-2)
 5. [Deconstructing Deception - Cl0p](https://cydefops.com/deconstructing-deception)
 6. [VSCode - Forwarded Ports For Data Exfiltration](https://cydefops.com/vscode-data-exfiltration)
+7. [DevTunnels Unleased](https://cydefops.com/devtunnels-unleashed)
+8. [Misconfigured Notepad++ Backups - Sensitive Data Exposure](https://cydefops.com/notepad%2B%2B-data-exposure)
+9. [Android "Kamran" Spyware Targeting Gilgit Residents - Pakistan](https://cydefops.com/android-kamran-spyware)
 
 ## Research Papers
 
