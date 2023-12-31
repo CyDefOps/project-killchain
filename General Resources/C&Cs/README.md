@@ -208,3 +208,4 @@ The repository is being actively maintained and is the latest of all till date w
 | 200    | ZSeano              | Free      | https://github.com/Security-AntZ/ZSeano      | 2022        | Yes     | Yes     | Yes     |
 | 201    | C2 Cloud              | Free      | https://github.com/govindasamyarun/c2-cloud      | 2023        | Yes     | Yes     | No |
 | 202    | Github C2           | Free      | https://github.com/gemini-security/GithubC2      | 2023        | Yes     | No     | No     |
+| 203    | DuckDuck C2           | Free      | https://github.com/nopcorn/DuckDuckC2      | 2023        | Yes     | Yes     | Yes     |
