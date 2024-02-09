@@ -13,7 +13,6 @@
 ![Website](https://img.shields.io/website?up_message=UP&up_color=357441&down_message=DOWN&down_color=880808&url=https%3A%2F%2Fcydefops.com&style=flat-square)
 ![PKC Members](https://img.shields.io/badge/PKC%20Members-%20126-357441?style=flat-square)
 ![PKC Associates](https://img.shields.io/badge/PKC%20Associates-%2067-357441?style=flat-square)
-[![TI IOC Automation - FETCH](https://github.com/CyDefOps/project-killchain/actions/workflows/main.yml/badge.svg)](https://github.com/CyDefOps/project-killchain/actions/workflows/main.yml)
 
 ### Project Summary 
 
