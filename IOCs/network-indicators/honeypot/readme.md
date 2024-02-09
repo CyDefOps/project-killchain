@@ -10,10 +10,10 @@ Made with :heart: by [$HELLS](https://github.com/ntwrite).
 ![PKC](https://img.shields.io/badge/Project-%20Killchain-357441)
 ![Language](https://img.shields.io/badge/Language-%20Kusto-357441?style=flat-square)
 
+<img src="https://img1.wsimg.com/blobby/go/1cf5bcbc-aad3-42e4-a7e0-6c0149aec441/downloads/BG%20Gradient%20(2).png" width="125" height="125">
+
 ## Project Retired
 PKC Honeypot is being retired in favour of a larger more scalable alternative. 
-
-<img src="https://img1.wsimg.com/blobby/go/1cf5bcbc-aad3-42e4-a7e0-6c0149aec441/downloads/BG%20Gradient%20(2).png" width="125" height="125">
 
 ## Overview
 
