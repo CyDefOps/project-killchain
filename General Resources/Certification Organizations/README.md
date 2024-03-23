@@ -55,3 +55,6 @@ This repository includes a comprehensive list of organizations providing a wide 
 | 49.   | [BreakDev Academy](https://academy.breakdev.org/evilginx-mastery) |
 | 50.   | [Neo4j - Graph Academy](https://graphacademy.neo4j.com/) | 
 | 51.   | [Postman Academy](https://academy.postman.com/) |
+| 52. | [Name Your Price Training](https://www.nameyourpricetraining.com/) | 
+| 53. | [ASKAcademy & Courses](https://courses.null-char.com/) | 
+

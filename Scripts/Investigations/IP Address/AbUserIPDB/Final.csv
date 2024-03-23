@@ -1,0 +1,52 @@
+IP Address,Domain Name,Abuse Confidence Score,Country Code,Internet Service Provider,Total Reports,Last Reported Date,VT Harmless Score,VT Undetected Score,VT Malicious Score,VT Suspicious Score
+185.171.202.9,dyjix.eu,100,FR,Dyjix Association,28,2024-02-24T03:48:28+00:00,57,22,9,2
+172.12.0.55,att.com,25,US,AT&T Corp.,18,2024-02-09T03:16:37+00:00,63,27,0,0
+52.101.73.11,microsoft.com,4,NL,Microsoft Corporation,4,2024-02-23T07:00:06+00:00,66,24,0,0
+52.101.73.2,microsoft.com,1,NL,Microsoft Corporation,4,2024-01-18T02:30:05+00:00,67,23,0,0
+52.101.68.12,microsoft.com,0,IE,Microsoft Corporation,1,2024-02-02T07:00:08+00:00,65,25,0,0
+52.101.73.24,microsoft.com,1,NL,Microsoft Corporation,3,2024-01-18T15:00:08+00:00,66,23,1,0
+52.101.68.32,microsoft.com,2,IE,Microsoft Corporation,5,2024-01-18T17:30:04+00:00,67,23,0,0
+52.101.68.0,microsoft.com,1,IE,Microsoft Corporation,2,2024-01-19T02:30:04+00:00,67,23,0,0
+52.101.73.8,microsoft.com,3,NL,Microsoft Corporation,3,2024-02-19T11:00:09+00:00,67,23,0,0
+52.101.73.21,microsoft.com,2,NL,Microsoft Corporation,4,2024-01-18T23:30:09+00:00,66,24,0,0
+52.101.68.25,microsoft.com,0,IE,Microsoft Corporation,0,,0,90,0,0
+52.101.73.4,microsoft.com,2,NL,Microsoft Corporation,4,2024-02-01T12:30:05+00:00,67,23,0,0
+46.101.88.32,digitalocean.com,11,GB,DigitalOcean LLC,2,2024-02-23T02:15:25+00:00,64,25,1,0
+52.101.68.29,microsoft.com,0,IE,Microsoft Corporation,0,,0,90,0,0
+52.101.68.36,microsoft.com,2,IE,Microsoft Corporation,3,2024-01-18T23:00:06+00:00,67,23,0,0
+52.101.73.30,microsoft.com,4,NL,Microsoft Corporation,4,2024-02-22T10:30:05+00:00,65,25,0,0
+52.101.68.3,microsoft.com,2,IE,Microsoft Corporation,3,2024-01-18T21:00:06+00:00,66,24,0,0
+52.101.73.28,microsoft.com,3,NL,Microsoft Corporation,4,2024-02-03T07:30:07+00:00,66,24,0,0
+52.101.68.16,microsoft.com,4,IE,Microsoft Corporation,4,2024-02-23T07:30:06+00:00,67,23,0,0
+52.101.68.39,microsoft.com,0,IE,Microsoft Corporation,0,,65,25,0,0
+52.101.68.18,microsoft.com,2,IE,Microsoft Corporation,3,2024-01-18T22:30:05+00:00,66,24,0,0
+52.101.73.1,microsoft.com,1,NL,Microsoft Corporation,4,2024-01-19T01:00:05+00:00,67,23,0,0
+52.101.73.15,microsoft.com,1,NL,Microsoft Corporation,3,2024-01-19T00:30:07+00:00,66,24,0,0
+52.101.73.6,microsoft.com,9,NL,Microsoft Corporation,5,2024-01-19T02:30:05+00:00,67,23,0,0
+3.101.240.79,amazon.com,1,US,Amazon.com Inc.,1,2024-02-23T05:31:00+00:00,0,90,0,0
+3.101.240.19,amazon.com,0,US,Amazon.com Inc.,0,,0,90,0,0
+45.155.91.134,ipv4superhub.com,100,PL,IPv4 Superhub Limited,533,2024-02-24T02:25:31+00:00,56,22,10,2
+162.243.143.21,digitalocean.com,100,US,DigitalOcean LLC,478,2024-02-24T15:22:11+00:00,60,23,6,1
+162.243.137.14,digitalocean.com,100,US,DigitalOcean LLC,428,2024-02-24T10:34:12+00:00,58,22,9,1
+192.241.195.22,digitalocean.com,100,US,DigitalOcean LLC,464,2024-02-24T12:22:37+00:00,57,22,10,1
+198.199.105.85,digitalocean.com,100,US,DigitalOcean LLC,525,2024-02-24T11:04:06+00:00,58,22,9,1
+107.170.238.49,digitalocean.com,100,US,DigitalOcean LLC,505,2024-02-24T15:27:27+00:00,58,21,10,1
+52.101.68.15,microsoft.com,0,IE,Microsoft Corporation,0,,65,25,0,0
+52.101.68.10,microsoft.com,0,IE,Microsoft Corporation,0,,65,25,0,0
+52.101.68.8,microsoft.com,0,IE,Microsoft Corporation,0,,65,25,0,0
+52.101.73.19,microsoft.com,4,NL,Microsoft Corporation,4,2024-02-21T15:00:07+00:00,66,24,0,0
+34.91.255.222,google.com,100,US,Google LLC,73,2024-02-24T03:01:20+00:00,63,24,2,1
+52.101.68.21,microsoft.com,3,IE,Microsoft Corporation,4,2024-02-20T10:00:05+00:00,66,24,0,0
+35.94.168.158,amazon.com,0,US,Amazon.com Inc.,0,,0,90,0,0
+34.218.247.204,amazon.com,0,US,Amazon Technologies Inc.,0,,0,90,0,0
+52.101.73.16,microsoft.com,2,NL,Microsoft Corporation,4,2024-01-19T03:00:07+00:00,66,24,0,0
+54.90.166.82,amazon.com,0,US,Amazon Data Services NoVa,0,,66,23,1,0
+95.111.241.63,contabo.com,100,DE,Contabo GmbH,586,2024-02-24T16:35:55+00:00,57,24,6,3
+3.85.84.185,amazon.com,4,US,Amazon Data Services NoVa,1,2024-02-22T07:08:25+00:00,0,90,0,0
+185.242.226.44,alsycon.nl,100,NL,Alsycon B.V.,326,2024-02-24T16:50:26+00:00,57,23,8,2
+52.101.73.22,microsoft.com,3,NL,Microsoft Corporation,5,2024-02-19T14:30:04+00:00,65,25,0,0
+185.242.226.39,alsycon.nl,100,NL,Alsycon B.V.,548,2024-02-24T16:22:03+00:00,57,24,8,1
+52.101.68.27,microsoft.com,0,IE,Microsoft Corporation,0,,65,25,0,0
+52.101.73.26,microsoft.com,1,NL,Microsoft Corporation,2,2024-01-18T08:30:07+00:00,65,25,0,0
+52.101.68.5,microsoft.com,2,IE,Microsoft Corporation,3,2024-01-18T21:30:04+00:00,67,23,0,0
+52.101.73.12,microsoft.com,4,NL,Microsoft Corporation,5,2024-02-21T11:30:05+00:00,66,24,0,0
