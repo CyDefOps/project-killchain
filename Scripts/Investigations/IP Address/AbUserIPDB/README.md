@@ -82,22 +82,6 @@ The results saved in the CSV file includes the following.
 10. VT Malicious Score
 11. VT Suspicious Score
 
-### Help Section
-
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/aaea93770bd26c095de90bb64d486cbe36435112/assets/abuseripdb/1.png)
-
-### Single IP - In Action
-
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/aaea93770bd26c095de90bb64d486cbe36435112/assets/abuseripdb/2.png)
-
-### Multiple IP - In Action
-
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/aaea93770bd26c095de90bb64d486cbe36435112/assets/abuseripdb/3.png)
-
-### Saved Results (CSV/Excel)
-
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/aaea93770bd26c095de90bb64d486cbe36435112/assets/abuseripdb/4.png)
-
 ### Other Scripts
 
 - **VTExplorer.py** - This scans the single IP and IPs from file only via VirusTotal.
