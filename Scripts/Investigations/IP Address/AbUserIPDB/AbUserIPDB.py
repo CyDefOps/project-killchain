@@ -151,7 +151,7 @@ def main():
             IpFile = args["file"]
             with open(IpFile, 'r') as ipfile:
                 for line in ipfile:
-                    check(line)
+                    check(line.strip())
     except: KeyboardInterrupt
         
 if __name__ == '__main__':
