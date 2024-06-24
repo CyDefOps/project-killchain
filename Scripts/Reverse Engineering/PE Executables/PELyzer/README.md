@@ -39,11 +39,3 @@ PLyzer is able to provide you with the following information.
 - PE Sections
 - Imported Modules
 
-### In Rage (Packed Executables)
-
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/pelyzer1.png)
-
-### In Rage (Not Packed Executables)
-
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/pelyzer2.png)
-
