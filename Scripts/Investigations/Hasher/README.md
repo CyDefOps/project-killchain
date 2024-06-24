@@ -51,20 +51,6 @@ The scripts supports 2 parameters which are automatically verified.
 1. For single File `Hasher.py <FileName>`.
 2. For directory  `Hasher.py <PATH>`.
 
-
-### Single File - In Action
-
-![](https://github.com/deFr0ggy/deFr0ggy.github.io/blob/master/assets/hasher1.png?raw=true)
-
-### Directory - In Action
-
-![](https://github.com/deFr0ggy/deFr0ggy.github.io/blob/master/assets/hasher2.png?raw=true)
-
-
-### Saved Results (CSV/Excel)
-
-![](https://github.com/deFr0ggy/deFr0ggy.github.io/blob/master/assets/hasher3.png?raw=true)
-
 ## Feedback & Issues
 
 Please, submit any feedback or issues to our **GitHub:** https://github.com/CyDefOps/project-killchain
