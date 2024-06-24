@@ -23,7 +23,7 @@ def banner():
  https://cydefops.com/
  https://github.com/CyDefOps/project-killchain
 
- Usage: python3 AbUserIPDB.py -h
+ Usage: python3 VTExplorer.py -h
  '''
   
   print(Fore.RED + banned + Fore.RESET)
