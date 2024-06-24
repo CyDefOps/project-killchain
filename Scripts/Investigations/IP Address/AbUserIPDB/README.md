@@ -85,7 +85,7 @@ The results saved in the CSV file includes the following.
 ### Other Scripts
 
 - **VTExplorer.py** - This scans the single IP and IPs from file only via VirusTotal.
-- **AbuseIPDB.py ** - This scans the single IP and IPs from file only via AbuseIPDB.  
+- **AbuseIPDB.py** - This scans the single IP and IPs from file only via AbuseIPDB.  
 
 ## Feedback & Issues
 
