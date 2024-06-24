@@ -98,6 +98,11 @@ The results saved in the CSV file includes the following.
 
 ![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/aaea93770bd26c095de90bb64d486cbe36435112/assets/abuseripdb/4.png)
 
+### Other Scripts
+
+- **VTExplorer.py** - This scans the single IP and IPs from file only via VirusTotal.
+- **AbuseIPDB.py ** - This scans the single IP and IPs from file only via AbuseIPDB.  
+
 ## Feedback & Issues
 
 Please, submit any feedback or issues to our **GitHub:** https://github.com/CyDefOps/project-killchain
