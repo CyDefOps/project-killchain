@@ -1,11 +1,13 @@
-DISCLAIMER: The list of phishing domains provided is for informational purposes only. Umar Javed and Cyber Defence Operations Limited (Cydefops) or Project Killchain does not guarantee the accuracy, completeness, or reliability of the information. Use this list at your own risk.
+Crowdstrike Phishing Domain List:
+
+DISCLAIMER: The list of phishing domains provided is for informational purposes only. Umar Javed, Cyber Defence Operations Limited (Cydefops) and Project Killchain does not guarantee the accuracy, completeness, or reliability of the information. Use this list at your own risk.
 
 Compiled by: Umar Javed
-Thanks to the many sources that have contributed to the list.
 Course of action: Monitor/ Filter/ Block
 
-By default all domains below are defanged (safe), if you want to fang(unsafe) them then you can simply copy and paste the list below into this cyberchef recipe: https://gchq.github.io/CyberChef/#recipe=Fang_URL(true,true,true)&ieol=CRLF&oeol=CRLF
+\\ Thanks to the many sources that have contributed to the list// :)
 
+By default all domains below are defanged (safe link), if you want to fang (unsafe link) them then you can simply copy and paste the list below into this cyberchef recipe: https://gchq.github.io/CyberChef/#recipe=Fang_URL(true,true,true)&ieol=CRLF&oeol=CRLF
 
 1512178658959801095[.]crowdstriek[.]com
 app[.]any[.]run
@@ -15,6 +17,7 @@ conflictstrike[.]com
 crashstrike[.]com
 crowdfalcon-immed-update[.]com
 crowdstriek[.]com
+crowdstrike[.]bot
 crowdstrike[.]buzz
 crowdstrike[.]ee
 crowdstrike[.]es
@@ -31,13 +34,13 @@ crowdstrike[.]technology
 crowdstrike[.]us[.]org
 crowdstrike[.]woccpa[.]com
 crowdstrike0day[.]com
-crowdstrike0day[.]com  
+crowdstrike0day[.]com
 crowdstrike2[.]xyz
 crowdstrikebluescreen[.]com
 crowdstrikeblueteam[.]com
 crowdstrikebsod[.]com
 crowdstrike-bsod[.]com
-crowdstrikebsod[.]com  
+crowdstrikebsod[.]com
 crowdstrikebsodfix[.]blob[.]core[.]windows[.]net
 crowdstrikebug[.]com
 crowdstrikeclaim[.]com
@@ -46,10 +49,10 @@ crowdstrikecommuication[.]app
 crowdstrikeconnectingevents[.]com
 crowdstrikeconnects[.]com
 crowdstrikedoomsday[.]com
-crowdstrikedoomsday[.]com  
+crowdstrikedoomsday[.]com
 crowdstrikedown[.]com
 crowdstrikedown[.]site
-crowdstrikedown[.]site  
+crowdstrikedown[.]site
 crowdstrikeevents[.]com
 crowdstrikeeventshub[.]com
 crowdstrikeeventsplatform[.]com
@@ -57,7 +60,7 @@ crowdstrikeeventsplus[.]com
 crowdstrikefail[.]com
 crowdstrike-falcon[.]online
 crowdstrikefix[.]com
-crowdstrikefix[.]com  
+crowdstrikefix[.]com
 crowdstrikefix[.]zip
 crowdstrikefixer[.]com
 crowdstrikeglitch[.]com
@@ -84,7 +87,6 @@ crowdstrokeme[.]me
 crowdstuck[.]org
 failstrike[.]com
 fix-crowdstrike-apocalypse[.]com
-microsoftcrowdstrike[.]com
 fix-crowdstrike-bsod[.]com
 fuckcrowdstrike[.]com
 fuckingcrowdstrike[.]com
@@ -92,6 +94,7 @@ hoo[.]be
 iscrowdstrikedown[.]com
 isitcrowdstrike[.]com
 lab-crowdstrike-manage[.]stashaway[.]co
+microsoftcrowdstrike[.]com
 mightywind[.]com
 portalintranetgrupobbva[.]com
 sinkhole-d845c7b471d9adc14942f95105d5ffcf[.]crowdstrikeupdate[.]com
@@ -99,15 +102,4 @@ strikefaststudio[.]com
 supportecrowdstrike[.]com
 whatiscrowdstrike[.]com
 winsstrike[.]com
-www[.]crowdstrike[.]bot
-www[.]crowdstrike0day[.]com
-www[.]crowdstrikeclaim[.]com
-www[.]crowdstrike-falcon[.]online
-www[.]crowdstrikefix[.]com
-www[.]crowdstrikeoutage[.]com
-www[.]crowdstrikeupdate[.]com
 xamzgjedu[.]com
-
-
-
-
