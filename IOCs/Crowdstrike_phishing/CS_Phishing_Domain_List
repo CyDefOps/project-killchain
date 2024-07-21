@@ -10,7 +10,6 @@ Course of action: Monitor/ Filter/ Block
 By default all domains below are defanged (safe link), if you want to fang (unsafe link) them then you can simply copy and paste the list below into this cyberchef recipe: https://gchq.github.io/CyberChef/#recipe=Fang_URL(true,true,true)&ieol=CRLF&oeol=CRLF
 
 1512178658959801095[.]crowdstriek[.]com
-app[.]any[.]run
 clownstrike[.]co
 clownstrike[.]co[.]uk
 conflictstrike[.]com
