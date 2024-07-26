@@ -269,15 +269,16 @@ Umar is CEO at Cyber Defence Operations (CyDefOps), Director of Security Consult
 
 Kamran is Lead Security Assessments/DFIR at Commercial Bank of Qatar, Principal Cyber Defence Researcher at CyDefOps, Technical Education Advisory Board at NCFE UK and Lead Maintainer of Project-KillChain.
 
-- [Htet Naing Aung](https://www.linkedin.com/in/hnaung/  "Htet Naing Aung on LinkedIn")
-
-  
-
-Htet is a Principal Security Architect (Global Security & Resiliency) at Kyndryl
 
 - [Cam Coller](https://www.linkedin.com/in/cam-str/  "Cam Coller on LinkedIn")
 
   
 Cam is Senior Security Engineer at Komainu, Defensive Security Researcher at Cyber Defence Operations (CyDefOps), Technical Education Advisory Board at NCFE and Lead Maintainer of Project-KillChain.
+
+- [Htet Naing Aung](https://www.linkedin.com/in/hnaung/  "Htet Naing Aung on LinkedIn")
+
+  
+
+Htet is a Principal Security Architect (Global Security & Resiliency) at Kyndryl
 
 ----
