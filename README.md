@@ -261,7 +261,7 @@ The Project Killchain Team consists of few cybersecurity practitioners aiming to
 
   
 
-Umar is CEO at Cyber Defence Operations (CyDefOps), Cyber Threat Hunter at Kyndryl and Cyber Special at the UK's National Crime Agency
+Umar is CEO at Cyber Defence Operations (CyDefOps), Director of Security Consulting at Kyndryl and Cyber Special at the UK's National Crime Agency
 
 - [Kamran Saifullah](https://www.linkedin.com/in/kamransaifullah/  "Kamran Saifullah on LinkedIn")
 
@@ -278,7 +278,6 @@ Htet is a Principal Security Architect (Global Security & Resiliency) at Kyndryl
 - [Cam Coller](https://www.linkedin.com/in/cam-str/  "Cam Coller on LinkedIn")
 
   
-
-Cam is Senior Security Engineer at Snowplow Analytics, Defensive Security Researcher at Cyber Defence Operations (CyDefOps) and Technical Advisory Board at NCFE
+Cam is Senior Security Engineer at Komainu, Defensive Security Researcher at Cyber Defence Operations (CyDefOps), Technical Education Advisory Board at NCFE and Lead Maintainer of Project-KillChain.
 
 ----
