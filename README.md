@@ -93,7 +93,7 @@ Open-source repository welcoming contributions from the community.
 	- [Reporting](/General%20Resources/Reporting/)
 	- [Reverse Engineering](/General%20Resources/Reverse%20Engineering/)
 	- [SIEMs](/General%20Resources/SIEMs/)
-- [Reporting](#reporting)
+- [Reporting Formats](#reporting)
 	- [Project KillChain - VAPT Reporting Format](/Reporting/)
 - [Community Contributions](https://github.com/CyDefOps/project-killchain/tree/main/Community%20Contributions/)
 	- [Articles](/Community%20Contributions/Articles/)
