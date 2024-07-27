@@ -255,7 +255,7 @@ Here you'll find scripts geared towards performing reverse engineering static as
 
 Here you'll find scripts geared towards cryptographic algorithms, encryption & decryption as well as hash calulations etc. 
 
-# [Reporting](https://github.com/CyDefOps/project-killchain/tree/main/Reporting, "Reporting Formats")
+# [Reporting]((https://github.com/CyDefOps/project-killchain/tree/main/Reporting%20Formats) "Reporting Formats")
 
 Here you'll find `Reporting Formats` created and designed by Project-KillChain Team for community use.
 
