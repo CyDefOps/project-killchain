@@ -93,6 +93,8 @@ Open-source repository welcoming contributions from the community.
 	- [Reporting](/General%20Resources/Reporting/)
 	- [Reverse Engineering](/General%20Resources/Reverse%20Engineering/)
 	- [SIEMs](/General%20Resources/SIEMs/)
+- [Reporting](#reporting)
+	- [Project KillChain - VAPT Reporting Format](/Reporting/Project%20KillChain%20-%20VAPT%20Reporting%20Format.docx)
 - [Community Contributions](https://github.com/CyDefOps/project-killchain/tree/main/Community%20Contributions/)
 	- [Articles](/Community%20Contributions/Articles/)
 	- [Practical Labs](https://github.com/CyDefOps/project-killchain/tree/main/Community%20Contributions/Practical%20Labs)  
@@ -252,6 +254,10 @@ Here you'll find scripts geared towards performing reverse engineering static as
 ## [Cryptography]((https://github.com/CyDefOps/project-killchain/tree/main/Scripts/Cryptography), "PKC Cryptography, Scripts Repo")
 
 Here you'll find scripts geared towards cryptographic algorithms, encryption & decryption as well as hash calulations etc. 
+
+# [Reporting]((https://github.com/CyDefOps/project-killchain/tree/main/Reporting), "Reporting")
+
+Here you'll find `Reporting Formats` created and designed by Project-KillChain Team for community use.
 
 # Project Killchain Team
 
