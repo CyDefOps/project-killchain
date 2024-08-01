@@ -279,7 +279,7 @@ Kamran is Lead Security Assessments/DFIR at Commercial Bank of Qatar, Principal 
 - [Cam Coller](https://www.linkedin.com/in/cam-str/  "Cam Coller on LinkedIn")
 
   
-Cam is Senior Security Engineer at Komainu, Defensive Security Researcher at Cyber Defence Operations (CyDefOps), Technical Education Advisory Board at NCFE and Lead Maintainer of Project-KillChain.
+Cam is Security Specialist - Operation Lead at Komainu, Defensive Security Researcher at Cyber Defence Operations (CyDefOps), Technical Education Advisory Board at NCFE and Lead Maintainer of Project-KillChain.
 
 - [Htet Naing Aung](https://www.linkedin.com/in/hnaung/  "Htet Naing Aung on LinkedIn")
 
