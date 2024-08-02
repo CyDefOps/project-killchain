@@ -257,7 +257,9 @@ Here you'll find scripts geared towards cryptographic algorithms, encryption & d
 
 # [Reporting](https://github.com/CyDefOps/project-killchain/tree/main/Reporting%20Formats "Reporting Formats")
 
-Here you'll find `Reporting Formats` created and designed by Project-KillChain Team for community use.
+Here you'll find `Reporting Formats` created and designed by Project-KillChain Team for community use. Currently available `Reporting Formats` are as below.
+
+1. [Project KillChain - Vulnerability Assessment & Penetration Testing Report](/Reporting%20Formats/Project%20KillChain%20-%20VAPT%20Reporting%20Format.docx)
 
 # Project Killchain Team
 
