@@ -259,7 +259,7 @@ Here you'll find scripts geared towards cryptographic algorithms, encryption & d
 
 Here you'll find `Reporting Formats` created and designed by Project-KillChain Team for community use. Currently available `Reporting Formats` are as below.
 
-1. [Project KillChain - Vulnerability Assessment & Penetration Testing Report](/Reporting%20Formats/Project%20KillChain%20-%20VAPT%20Reporting%20Format.docx)
+1. [Project KillChain - VAPT Report Format](/Reporting%20Formats/Project%20KillChain%20-%20VAPT%20Reporting%20Format.docx)
 
 # Project Killchain Team
 
