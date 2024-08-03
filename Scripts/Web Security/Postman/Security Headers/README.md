@@ -33,11 +33,7 @@ The below scripts checks for the following headers.
 10. Content-Security-Policy Header
 11. Via Header
 
-## 3. In Working
-
-![Usage](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/bloggers/usage.jpeg)
-
-## 4. Postman Test Script
+## 3. Postman Test Script
 
 ```
 // Author - Kamran Saifullah - deFr0ggy
