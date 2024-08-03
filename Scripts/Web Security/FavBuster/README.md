@@ -47,11 +47,11 @@ The scripts supports 3 parameters.
 
 ### Favicon - Icon URL
 
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/1.png)
+![](/Scripts/Web%20Security/FavBuster/Assets/image.png)
 
 ### Favicon - Icon File
 
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/2.png)
+![](/Scripts/Web%20Security/FavBuster/Assets/image%20copy.png)
 
 Many Thanks
 

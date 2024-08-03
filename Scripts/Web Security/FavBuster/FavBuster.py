@@ -6,7 +6,7 @@ from colorama import *
 
 def banner():
 
-    banned = '''
+    banned = r'''
 
    ___            ___           _            
   / __\_ ___   __/ __\_   _ ___| |_ ___ _ __ 
