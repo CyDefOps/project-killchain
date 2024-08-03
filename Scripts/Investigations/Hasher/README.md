@@ -30,6 +30,8 @@ The script saves the following in the CSV file:
 4. SHA256
 5. SHA512
 
+![](/Scripts/Investigations/Hasher/Assets/image.png)
+
 ---
 
 ## Instructions for using the tool
@@ -49,7 +51,12 @@ Execute the `Hasher.py` by doing simply as
 The scripts supports 2 parameters which are automatically verified.
 
 1. For single File `Hasher.py <FileName>`.
+
+![](/Scripts/Investigations/Hasher/Assets/image%20copy.png)
+
 2. For directory  `Hasher.py <PATH>`.
+
+![](/Scripts/Investigations/Hasher/Assets/image%20copy%202.png)
 
 ## Feedback & Issues
 
