@@ -17,7 +17,3 @@ BasePDF is a simple and effecient python utility to convert Base64 Encoded Data 
 
 ## Running BasePDF
 > python3 BasePDF.py sample.txt 
-
-## Usage
-
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/basePDF.png)
