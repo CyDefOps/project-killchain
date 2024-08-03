@@ -68,19 +68,16 @@ The scripts supports 3 parameters.
 
 ### Help Section
 
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/ADSTracer/help.png )
+![](/Scripts/Windows/ADS-Tracer/Assets/image.png)
 
 ### Single File Scan - In Action
 
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/ADSTracer/file.png )
+![](/Scripts/Windows/ADS-Tracer/Assets/image%20copy.png)
 
 ### Directory Scan - In Action
 
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/ADSTracer/directory.png )
+![](/Scripts/Windows/ADS-Tracer/Assets/image%20copy%201.png)
 
-### Extracting Streams Data - In Action
-
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/ADSTracer/Output.png )
 
 ## Feedback & Issues
 
