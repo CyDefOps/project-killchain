@@ -65,7 +65,7 @@ The scripts only take the URL as a parameter.
 
 ### Chopper - URL Scanning
 
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/chopper.png)
+![](/Scripts/Web%20Security/Chopper/Assets/image.png)
 
 Many Thanks
 

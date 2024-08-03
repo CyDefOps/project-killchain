@@ -8,7 +8,7 @@ import urllib3
 urllib3.disable_warnings()
 
 def banner():
-    banner = """
+    banner = r"""
   ____ _                                 _ 
  / ___| |__   ___  _ __  _ __   ___ _ __| |
 | |   | '_ \ / _ \| '_ \| '_ \ / _ \ '__| |
