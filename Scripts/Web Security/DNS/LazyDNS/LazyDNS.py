@@ -7,7 +7,7 @@ import requests
 import re
 
 def banner():
-    banner = """  
+    banner = r"""  
 
             __      __ 
  /  __     /  )/| )(   

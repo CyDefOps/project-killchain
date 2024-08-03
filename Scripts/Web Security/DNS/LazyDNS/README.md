@@ -27,4 +27,4 @@ Addtionaly it checks for the following.
 
 ## Usage
 
-![](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/assets/chopper/carbon.png)
+![](/Scripts/Web%20Security/DNS/LazyDNS/Assets/image.png)
