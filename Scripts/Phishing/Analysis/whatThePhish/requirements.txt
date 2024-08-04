@@ -1,0 +1,2 @@
+extract_msg==0.30.1
+beautifulsoup4==4.11.1
