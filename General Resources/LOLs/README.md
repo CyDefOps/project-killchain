@@ -7,7 +7,7 @@ Security Researchers have been maintaining a lot of repositories that have been 
 | 1.   | LOLBAS (Living Off The Land Binaries, Scripts and Libraries) | https://lolbas-project.github.io/ |
 | 2.  | LOLDrivers  | https://www.loldrivers.io/ | 
 | 3.  | GTFOBins  | https://gtfobins.github.io/ | 
-| 4.  | LOOBins (Living Off The Orchard | https://www.loobins.io/ |
+| 4.  | LOOBins (Living Off The Orchard) | https://www.loobins.io/ |
 | 5.  | LotsProject | https://lots-project.com/ | 
 | 6.  | FileSec  | https://filesec.io/ | 
 | 7.  | MalApi   | https://malapi.io/ | 
